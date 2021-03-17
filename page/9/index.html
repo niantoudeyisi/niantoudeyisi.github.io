@@ -71,14 +71,14 @@
       <div class="outer">
         <section id="main">
   
-    <article id="post-树莓派安装" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+    <article id="post-idea的基础配置" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
   <div class="article-meta">
-    <a href="/2021/03/16/%E6%A0%91%E8%8E%93%E6%B4%BE%E5%AE%89%E8%A3%85/" class="article-date">
-  <time class="dt-published" datetime="2021-03-16T14:00:58.000Z" itemprop="datePublished">2021-03-16</time>
+    <a href="/2021/03/17/idea%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" class="article-date">
+  <time class="dt-published" datetime="2021-03-17T00:05:20.000Z" itemprop="datePublished">2021-03-17</time>
 </a>
     
   <div class="article-category">
-    <a class="article-category-link" href="/categories/Linux/">Linux</a>►<a class="article-category-link" href="/categories/Linux/%E6%A0%91%E8%8E%93%E6%B4%BE/">树莓派</a>
+    <a class="article-category-link" href="/categories/Backend/">Backend</a>►<a class="article-category-link" href="/categories/Backend/Java/">Java</a>►<a class="article-category-link" href="/categories/Backend/Java/Idea/">Idea</a>
   </div>
 
   </div>
@@ -89,7 +89,7 @@
         
   
     <h1 itemprop="name">
-      <a class="p-name article-title" href="/2021/03/16/%E6%A0%91%E8%8E%93%E6%B4%BE%E5%AE%89%E8%A3%85/">树莓派安装</a>
+      <a class="p-name article-title" href="/2021/03/17/idea%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/">idea的基础配置</a>
     </h1>
   
 
@@ -97,30 +97,41 @@
     
     <div class="e-content article-entry" itemprop="articleBody">
       
-        <h1 id="一-安装前"><a href="#一-安装前" class="headerlink" title="一 安装前"></a>一 安装前</h1><p>​    主要俩个东西 ssh 和 wpa_supplicant.conf</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">country=CN</span><br><span class="line">ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev</span><br><span class="line">update_config=1</span><br><span class="line"></span><br><span class="line">network=&#123;</span><br><span class="line">ssid=<span class="string">&quot;104&quot;</span></span><br><span class="line">psk=<span class="string">&quot;13855380770&quot;</span></span><br><span class="line">key_mgmt=WPA-PSK</span><br><span class="line">priority=1</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>​    如果需要超频还可以</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">force_turbo=0</span><br><span class="line">arm_freq=2000</span><br><span class="line">over_voltage=6</span><br></pre></td></tr></table></figure>
-
-<h1 id="二-安装后"><a href="#二-安装后" class="headerlink" title="二 安装后"></a>二 安装后</h1><p>​    基本上这样就算装好了，还可以修改时区 字体等还能打开vnc端口什么的 。然后改装啥装啥</p>
-<hr>
-<h1 id="三-软件"><a href="#三-软件" class="headerlink" title="三 软件"></a>三 软件</h1><ul>
-<li>docker </li>
+        <h1 id="模板"><a href="#模板" class="headerlink" title="模板"></a>模板</h1><ul>
 <li>java</li>
-<li>frp</li>
-<li>nodejs hexo</li>
-<li></li>
+</ul>
+<figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">#if ($&#123;PACKAGE_NAME&#125; &amp;&amp; $&#123;PACKAGE_NAME&#125; != &quot;&quot;)package $&#123;PACKAGE_NAME&#125;;#end</span><br><span class="line">#parse(&quot;File Header.java&quot;)</span><br><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment"> * <span class="doctag">@author</span> : wxy</span></span><br><span class="line"><span class="comment"> * <span class="doctag">@email</span> : 1146717611@qq.com</span></span><br><span class="line"><span class="comment"> * <span class="doctag">@date</span> : $&#123;DATE&#125; $&#123;TIME&#125;</span></span><br><span class="line"><span class="comment"> * <span class="doctag">@description</span> $&#123;END&#125;</span></span><br><span class="line"><span class="comment"> */</span></span><br><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> $</span>&#123;NAME&#125; &#123;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>interface</li>
+</ul>
+<figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">#if ($&#123;PACKAGE_NAME&#125; &amp;&amp; $&#123;PACKAGE_NAME&#125; != &quot;&quot;)package $&#123;PACKAGE_NAME&#125;;#end</span><br><span class="line">#parse(&quot;File Header.java&quot;)</span><br><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment"> * <span class="doctag">@author</span> : wxy</span></span><br><span class="line"><span class="comment"> * <span class="doctag">@email</span> : 1146717611@qq.com</span></span><br><span class="line"><span class="comment"> * <span class="doctag">@date</span> : $&#123;DATE&#125; $&#123;TIME&#125;</span></span><br><span class="line"><span class="comment"> * <span class="doctag">@description</span> $&#123;END&#125;</span></span><br><span class="line"><span class="comment"> */</span></span><br><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">interface</span> $</span>&#123;NAME&#125; &#123;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>mybatis</li>
+</ul>
+<figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;</span></span><br><span class="line"><span class="meta">&lt;!DOCTYPE <span class="meta-keyword">mapper</span></span></span><br><span class="line"><span class="meta">        <span class="meta-keyword">PUBLIC</span> <span class="meta-string">&quot;-//mybatis.org//DTD Mapper 3.0//EN&quot;</span></span></span><br><span class="line"><span class="meta">        <span class="meta-string">&quot;http://mybatis.org/dtd/mybatis-3-mapper.dtd&quot;</span>&gt;</span></span><br><span class="line"> <span class="tag">&lt;<span class="name">mapper</span> <span class="attr">namespace</span>=<span class="string">&quot;&quot;</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;/<span class="name">mapper</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>datasource</li>
+</ul>
+<figure class="highlight properties"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">jdbc.driverClassName</span>=<span class="string">com.mysql.jdbc.Driver</span></span><br><span class="line"><span class="meta">jdbc.url</span>=<span class="string">jdbc:mysql://192.168.8.201:3306/mydata</span></span><br><span class="line"><span class="meta">jdbc.username</span>=<span class="string"></span></span><br><span class="line"><span class="meta">jdbc.password</span>=<span class="string"></span></span><br></pre></td></tr></table></figure>
+
+<h1 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h1><ul>
+<li>mybatisCodeHelperPro</li>
+</ul>
+<h2 id="好用的辅助软件"><a href="#好用的辅助软件" class="headerlink" title="好用的辅助软件"></a>好用的辅助软件</h2><ul>
+<li>snipaste 复制文档然后F3</li>
 </ul>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://niantoudeyisi.github.com/2021/03/16/%E6%A0%91%E8%8E%93%E6%B4%BE%E5%AE%89%E8%A3%85/" data-id="ckmdejvj4000h93yqefljd9qm" data-title="树莓派安装" class="article-share-link">分享</a>
+      <a data-url="https://niantoudeyisi.github.com/2021/03/17/idea%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" data-id="ckmdfompu000cydyq6sqc7swo" data-title="idea的基础配置" class="article-share-link">分享</a>
       
       
       
-  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Linux/" rel="tag">Linux</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/" rel="tag">树莓派</a></li></ul>
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Idea/" rel="tag">Idea</a></li></ul>
 
     </footer>
   </div>
@@ -134,7 +145,7 @@
 
   <nav id="page-nav">
     
-    <a class="extend prev" rel="prev" href="/page/8/">&laquo; 上一页</a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/7/">7</a><a class="page-number" href="/page/8/">8</a><span class="page-number current">9</span><a class="page-number" href="/page/10/">10</a><a class="page-number" href="/page/11/">11</a><a class="extend next" rel="next" href="/page/10/">下一页 &raquo;</a>
+    <a class="extend prev" rel="prev" href="/page/8/">&laquo; 上一页</a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/7/">7</a><a class="page-number" href="/page/8/">8</a><span class="page-number current">9</span><a class="page-number" href="/page/10/">10</a><a class="page-number" href="/page/11/">11</a><a class="page-number" href="/page/12/">12</a><a class="extend next" rel="next" href="/page/10/">下一页 &raquo;</a>
   </nav>
 
 </section>
@@ -145,7 +156,7 @@
   <div class="widget-wrap">
     <h3 class="widget-title">分类</h3>
     <div class="widget">
-      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/Backend/">Backend</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Backend/Java/">Java</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Backend/Java/Idea/">Idea</a></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/Backend/Rust/">Rust</a></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/Blog/">Blog</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Blog/Hexo/">Hexo</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Blog/Hexo/Base/">Base</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/Blog/Hexo/Bash/">Bash</a></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/Blog/Write/">Write</a></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/Linux/">Linux</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Linux/Openwrt/">Openwrt</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/Linux/Software/">Software</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Linux/Software/V2ray/">V2ray</a></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/Linux/%E6%A0%91%E8%8E%93%E6%B4%BE/">树莓派</a></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E7%94%9F%E6%B4%BB/">生活</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/%E7%94%9F%E6%B4%BB/%E6%89%8B%E6%9C%BA/">手机</a></li></ul></li></ul>
+      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/Backend/">Backend</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Backend/Java/">Java</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Backend/Java/Idea/">Idea</a></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/Backend/Rust/">Rust</a></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/Blog/">Blog</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Blog/Hexo/">Hexo</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Blog/Hexo/Base/">Base</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/Blog/Hexo/Bash/">Bash</a></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/Blog/Write/">Write</a></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/Linux/">Linux</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Linux/Docker/">Docker</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/Linux/Openwrt/">Openwrt</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/Linux/Software/">Software</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Linux/Software/V2ray/">V2ray</a></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/Linux/%E6%A0%91%E8%8E%93%E6%B4%BE/">树莓派</a></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E7%94%9F%E6%B4%BB/">生活</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/%E7%94%9F%E6%B4%BB/%E6%89%8B%E6%9C%BA/">手机</a></li></ul></li></ul>
     </div>
   </div>
 
@@ -155,7 +166,7 @@
   <div class="widget-wrap">
     <h3 class="widget-title">标签</h3>
     <div class="widget">
-      <ul class="tag-list" itemprop="keywords"><li class="tag-list-item"><a class="tag-list-link" href="/tags/Hexo/" rel="tag">Hexo</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Idea/" rel="tag">Idea</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Linux/" rel="tag">Linux</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Openwrt/" rel="tag">Openwrt</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Rust/" rel="tag">Rust</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Shell/" rel="tag">Shell</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Softeare/" rel="tag">Softeare</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Software/" rel="tag">Software</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/V2ray/" rel="tag">V2ray</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/write/" rel="tag">write</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E6%89%8B%E6%9C%BA/" rel="tag">手机</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/" rel="tag">树莓派</a></li></ul>
+      <ul class="tag-list" itemprop="keywords"><li class="tag-list-item"><a class="tag-list-link" href="/tags/Docker/" rel="tag">Docker</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Hexo/" rel="tag">Hexo</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Idea/" rel="tag">Idea</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Linux/" rel="tag">Linux</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Openrt/" rel="tag">Openrt</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Openwrt/" rel="tag">Openwrt</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Rust/" rel="tag">Rust</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Shell/" rel="tag">Shell</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Softeare/" rel="tag">Softeare</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Software/" rel="tag">Software</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/V2ray/" rel="tag">V2ray</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/write/" rel="tag">write</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E6%89%8B%E6%9C%BA/" rel="tag">手机</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/" rel="tag">树莓派</a></li></ul>
     </div>
   </div>
  -->
@@ -165,7 +176,7 @@
   <div class="widget-wrap">
     <h3 class="widget-title">标签云</h3>
     <div class="widget tagcloud">
-      <a href="/tags/Hexo/" style="font-size: 15px;">Hexo</a> <a href="/tags/Idea/" style="font-size: 10px;">Idea</a> <a href="/tags/Linux/" style="font-size: 20px;">Linux</a> <a href="/tags/Openwrt/" style="font-size: 10px;">Openwrt</a> <a href="/tags/Rust/" style="font-size: 10px;">Rust</a> <a href="/tags/Shell/" style="font-size: 10px;">Shell</a> <a href="/tags/Softeare/" style="font-size: 10px;">Softeare</a> <a href="/tags/Software/" style="font-size: 10px;">Software</a> <a href="/tags/V2ray/" style="font-size: 10px;">V2ray</a> <a href="/tags/write/" style="font-size: 10px;">write</a> <a href="/tags/%E6%89%8B%E6%9C%BA/" style="font-size: 10px;">手机</a> <a href="/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/" style="font-size: 15px;">树莓派</a>
+      <a href="/tags/Docker/" style="font-size: 10px;">Docker</a> <a href="/tags/Hexo/" style="font-size: 15px;">Hexo</a> <a href="/tags/Idea/" style="font-size: 10px;">Idea</a> <a href="/tags/Linux/" style="font-size: 20px;">Linux</a> <a href="/tags/Openrt/" style="font-size: 10px;">Openrt</a> <a href="/tags/Openwrt/" style="font-size: 10px;">Openwrt</a> <a href="/tags/Rust/" style="font-size: 10px;">Rust</a> <a href="/tags/Shell/" style="font-size: 10px;">Shell</a> <a href="/tags/Softeare/" style="font-size: 10px;">Softeare</a> <a href="/tags/Software/" style="font-size: 10px;">Software</a> <a href="/tags/V2ray/" style="font-size: 10px;">V2ray</a> <a href="/tags/write/" style="font-size: 10px;">write</a> <a href="/tags/%E6%89%8B%E6%9C%BA/" style="font-size: 10px;">手机</a> <a href="/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/" style="font-size: 20px;">树莓派</a>
     </div>
   </div>
 
@@ -187,6 +198,10 @@
       <ul>
         
           <li>
+            <a href="/2021/03/17/Docker%E6%97%81%E8%B7%AF%E7%94%B1/">Docker旁路由</a>
+          </li>
+        
+          <li>
             <a href="/2021/03/17/Hexo%E7%BB%B4%E6%8A%A4/">Hexo维护</a>
           </li>
         
@@ -200,10 +215,6 @@
         
           <li>
             <a href="/2021/03/17/%E8%B7%AF%E7%94%B1%E5%99%A8%E7%9A%84%E4%B8%80%E4%BA%9B%E9%85%8D%E7%BD%AE/">路由器的一些配置</a>
-          </li>
-        
-          <li>
-            <a href="/2021/03/17/%E6%96%87%E7%AB%A0%E8%A7%84%E5%88%99/">文章规则</a>
           </li>
         
       </ul>
