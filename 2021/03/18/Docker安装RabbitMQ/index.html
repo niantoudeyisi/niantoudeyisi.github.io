@@ -4,14 +4,20 @@
   <meta charset="utf-8">
   
   
-  <title>目录: Software | Ntdys</title>
+  <title>Docker安装RabbitMQ | Ntdys</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta property="og:type" content="website">
-<meta property="og:title" content="Ntdys">
-<meta property="og:url" content="https://niantoudeyisi.github.com/categories/Linux/Software/index.html">
+  <meta name="description" content="安装配置 下载  1docker pull rabbitmq:management   创建容器  1docker run -di --name&#x3D;changgou_rabbitmq -p 5671:5617 -p 5672:5672 -p4369:4369 -p 15671:15671 -p 15672:15672 -p 25672:25672 rabbitmq:management  12345">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Docker安装RabbitMQ">
+<meta property="og:url" content="https://niantoudeyisi.github.com/2021/03/18/Docker%E5%AE%89%E8%A3%85RabbitMQ/index.html">
 <meta property="og:site_name" content="Ntdys">
+<meta property="og:description" content="安装配置 下载  1docker pull rabbitmq:management   创建容器  1docker run -di --name&#x3D;changgou_rabbitmq -p 5671:5617 -p 5672:5672 -p4369:4369 -p 15671:15671 -p 15672:15672 -p 25672:25672 rabbitmq:management  12345">
 <meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2021-03-18T04:48:10.000Z">
+<meta property="article:modified_time" content="2021-03-18T04:53:44.000Z">
 <meta property="article:author" content="ntdys">
+<meta property="article:tag" content="RabbitMQ">
+<meta property="article:tag" content="Docker">
 <meta name="twitter:card" content="summary">
   
   
@@ -69,58 +75,80 @@
 </header>
 
       <div class="outer">
-        <section id="main">
-  
-  
-    
-    
-      
-      
-      <section class="archives-wrap">
-        <div class="archive-year-wrap">
-          <a href="/archives/2021" class="archive-year">2021</a>
-        </div>
-        <div class="archives">
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2021/03/17/Docker%E6%97%81%E8%B7%AF%E7%94%B1/" class="archive-article-date">
-  <time class="dt-published" datetime="2021-03-17T12:25:20.000Z" itemprop="datePublished">3月 17</time>
+        <section id="main"><article id="post-Docker安装RabbitMQ" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/2021/03/18/Docker%E5%AE%89%E8%A3%85RabbitMQ/" class="article-date">
+  <time class="dt-published" datetime="2021-03-18T04:48:10.000Z" itemprop="datePublished">2021-03-18</time>
 </a>
-      
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/Linux/">Linux</a>►<a class="article-category-link" href="/categories/Linux/Docker/">Docker</a>►<a class="article-category-link" href="/categories/Linux/Docker/RabbitMQ/">RabbitMQ</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
   
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2021/03/17/Docker%E6%97%81%E8%B7%AF%E7%94%B1/">Docker旁路由</a>
+    <h1 class="p-name article-title" itemprop="headline name">
+      Docker安装RabbitMQ
     </h1>
   
 
-    </header>
-  </div>
-</article>
-  
+      </header>
     
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2021/03/16/V2ray%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" class="archive-article-date">
-  <time class="dt-published" datetime="2021-03-16T12:53:08.000Z" itemprop="datePublished">3月 16</time>
-</a>
+    <div class="e-content article-entry" itemprop="articleBody">
       
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2021/03/16/V2ray%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/">V2ray基础配置</a>
-    </h1>
-  
+        <h1 id="安装配置"><a href="#安装配置" class="headerlink" title="安装配置"></a>安装配置</h1><ul>
+<li>下载</li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">docker pull rabbitmq:management</span><br></pre></td></tr></table></figure>
 
-    </header>
+<ul>
+<li>创建容器</li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">docker run -di --name=changgou_rabbitmq -p 5671:5617 -p 5672:5672 -p4369:4369 -p 15671:15671 -p 15672:15672 -p 25672:25672 rabbitmq:management</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">解释如下：</span><br><span class="line">15672 (if management plugin is enabled.管理界面 )</span><br><span class="line"></span><br><span class="line">15671 management监听端口</span><br><span class="line"></span><br><span class="line">5672, 5671 (AMQP 0-9-1 without and with TLS 消息队列协议是一个消息协议)</span><br><span class="line"></span><br><span class="line">4369 (epmd) epmd 代表 Erlang 端口映射守护进程</span><br><span class="line"></span><br><span class="line">25672 (Erlang distribution)</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>后台访问</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">http:&#x2F;&#x2F;192.168.8.106:15672&#x2F;</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>设置开机自启</li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">docker update --restart=always 容器ID</span><br></pre></td></tr></table></figure>
+
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="https://niantoudeyisi.github.com/2021/03/18/Docker%E5%AE%89%E8%A3%85RabbitMQ/" data-id="ckmefktza0001ycyqh9oi8mo0" data-title="Docker安装RabbitMQ" class="article-share-link">分享</a>
+      
+      
+      
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Docker/" rel="tag">Docker</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/RabbitMQ/" rel="tag">RabbitMQ</a></li></ul>
+
+    </footer>
   </div>
+  
+    
+<nav id="article-nav">
+  
+  
+    <a href="/2021/03/17/Linux%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">后一篇</strong>
+      <div class="article-nav-title">Linux基础配置</div>
+    </a>
+  
+</nav>
+
+  
 </article>
-  
-  
-    </div></section>
-  
 
 
 </section>
