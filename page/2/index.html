@@ -71,10 +71,10 @@
       <div class="outer">
         <section id="main">
   
-    <article id="post-树莓派的基础配置" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+    <article id="post-树莓派迁移" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
   <div class="article-meta">
-    <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" class="article-date">
-  <time class="dt-published" datetime="2021-03-20T10:20:38.118Z" itemprop="datePublished">2021-03-20</time>
+    <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E8%BF%81%E7%A7%BB/" class="article-date">
+  <time class="dt-published" datetime="2021-03-20T08:40:41.000Z" itemprop="datePublished">2021-03-20</time>
 </a>
     
   <div class="article-category">
@@ -89,7 +89,7 @@
         
   
     <h1 itemprop="name">
-      <a class="p-name article-title" href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/">树莓派的基础配置</a>
+      <a class="p-name article-title" href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E8%BF%81%E7%A7%BB/">树莓派迁移</a>
     </h1>
   
 
@@ -97,21 +97,56 @@
     
     <div class="e-content article-entry" itemprop="articleBody">
       
-        <h1 id="一-常用软件"><a href="#一-常用软件" class="headerlink" title="一 常用软件"></a>一 常用软件</h1><figure class="highlight properties"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">tomcat</span>   <span class="string"></span></span><br><span class="line"><span class="attr">zookeeper</span></span><br><span class="line"><span class="attr">mysql</span>           <span class="string">自启</span></span><br><span class="line"><span class="attr">docker</span> <span class="string">openwrt  自启</span></span><br><span class="line"><span class="attr">java</span></span><br></pre></td></tr></table></figure>
+        <h1 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h1><p>树莓派换个硬盘。打算用docker整个elasticsearch 集群环境</p>
+<h1 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h1><ul>
+<li>hexo </li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># hexo目录生成一下 然后推送到github page</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 打包一下 hexo文件夹</span></span><br></pre></td></tr></table></figure>
 
-<h1 id="二-docker"><a href="#二-docker" class="headerlink" title="二 docker"></a>二 docker</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 创建网络</span></span><br><span class="line">docker network create -d macvlan --subnet=192.168.8.0/24 --gateway=192.168.8.1 -o parent=eth0 macnet</span><br><span class="line"></span><br><span class="line">docker create \</span><br><span class="line">    --restart unless-stopped  \</span><br><span class="line">    --network macnet  \</span><br><span class="line">    --privileged \</span><br><span class="line">    --name openwrt \</span><br><span class="line">    -v /etc/resolv.conf:/etc/resolv.conf \</span><br><span class="line">   sulinggg/openwrt \</span><br><span class="line">    /sbin/init</span><br><span class="line">    </span><br><span class="line"></span><br><span class="line">docker create --restart unless-stopped   --network macnet  --privileged --name openwrt -v /etc/resolv.conf:/etc/resolv.conf sulinggg/openwrt:latest /sbin/init</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8090</span><br></pre></td></tr></table></figure>
+<ul>
+<li>npm</li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">v13.14</span><br><span class="line"><span class="comment"># 整个环境打成tar包走</span></span><br></pre></td></tr></table></figure>
 
+<ul>
+<li>profile环境</li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">export</span> JAVA_HOME=/usr/<span class="built_in">local</span>/java/jdk1.8</span><br><span class="line"><span class="built_in">export</span> JRE_HOME=<span class="variable">$JAVA_HOME</span>/jre</span><br><span class="line"><span class="built_in">export</span> CLASSPATH=.:<span class="variable">$JAVA_HOME</span>/lib/dt.jar:<span class="variable">$JRE_HOME</span>/lib:<span class="variable">$JAVA_HOME</span>/lib/tools.jar</span><br><span class="line"><span class="built_in">export</span> PATH=<span class="variable">$PATH</span>:<span class="variable">$JAVA_HOME</span>/bin:<span class="variable">$JRE_HOME</span>/bin:<span class="variable">$CLASSPATH</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">export</span> NODEJS=/usr/<span class="built_in">local</span>/node</span><br><span class="line"><span class="built_in">export</span> PATH=<span class="variable">$PATH</span>:<span class="variable">$NODEJS</span>/node-v13.14/bin</span><br><span class="line"></span><br></pre></td></tr></table></figure>
 
+<ul>
+<li>java</li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 备份一下jdk</span></span><br></pre></td></tr></table></figure>
 
+<ul>
+<li>docker</li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 到时候脚本安装</span></span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>tomcat不需要了 以后都是springboot</li>
+<li>mysql 到时候整个</li>
+<li>zookeeper 也不用了</li>
+<li>还有git 、 neofetch 、 screenfetch等</li>
+</ul>
+<p>好像没东西了</p>
+<hr>
+<p>还有 树莓派的时区配置 软件源配置。</p>
+<p>更想用arch。可惜archlinuxarm有点问题。玩arch还是的x86</p>
+<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><ul>
+<li>把自己的脚本 和 开发环境放到 /usr/local 日后换机器直接tar包大迁移</li>
+<li>hexo 直接打包即可</li>
+<li>别的需要再装</li>
+</ul>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://niantoudeyisi.github.com/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" data-id="ckmhl433t000uqayqbmlhf2pv" data-title="树莓派的基础配置" class="article-share-link">分享</a>
+      <a data-url="https://niantoudeyisi.github.com/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E8%BF%81%E7%A7%BB/" data-id="ckmhlah6a000uweyq36tk1n46" data-title="树莓派迁移" class="article-share-link">分享</a>
       
       
       
-  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Base/" rel="tag">Base</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Linux/" rel="tag">Linux</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/" rel="tag">树莓派</a></li></ul>
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/" rel="tag">树莓派</a></li></ul>
 
     </footer>
   </div>
@@ -125,7 +160,7 @@
 
   <nav id="page-nav">
     
-    <a class="extend prev" rel="prev" href="/">&laquo; 上一页</a><a class="page-number" href="/">1</a><span class="page-number current">2</span><a class="page-number" href="/page/3/">3</a><a class="page-number" href="/page/4/">4</a><span class="space">&hellip;</span><a class="page-number" href="/page/16/">16</a><a class="extend next" rel="next" href="/page/3/">下一页 &raquo;</a>
+    <a class="extend prev" rel="prev" href="/">&laquo; 上一页</a><a class="page-number" href="/">1</a><span class="page-number current">2</span><a class="page-number" href="/page/3/">3</a><a class="page-number" href="/page/4/">4</a><span class="space">&hellip;</span><a class="page-number" href="/page/15/">15</a><a class="extend next" rel="next" href="/page/3/">下一页 &raquo;</a>
   </nav>
 
 </section>
@@ -165,7 +200,7 @@
   <div class="widget-wrap">
     <h3 class="widget-title">归档</h3>
     <div class="widget">
-      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2021/03/">三月 2021</a><span class="archive-list-count">16</span></li></ul>
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2021/03/">三月 2021</a><span class="archive-list-count">15</span></li></ul>
     </div>
   </div>
 
@@ -176,10 +211,6 @@
     <h3 class="widget-title">最新文章</h3>
     <div class="widget">
       <ul>
-        
-          <li>
-            <a href="/2021/03/20/hello-world/">Hello World</a>
-          </li>
         
           <li>
             <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/">树莓派的基础配置</a>
@@ -195,6 +226,10 @@
         
           <li>
             <a href="/2021/03/18/Docker%E5%AE%89%E8%A3%85RabbitMQ/">Docker安装RabbitMQ</a>
+          </li>
+        
+          <li>
+            <a href="/2021/03/17/Linux%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/">Linux基础配置</a>
           </li>
         
       </ul>

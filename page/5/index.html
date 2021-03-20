@@ -71,14 +71,14 @@
       <div class="outer">
         <section id="main">
   
-    <article id="post-Docker安装RabbitMQ" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+    <article id="post-Linux基础配置" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
   <div class="article-meta">
-    <a href="/2021/03/18/Docker%E5%AE%89%E8%A3%85RabbitMQ/" class="article-date">
-  <time class="dt-published" datetime="2021-03-18T04:48:10.000Z" itemprop="datePublished">2021-03-18</time>
+    <a href="/2021/03/17/Linux%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" class="article-date">
+  <time class="dt-published" datetime="2021-03-17T12:45:27.000Z" itemprop="datePublished">2021-03-17</time>
 </a>
     
   <div class="article-category">
-    <a class="article-category-link" href="/categories/Linux/">Linux</a>►<a class="article-category-link" href="/categories/Linux/Docker/">Docker</a>►<a class="article-category-link" href="/categories/Linux/Docker/RabbitMQ/">RabbitMQ</a>
+    <a class="article-category-link" href="/categories/Linux/">Linux</a>►<a class="article-category-link" href="/categories/Linux/Base/">Base</a>
   </div>
 
   </div>
@@ -89,7 +89,7 @@
         
   
     <h1 itemprop="name">
-      <a class="p-name article-title" href="/2021/03/18/Docker%E5%AE%89%E8%A3%85RabbitMQ/">Docker安装RabbitMQ</a>
+      <a class="p-name article-title" href="/2021/03/17/Linux%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/">Linux基础配置</a>
     </h1>
   
 
@@ -97,37 +97,30 @@
     
     <div class="e-content article-entry" itemprop="articleBody">
       
-        <h1 id="安装配置"><a href="#安装配置" class="headerlink" title="安装配置"></a>安装配置</h1><ul>
-<li>下载</li>
-</ul>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">docker pull rabbitmq:management</span><br></pre></td></tr></table></figure>
+        <h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">修改密码</span><br><span class="line"></span><br><span class="line">配置neofetch / screenfetch </span><br><span class="line"></span><br><span class="line">安装数据库 </span><br><span class="line">配置java环境</span><br><span class="line"></span><br><span class="line">安装node hexo 备份过来博客环境</span><br></pre></td></tr></table></figure>
 
-<ul>
-<li>创建容器</li>
-</ul>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">docker run -di --name=changgou_rabbitmq -p 5671:5617 -p 5672:5672 -p4369:4369 -p 15671:15671 -p 15672:15672 -p 25672:25672 rabbitmq:management</span><br></pre></td></tr></table></figure>
 
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">解释如下：</span><br><span class="line">15672 (if management plugin is enabled.管理界面 )</span><br><span class="line"></span><br><span class="line">15671 management监听端口</span><br><span class="line"></span><br><span class="line">5672, 5671 (AMQP 0-9-1 without and with TLS 消息队列协议是一个消息协议)</span><br><span class="line"></span><br><span class="line">4369 (epmd) epmd 代表 Erlang 端口映射守护进程</span><br><span class="line"></span><br><span class="line">25672 (Erlang distribution)</span><br></pre></td></tr></table></figure>
 
-<ul>
-<li>后台访问</li>
-</ul>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">http:&#x2F;&#x2F;192.168.8.106:15672&#x2F;</span><br></pre></td></tr></table></figure>
 
-<ul>
-<li>设置开机自启</li>
-</ul>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">docker update --restart=always 容器ID</span><br></pre></td></tr></table></figure>
 
+
+
+
+
+
+
+
+
+<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>记一下每次安装Linux要做的事 方便cv</p>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://niantoudeyisi.github.com/2021/03/18/Docker%E5%AE%89%E8%A3%85RabbitMQ/" data-id="ckmhl42xy0001qayq00o991n9" data-title="Docker安装RabbitMQ" class="article-share-link">分享</a>
+      <a data-url="https://niantoudeyisi.github.com/2021/03/17/Linux%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" data-id="ckmhlah2q0008weyq1yjm8ty2" data-title="Linux基础配置" class="article-share-link">分享</a>
       
       
       
-  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Docker/" rel="tag">Docker</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/RabbitMQ/" rel="tag">RabbitMQ</a></li></ul>
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Base/" rel="tag">Base</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Linux/" rel="tag">Linux</a></li></ul>
 
     </footer>
   </div>
@@ -141,7 +134,7 @@
 
   <nav id="page-nav">
     
-    <a class="extend prev" rel="prev" href="/page/4/">&laquo; 上一页</a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/3/">3</a><a class="page-number" href="/page/4/">4</a><span class="page-number current">5</span><a class="page-number" href="/page/6/">6</a><a class="page-number" href="/page/7/">7</a><span class="space">&hellip;</span><a class="page-number" href="/page/16/">16</a><a class="extend next" rel="next" href="/page/6/">下一页 &raquo;</a>
+    <a class="extend prev" rel="prev" href="/page/4/">&laquo; 上一页</a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/3/">3</a><a class="page-number" href="/page/4/">4</a><span class="page-number current">5</span><a class="page-number" href="/page/6/">6</a><a class="page-number" href="/page/7/">7</a><span class="space">&hellip;</span><a class="page-number" href="/page/15/">15</a><a class="extend next" rel="next" href="/page/6/">下一页 &raquo;</a>
   </nav>
 
 </section>
@@ -181,7 +174,7 @@
   <div class="widget-wrap">
     <h3 class="widget-title">归档</h3>
     <div class="widget">
-      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2021/03/">三月 2021</a><span class="archive-list-count">16</span></li></ul>
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2021/03/">三月 2021</a><span class="archive-list-count">15</span></li></ul>
     </div>
   </div>
 
@@ -192,10 +185,6 @@
     <h3 class="widget-title">最新文章</h3>
     <div class="widget">
       <ul>
-        
-          <li>
-            <a href="/2021/03/20/hello-world/">Hello World</a>
-          </li>
         
           <li>
             <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/">树莓派的基础配置</a>
@@ -211,6 +200,10 @@
         
           <li>
             <a href="/2021/03/18/Docker%E5%AE%89%E8%A3%85RabbitMQ/">Docker安装RabbitMQ</a>
+          </li>
+        
+          <li>
+            <a href="/2021/03/17/Linux%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/">Linux基础配置</a>
           </li>
         
       </ul>
