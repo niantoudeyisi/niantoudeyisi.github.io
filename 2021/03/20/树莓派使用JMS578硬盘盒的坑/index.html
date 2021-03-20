@@ -4,14 +4,19 @@
   <meta charset="utf-8">
   
   
-  <title>归档 | Ntdys</title>
+  <title>树莓派使用JMS578硬盘盒的坑 | Ntdys</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta property="og:type" content="website">
-<meta property="og:title" content="Ntdys">
-<meta property="og:url" content="https://niantoudeyisi.github.com/archives/index.html">
+  <meta name="description" content="起因不知道是不是sd卡的原因跑docker cpu降频。 docker关了又恢复了。 手里有快闲置的固态硬盘，就寻思着整个硬盘盒给树莓派升级一下配置。 然后测试用U盘可以启动，因该是固件升级过了。直接用硬盘盒启动，发现怎么也启动不了。又没有屏幕。就在网上找。 发现 幻者 的博客 。折腾一下就能用了。 操作正常启动时 usb外接硬盘  1lsusb  查看硬件id号 在修改 硬盘盒的boot文件 1">
+<meta property="og:type" content="article">
+<meta property="og:title" content="树莓派使用JMS578硬盘盒的坑">
+<meta property="og:url" content="https://niantoudeyisi.github.com/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E4%BD%BF%E7%94%A8JMS578%E7%A1%AC%E7%9B%98%E7%9B%92%E7%9A%84%E5%9D%91/index.html">
 <meta property="og:site_name" content="Ntdys">
+<meta property="og:description" content="起因不知道是不是sd卡的原因跑docker cpu降频。 docker关了又恢复了。 手里有快闲置的固态硬盘，就寻思着整个硬盘盒给树莓派升级一下配置。 然后测试用U盘可以启动，因该是固件升级过了。直接用硬盘盒启动，发现怎么也启动不了。又没有屏幕。就在网上找。 发现 幻者 的博客 。折腾一下就能用了。 操作正常启动时 usb外接硬盘  1lsusb  查看硬件id号 在修改 硬盘盒的boot文件 1">
 <meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2021-03-20T08:29:37.000Z">
+<meta property="article:modified_time" content="2021-03-20T08:44:02.000Z">
 <meta property="article:author" content="ntdys">
+<meta property="article:tag" content="树莓派">
 <meta name="twitter:card" content="summary">
   
   
@@ -69,216 +74,86 @@
 </header>
 
       <div class="outer">
-        <section id="main">
-  
-  
-    
-    
-      
-      
-      <section class="archives-wrap">
-        <div class="archive-year-wrap">
-          <a href="/archives/2021" class="archive-year">2021</a>
-        </div>
-        <div class="archives">
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E6%95%B0%E6%8D%AE%E8%BF%81%E7%A7%BB/" class="archive-article-date">
-  <time class="dt-published" datetime="2021-03-20T08:40:41.000Z" itemprop="datePublished">3月 20</time>
+        <section id="main"><article id="post-树莓派使用JMS578硬盘盒的坑" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E4%BD%BF%E7%94%A8JMS578%E7%A1%AC%E7%9B%98%E7%9B%92%E7%9A%84%E5%9D%91/" class="article-date">
+  <time class="dt-published" datetime="2021-03-20T08:29:37.000Z" itemprop="datePublished">2021-03-20</time>
 </a>
-      
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/Linux/">Linux</a>►<a class="article-category-link" href="/categories/Linux/%E6%A0%91%E8%8E%93%E6%B4%BE/">树莓派</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
   
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E6%95%B0%E6%8D%AE%E8%BF%81%E7%A7%BB/">树莓派数据迁移</a>
+    <h1 class="p-name article-title" itemprop="headline name">
+      树莓派使用JMS578硬盘盒的坑
     </h1>
   
 
-    </header>
-  </div>
-</article>
-  
+      </header>
     
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E4%BD%BF%E7%94%A8JMS578%E7%A1%AC%E7%9B%98%E7%9B%92%E7%9A%84%E5%9D%91/" class="archive-article-date">
-  <time class="dt-published" datetime="2021-03-20T08:29:37.000Z" itemprop="datePublished">3月 20</time>
-</a>
+    <div class="e-content article-entry" itemprop="articleBody">
       
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E4%BD%BF%E7%94%A8JMS578%E7%A1%AC%E7%9B%98%E7%9B%92%E7%9A%84%E5%9D%91/">树莓派使用JMS578硬盘盒的坑</a>
-    </h1>
-  
+        <h1 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h1><p>不知道是不是sd卡的原因跑docker cpu降频。 docker关了又恢复了。</p>
+<p>手里有快闲置的固态硬盘，就寻思着整个硬盘盒给树莓派升级一下配置。</p>
+<p>然后测试用U盘可以启动，因该是固件升级过了。直接用硬盘盒启动，发现怎么也启动不了。又没有屏幕。就在网上找。</p>
+<p>发现 <a target="_blank" rel="noopener" href="https://www.cnblogs.com/iamy/p/14482259.html">幻者</a> 的博客 。折腾一下就能用了。</p>
+<h1 id="操作"><a href="#操作" class="headerlink" title="操作"></a>操作</h1><p>正常启动时 usb外接硬盘 </p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">lsusb</span><br></pre></td></tr></table></figure>
 
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2021/03/18/Docker%E5%AE%89%E8%A3%85RabbitMQ/" class="archive-article-date">
-  <time class="dt-published" datetime="2021-03-18T04:48:10.000Z" itemprop="datePublished">3月 18</time>
-</a>
+<p>查看硬件id号</p>
+<p>在修改 硬盘盒的boot文件</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">nano /boot/cmdline.txt</span><br><span class="line"><span class="comment"># 开头加上 刚刚的id号</span></span><br><span class="line">usb-storage.quirks=152d:0578:u</span><br></pre></td></tr></table></figure>
+
+
+
+
+
+
+
+<h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><p><a target="_blank" rel="noopener" href="https://www.cnblogs.com/iamy/p/14482259.html">幻者</a> 大佬</p>
+
       
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2021/03/18/Docker%E5%AE%89%E8%A3%85RabbitMQ/">Docker安装RabbitMQ</a>
-    </h1>
-  
-
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2021/03/17/Linux%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" class="archive-article-date">
-  <time class="dt-published" datetime="2021-03-17T12:45:27.000Z" itemprop="datePublished">3月 17</time>
-</a>
+    </div>
+    <footer class="article-footer">
+      <a data-url="https://niantoudeyisi.github.com/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E4%BD%BF%E7%94%A8JMS578%E7%A1%AC%E7%9B%98%E7%9B%92%E7%9A%84%E5%9D%91/" data-id="ckmhhj51u000pr0yq26ar2e34" data-title="树莓派使用JMS578硬盘盒的坑" class="article-share-link">分享</a>
       
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2021/03/17/Linux%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/">Linux基础配置</a>
-    </h1>
-  
-
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2021/03/17/Docker%E6%97%81%E8%B7%AF%E7%94%B1/" class="archive-article-date">
-  <time class="dt-published" datetime="2021-03-17T12:25:20.000Z" itemprop="datePublished">3月 17</time>
-</a>
       
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2021/03/17/Docker%E6%97%81%E8%B7%AF%E7%94%B1/">Docker旁路由</a>
-    </h1>
-  
-
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2021/03/17/Hexo%E7%BB%B4%E6%8A%A4/" class="archive-article-date">
-  <time class="dt-published" datetime="2021-03-17T11:54:51.000Z" itemprop="datePublished">3月 17</time>
-</a>
       
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2021/03/17/Hexo%E7%BB%B4%E6%8A%A4/">Hexo维护</a>
-    </h1>
-  
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/" rel="tag">树莓派</a></li></ul>
 
-    </header>
+    </footer>
   </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E6%95%B0%E6%8D%AE%E8%BF%81%E7%A7%BB/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">前一篇</strong>
+      <div class="article-nav-title">
+        
+          树莓派数据迁移
+        
+      </div>
+    </a>
+  
+  
+    <a href="/2021/03/18/Docker%E5%AE%89%E8%A3%85RabbitMQ/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">后一篇</strong>
+      <div class="article-nav-title">Docker安装RabbitMQ</div>
+    </a>
+  
+</nav>
+
+  
 </article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2021/03/17/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" class="archive-article-date">
-  <time class="dt-published" datetime="2021-03-17T02:56:25.394Z" itemprop="datePublished">3月 17</time>
-</a>
-      
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2021/03/17/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/">树莓派的基础配置</a>
-    </h1>
-  
 
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2021/03/17/Hexo%E6%90%AD%E5%BB%BA/" class="archive-article-date">
-  <time class="dt-published" datetime="2021-03-17T01:01:33.000Z" itemprop="datePublished">3月 17</time>
-</a>
-      
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2021/03/17/Hexo%E6%90%AD%E5%BB%BA/">Hexo搭建</a>
-    </h1>
-  
-
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2021/03/17/%E8%B7%AF%E7%94%B1%E5%99%A8%E7%9A%84%E4%B8%80%E4%BA%9B%E9%85%8D%E7%BD%AE/" class="archive-article-date">
-  <time class="dt-published" datetime="2021-03-17T00:53:58.000Z" itemprop="datePublished">3月 17</time>
-</a>
-      
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2021/03/17/%E8%B7%AF%E7%94%B1%E5%99%A8%E7%9A%84%E4%B8%80%E4%BA%9B%E9%85%8D%E7%BD%AE/">路由器的一些配置</a>
-    </h1>
-  
-
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2021/03/17/%E6%96%87%E7%AB%A0%E8%A7%84%E5%88%99/" class="archive-article-date">
-  <time class="dt-published" datetime="2021-03-17T00:47:59.000Z" itemprop="datePublished">3月 17</time>
-</a>
-      
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2021/03/17/%E6%96%87%E7%AB%A0%E8%A7%84%E5%88%99/">文章规则</a>
-    </h1>
-  
-
-    </header>
-  </div>
-</article>
-  
-  
-    </div></section>
-  
-
-
-  <nav id="page-nav">
-    
-    <span class="page-number current">1</span><a class="page-number" href="/archives/page/2/">2</a><a class="extend next" rel="next" href="/archives/page/2/">下一页 &raquo;</a>
-  </nav>
 
 </section>
         
