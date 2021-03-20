@@ -71,14 +71,14 @@
       <div class="outer">
         <section id="main">
   
-    <article id="post-Docker加速镜像" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+    <article id="post-Git基础配置" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
   <div class="article-meta">
-    <a href="/2021/03/20/Docker%E5%8A%A0%E9%80%9F%E9%95%9C%E5%83%8F/" class="article-date">
-  <time class="dt-published" datetime="2021-03-20T10:44:08.000Z" itemprop="datePublished">2021-03-20</time>
+    <a href="/2021/03/20/Git%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" class="article-date">
+  <time class="dt-published" datetime="2021-03-20T09:47:43.000Z" itemprop="datePublished">2021-03-20</time>
 </a>
     
   <div class="article-category">
-    <a class="article-category-link" href="/categories/Linux/">Linux</a>►<a class="article-category-link" href="/categories/Linux/Docker/">Docker</a>
+    <a class="article-category-link" href="/categories/Linux/">Linux</a>►<a class="article-category-link" href="/categories/Linux/Software/">Software</a>►<a class="article-category-link" href="/categories/Linux/Software/Git/">Git</a>
   </div>
 
   </div>
@@ -89,7 +89,7 @@
         
   
     <h1 itemprop="name">
-      <a class="p-name article-title" href="/2021/03/20/Docker%E5%8A%A0%E9%80%9F%E9%95%9C%E5%83%8F/">Docker加速镜像</a>
+      <a class="p-name article-title" href="/2021/03/20/Git%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/">Git基础配置</a>
     </h1>
   
 
@@ -97,17 +97,36 @@
     
     <div class="e-content article-entry" itemprop="articleBody">
       
-        <h1 id="简单的配置"><a href="#简单的配置" class="headerlink" title="简单的配置"></a>简单的配置</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">sudo mkdir -p /etc/docker</span><br><span class="line">sudo tee /etc/docker/daemon.json &lt;&lt;-<span class="string">&#x27;EOF&#x27;</span></span><br><span class="line">&#123;</span><br><span class="line">  <span class="string">&quot;registry-mirrors&quot;</span>: [<span class="string">&quot;https://xxxxx.mirror.aliyuncs.com&quot;</span>]</span><br><span class="line">&#125;</span><br><span class="line">EOF</span><br><span class="line">sudo systemctl daemon-reload</span><br><span class="line">sudo systemctl restart docker</span><br></pre></td></tr></table></figure>
+        <h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p>为了日后复用 git配置 故写之</p>
+<h1 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h1><ul>
+<li>配置git config </li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.name <span class="string">&quot;name&quot;</span></span><br><span class="line">git config --global user.email <span class="string">&quot;email&quot;</span></span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>生成秘钥</li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 先创建.ssh目录</span></span><br><span class="line">ssh-keygen -t rsa -C <span class="string">&quot;1146717611@qq.com&quot;</span> -f <span class="string">&quot;github_id_rsa&quot;</span></span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>创建config文件 避免ssh冲突</li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># gitee</span></span><br><span class="line"></span><br><span class="line">Host gitee.com</span><br><span class="line">HostName gitee.com</span><br><span class="line">PreferredAuthentications publickey</span><br><span class="line">IdentityFile ~/.ssh/gitee_id_rsa</span><br><span class="line"></span><br><span class="line"><span class="comment"># github</span></span><br><span class="line"></span><br><span class="line">Host github.com</span><br><span class="line">HostName github.com</span><br><span class="line">PreferredAuthentications publickey</span><br><span class="line">IdentityFile ~/.ssh/github_id_rsa</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>测试</li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure>
 
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://niantoudeyisi.github.com/2021/03/20/Docker%E5%8A%A0%E9%80%9F%E9%95%9C%E5%83%8F/" data-id="ckmhocmc800013qyq2ouwdr9f" data-title="Docker加速镜像" class="article-share-link">分享</a>
+      <a data-url="https://niantoudeyisi.github.com/2021/03/20/Git%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" data-id="ckmhogh8w0007atyq5u9379qx" data-title="Git基础配置" class="article-share-link">分享</a>
       
       
       
-  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Docker/" rel="tag">Docker</a></li></ul>
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Git/" rel="tag">Git</a></li></ul>
 
     </footer>
   </div>
@@ -174,10 +193,6 @@
       <ul>
         
           <li>
-            <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/">树莓派的基础配置</a>
-          </li>
-        
-          <li>
             <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E5%AE%89%E8%A3%85Mariadb10/">树莓派安装Mariadb10</a>
           </li>
         
@@ -191,6 +206,10 @@
         
           <li>
             <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E8%BF%81%E7%A7%BB/">树莓派迁移</a>
+          </li>
+        
+          <li>
+            <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E4%BD%BF%E7%94%A8JMS578%E7%A1%AC%E7%9B%98%E7%9B%92%E7%9A%84%E5%9D%91/">树莓派使用JMS578硬盘盒的坑</a>
           </li>
         
       </ul>

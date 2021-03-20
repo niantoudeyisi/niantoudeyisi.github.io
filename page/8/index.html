@@ -71,14 +71,14 @@
       <div class="outer">
         <section id="main">
   
-    <article id="post-Linux基础配置" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+    <article id="post-Docker旁路由" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
   <div class="article-meta">
-    <a href="/2021/03/17/Linux%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" class="article-date">
-  <time class="dt-published" datetime="2021-03-17T12:45:27.000Z" itemprop="datePublished">2021-03-17</time>
+    <a href="/2021/03/17/Docker%E6%97%81%E8%B7%AF%E7%94%B1/" class="article-date">
+  <time class="dt-published" datetime="2021-03-17T12:25:20.000Z" itemprop="datePublished">2021-03-17</time>
 </a>
     
   <div class="article-category">
-    <a class="article-category-link" href="/categories/Linux/">Linux</a>►<a class="article-category-link" href="/categories/Linux/Base/">Base</a>
+    <a class="article-category-link" href="/categories/Linux/">Linux</a>►<a class="article-category-link" href="/categories/Linux/Docker/">Docker</a>►<a class="article-category-link" href="/categories/Linux/Openwrt/">Openwrt</a>►<a class="article-category-link" href="/categories/Linux/Software/">Software</a>
   </div>
 
   </div>
@@ -89,7 +89,7 @@
         
   
     <h1 itemprop="name">
-      <a class="p-name article-title" href="/2021/03/17/Linux%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/">Linux基础配置</a>
+      <a class="p-name article-title" href="/2021/03/17/Docker%E6%97%81%E8%B7%AF%E7%94%B1/">Docker旁路由</a>
     </h1>
   
 
@@ -97,30 +97,33 @@
     
     <div class="e-content article-entry" itemprop="articleBody">
       
-        <h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">修改密码</span><br><span class="line"></span><br><span class="line">配置neofetch / screenfetch </span><br><span class="line"></span><br><span class="line">安装数据库 </span><br><span class="line">配置java环境</span><br><span class="line"></span><br><span class="line">安装node hexo 备份过来博客环境</span><br></pre></td></tr></table></figure>
+        <h1 id="安装Docker"><a href="#安装Docker" class="headerlink" title="安装Docker"></a>安装Docker</h1><p>树莓派脚本安装Docker <a target="_blank" rel="noopener" href="https://get.docker.com/">https://get.docker.com/</a></p>
+<h1 id="配置环境"><a href="#配置环境" class="headerlink" title="配置环境"></a>配置环境</h1><p>开启网卡混杂模式</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ip link <span class="built_in">set</span> eth0 promisc on</span><br></pre></td></tr></table></figure>
+
+<p>创建macvlan网络</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">docker network create -d macvlan --subnet=192.168.2.0/24 --gateway=192.168.2.1 -o parent=eth0 macnet</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h1 id="拉取镜像"><a href="#拉取镜像" class="headerlink" title="拉取镜像"></a>拉取镜像</h1><p>推荐SuLingGG大佬的docker 镜像 </p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">docker pull registry.cn-shanghai.aliyuncs.com/suling/openwrt:latest</span><br><span class="line"></span><br><span class="line">docker pull sulinggg/openwrt:latest</span><br></pre></td></tr></table></figure>
+
+<h1 id="启动镜像"><a href="#启动镜像" class="headerlink" title="启动镜像"></a>启动镜像</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">docker create \</span><br><span class="line">    --restart unless-stopped  \</span><br><span class="line">    --network macnet  \</span><br><span class="line">    --privileged \</span><br><span class="line">    --name openwrt \</span><br><span class="line">    -v /etc/resolv.conf:/etc/resolv.conf \</span><br><span class="line">    -v /mnt/sda1:/home/harddisk/ \</span><br><span class="line">    openwrt-pi4:latest \</span><br><span class="line">    /sbin/init</span><br><span class="line">    </span><br><span class="line">    </span><br><span class="line">docker start openwrt</span><br></pre></td></tr></table></figure>
 
 
 
+<h2 id="修改镜像配置"><a href="#修改镜像配置" class="headerlink" title="修改镜像配置"></a>修改镜像配置</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line">docker <span class="built_in">exec</span> -it openwrt bash</span><br><span class="line"></span><br><span class="line">vi /etc/config/network</span><br><span class="line">config interface <span class="string">&#x27;lan&#x27;</span></span><br><span class="line">        option <span class="built_in">type</span> <span class="string">&#x27;bridge&#x27;</span></span><br><span class="line">        option ifname <span class="string">&#x27;eth0&#x27;</span></span><br><span class="line">        option proto <span class="string">&#x27;static&#x27;</span></span><br><span class="line">        option ipaddr <span class="string">&#x27;192.168.2.240&#x27;</span></span><br><span class="line">        option netmask <span class="string">&#x27;255.255.255.0&#x27;</span></span><br><span class="line">        option ip6assign <span class="string">&#x27;60&#x27;</span></span><br><span class="line">        option gateway <span class="string">&#x27;192.168.2.1&#x27;</span></span><br><span class="line">        option broadcast <span class="string">&#x27;192.168.2.255&#x27;</span></span><br><span class="line">        option dns <span class="string">&#x27;192.168.2.240&#x27;</span></span><br><span class="line">        </span><br><span class="line">        </span><br><span class="line">        </span><br><span class="line">/etc/init.d/network restart</span><br><span class="line"></span><br><span class="line"></span><br></pre></td></tr></table></figure>
 
-
-
-
-
-
-
-
-
-
-<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>记一下每次安装Linux要做的事 方便cv</p>
+<p>openwrt 主要不要使用桥接 和 DHCP</p>
+<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>详情见  大佬连接 凯风快晴 <a target="_blank" rel="noopener" href="https://blog.sillyson.com/">https://blog.sillyson.com/</a></p>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://niantoudeyisi.github.com/2021/03/17/Linux%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" data-id="ckmhocmfg000d3qyq5jxm3cqb" data-title="Linux基础配置" class="article-share-link">分享</a>
+      <a data-url="https://niantoudeyisi.github.com/2021/03/17/Docker%E6%97%81%E8%B7%AF%E7%94%B1/" data-id="ckmhogh8l0006atyqhciy4eie" data-title="Docker旁路由" class="article-share-link">分享</a>
       
       
       
-  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Base/" rel="tag">Base</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Linux/" rel="tag">Linux</a></li></ul>
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Docker/" rel="tag">Docker</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Openrt/" rel="tag">Openrt</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/" rel="tag">树莓派</a></li></ul>
 
     </footer>
   </div>
@@ -187,10 +190,6 @@
       <ul>
         
           <li>
-            <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/">树莓派的基础配置</a>
-          </li>
-        
-          <li>
             <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E5%AE%89%E8%A3%85Mariadb10/">树莓派安装Mariadb10</a>
           </li>
         
@@ -204,6 +203,10 @@
         
           <li>
             <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E8%BF%81%E7%A7%BB/">树莓派迁移</a>
+          </li>
+        
+          <li>
+            <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E4%BD%BF%E7%94%A8JMS578%E7%A1%AC%E7%9B%98%E7%9B%92%E7%9A%84%E5%9D%91/">树莓派使用JMS578硬盘盒的坑</a>
           </li>
         
       </ul>

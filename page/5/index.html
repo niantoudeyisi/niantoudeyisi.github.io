@@ -71,10 +71,10 @@
       <div class="outer">
         <section id="main">
   
-    <article id="post-树莓派迁移" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+    <article id="post-树莓派使用JMS578硬盘盒的坑" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
   <div class="article-meta">
-    <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E8%BF%81%E7%A7%BB/" class="article-date">
-  <time class="dt-published" datetime="2021-03-20T08:40:41.000Z" itemprop="datePublished">2021-03-20</time>
+    <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E4%BD%BF%E7%94%A8JMS578%E7%A1%AC%E7%9B%98%E7%9B%92%E7%9A%84%E5%9D%91/" class="article-date">
+  <time class="dt-published" datetime="2021-03-20T08:29:37.000Z" itemprop="datePublished">2021-03-20</time>
 </a>
     
   <div class="article-category">
@@ -89,7 +89,7 @@
         
   
     <h1 itemprop="name">
-      <a class="p-name article-title" href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E8%BF%81%E7%A7%BB/">树莓派迁移</a>
+      <a class="p-name article-title" href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E4%BD%BF%E7%94%A8JMS578%E7%A1%AC%E7%9B%98%E7%9B%92%E7%9A%84%E5%9D%91/">树莓派使用JMS578硬盘盒的坑</a>
     </h1>
   
 
@@ -97,52 +97,29 @@
     
     <div class="e-content article-entry" itemprop="articleBody">
       
-        <h1 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h1><p>树莓派换个硬盘。打算用docker整个elasticsearch 集群环境</p>
-<h1 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h1><ul>
-<li>hexo </li>
-</ul>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># hexo目录生成一下 然后推送到github page</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 打包一下 hexo文件夹</span></span><br></pre></td></tr></table></figure>
+        <h1 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h1><p>不知道是不是sd卡的原因跑docker cpu降频。 docker关了又恢复了。</p>
+<p>手里有快闲置的固态硬盘，就寻思着整个硬盘盒给树莓派升级一下配置。</p>
+<p>然后测试用U盘可以启动，因该是固件升级过了。直接用硬盘盒启动，发现怎么也启动不了。又没有屏幕。就在网上找。</p>
+<p>发现 <a target="_blank" rel="noopener" href="https://www.cnblogs.com/iamy/p/14482259.html">幻者</a> 的博客 。折腾一下就能用了。</p>
+<h1 id="操作"><a href="#操作" class="headerlink" title="操作"></a>操作</h1><p>正常启动时 usb外接硬盘 </p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">lsusb</span><br></pre></td></tr></table></figure>
 
-<ul>
-<li>npm</li>
-</ul>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">v13.14</span><br><span class="line"><span class="comment"># 整个环境打成tar包走</span></span><br></pre></td></tr></table></figure>
+<p>查看硬件id号</p>
+<p>在修改 硬盘盒的boot文件</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">nano /boot/cmdline.txt</span><br><span class="line"><span class="comment"># 开头加上 刚刚的id号</span></span><br><span class="line">usb-storage.quirks=152d:0578:u</span><br></pre></td></tr></table></figure>
 
-<ul>
-<li>profile环境</li>
-</ul>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">export</span> JAVA_HOME=/usr/<span class="built_in">local</span>/java/jdk1.8</span><br><span class="line"><span class="built_in">export</span> JRE_HOME=<span class="variable">$JAVA_HOME</span>/jre</span><br><span class="line"><span class="built_in">export</span> CLASSPATH=.:<span class="variable">$JAVA_HOME</span>/lib/dt.jar:<span class="variable">$JRE_HOME</span>/lib:<span class="variable">$JAVA_HOME</span>/lib/tools.jar</span><br><span class="line"><span class="built_in">export</span> PATH=<span class="variable">$PATH</span>:<span class="variable">$JAVA_HOME</span>/bin:<span class="variable">$JRE_HOME</span>/bin:<span class="variable">$CLASSPATH</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">export</span> NODEJS=/usr/<span class="built_in">local</span>/node</span><br><span class="line"><span class="built_in">export</span> PATH=<span class="variable">$PATH</span>:<span class="variable">$NODEJS</span>/node-v13.14/bin</span><br><span class="line"></span><br></pre></td></tr></table></figure>
 
-<ul>
-<li>java</li>
-</ul>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 备份一下jdk</span></span><br></pre></td></tr></table></figure>
 
-<ul>
-<li>docker</li>
-</ul>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 到时候脚本安装</span></span><br></pre></td></tr></table></figure>
 
-<ul>
-<li>tomcat不需要了 以后都是springboot</li>
-<li>mysql 到时候整个</li>
-<li>zookeeper 也不用了</li>
-<li>还有git 、 neofetch 、 screenfetch等</li>
-</ul>
-<p>好像没东西了</p>
-<hr>
-<p>还有 树莓派的时区配置 软件源配置。</p>
-<p>更想用arch。可惜archlinuxarm有点问题。玩arch还是的x86</p>
-<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><ul>
-<li>把自己的脚本 和 开发环境放到 /usr/local 日后换机器直接tar包大迁移</li>
-<li>hexo 直接打包即可</li>
-<li>别的需要再装</li>
-</ul>
+
+
+
+<h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><p><a target="_blank" rel="noopener" href="https://www.cnblogs.com/iamy/p/14482259.html">幻者</a> 大佬</p>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://niantoudeyisi.github.com/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E8%BF%81%E7%A7%BB/" data-id="ckmhocmj100133qyq6bgh59g4" data-title="树莓派迁移" class="article-share-link">分享</a>
+      <a data-url="https://niantoudeyisi.github.com/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E4%BD%BF%E7%94%A8JMS578%E7%A1%AC%E7%9B%98%E7%9B%92%E7%9A%84%E5%9D%91/" data-id="ckmhoghca000ratyq77sf7nx1" data-title="树莓派使用JMS578硬盘盒的坑" class="article-share-link">分享</a>
       
       
       
@@ -213,10 +190,6 @@
       <ul>
         
           <li>
-            <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/">树莓派的基础配置</a>
-          </li>
-        
-          <li>
             <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E5%AE%89%E8%A3%85Mariadb10/">树莓派安装Mariadb10</a>
           </li>
         
@@ -230,6 +203,10 @@
         
           <li>
             <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E8%BF%81%E7%A7%BB/">树莓派迁移</a>
+          </li>
+        
+          <li>
+            <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E4%BD%BF%E7%94%A8JMS578%E7%A1%AC%E7%9B%98%E7%9B%92%E7%9A%84%E5%9D%91/">树莓派使用JMS578硬盘盒的坑</a>
           </li>
         
       </ul>

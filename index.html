@@ -71,14 +71,14 @@
       <div class="outer">
         <section id="main">
   
-    <article id="post-树莓派的基础配置" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+    <article id="post-树莓派安装Mariadb10" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
   <div class="article-meta">
-    <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" class="article-date">
-  <time class="dt-published" datetime="2021-03-20T11:06:57.000Z" itemprop="datePublished">2021-03-20</time>
+    <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E5%AE%89%E8%A3%85Mariadb10/" class="article-date">
+  <time class="dt-published" datetime="2021-03-20T11:03:24.000Z" itemprop="datePublished">2021-03-20</time>
 </a>
     
   <div class="article-category">
-    <a class="article-category-link" href="/categories/Linux/">Linux</a>►<a class="article-category-link" href="/categories/Linux/%E6%A0%91%E8%8E%93%E6%B4%BE/">树莓派</a>
+    <a class="article-category-link" href="/categories/Linux/">Linux</a>►<a class="article-category-link" href="/categories/Linux/Software/">Software</a>►<a class="article-category-link" href="/categories/Linux/Software/Mariadb/">Mariadb</a>
   </div>
 
   </div>
@@ -89,7 +89,7 @@
         
   
     <h1 itemprop="name">
-      <a class="p-name article-title" href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/">树莓派的基础配置</a>
+      <a class="p-name article-title" href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E5%AE%89%E8%A3%85Mariadb10/">树莓派安装Mariadb10</a>
     </h1>
   
 
@@ -97,21 +97,31 @@
     
     <div class="e-content article-entry" itemprop="articleBody">
       
-        <h1 id="一-常用软件"><a href="#一-常用软件" class="headerlink" title="一 常用软件"></a>一 常用软件</h1><figure class="highlight properties"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">tomcat</span>   <span class="string"></span></span><br><span class="line"><span class="attr">zookeeper</span></span><br><span class="line"><span class="attr">mysql</span>           <span class="string">自启</span></span><br><span class="line"><span class="attr">docker</span> <span class="string">openwrt  自启</span></span><br><span class="line"><span class="attr">java</span></span><br></pre></td></tr></table></figure>
+        <h1 id="初始化"><a href="#初始化" class="headerlink" title="初始化"></a>初始化</h1><ul>
+<li>安装完初始化</li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">mysql_secure_installation</span><br></pre></td></tr></table></figure>
 
-<h1 id="二-docker"><a href="#二-docker" class="headerlink" title="二 docker"></a>二 docker</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 创建网络</span></span><br><span class="line">docker network create -d macvlan --subnet=192.168.8.0/24 --gateway=192.168.8.1 -o parent=eth0 macnet</span><br><span class="line"></span><br><span class="line">docker create \</span><br><span class="line">    --restart unless-stopped  \</span><br><span class="line">    --network macnet  \</span><br><span class="line">    --privileged \</span><br><span class="line">    --name openwrt \</span><br><span class="line">    -v /etc/resolv.conf:/etc/resolv.conf \</span><br><span class="line">   sulinggg/openwrt \</span><br><span class="line">    /sbin/init</span><br><span class="line">    </span><br><span class="line"></span><br><span class="line">docker create --restart unless-stopped   --network macnet  --privileged --name openwrt -v /etc/resolv.conf:/etc/resolv.conf sulinggg/openwrt:latest /sbin/init</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8090</span><br></pre></td></tr></table></figure>
+<ul>
+<li>修改root密码</li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">update mysql.user <span class="built_in">set</span> plugin=<span class="string">&#x27;mysql_native_password&#x27;</span> <span class="built_in">where</span> user=<span class="string">&#x27;root&#x27;</span>;</span><br><span class="line">update mysql.user <span class="built_in">set</span> password=password(<span class="string">&quot;root&quot;</span>) <span class="built_in">where</span> user=<span class="string">&#x27;root&#x27;</span>; </span><br><span class="line">FLUSH PRIVILEGES;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
 
+<ul>
+<li>允许root远程登录</li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># /etc/mysql/mariadb.conf.d/50-server.cnf 注释小bind一行</span></span><br><span class="line"></span><br><span class="line">GRANT ALL PRIVILEGES ON *.* TO <span class="string">&#x27;root&#x27;</span>@<span class="string">&#x27;%&#x27;</span> IDENTIFIED BY <span class="string">&#x27;root&#x27;</span> WITH GRANT OPTION;</span><br><span class="line"></span><br><span class="line">FLUSH PRIVILEGES;</span><br></pre></td></tr></table></figure>
 
-
+<h1 id="补充"><a href="#补充" class="headerlink" title="补充"></a>补充</h1><p>apt 卸载 remove 会保留配置文件 purge不会保留</p>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://niantoudeyisi.github.com/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" data-id="ckmhocmia000w3qyq9as69hbg" data-title="树莓派的基础配置" class="article-share-link">分享</a>
+      <a data-url="https://niantoudeyisi.github.com/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E5%AE%89%E8%A3%85Mariadb10/" data-id="ckmhoghcm000uatyq08lg4czf" data-title="树莓派安装Mariadb10" class="article-share-link">分享</a>
       
       
       
-  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Base/" rel="tag">Base</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Linux/" rel="tag">Linux</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/" rel="tag">树莓派</a></li></ul>
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Mariadb/" rel="tag">Mariadb</a></li></ul>
 
     </footer>
   </div>
@@ -178,10 +188,6 @@
       <ul>
         
           <li>
-            <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/">树莓派的基础配置</a>
-          </li>
-        
-          <li>
             <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E5%AE%89%E8%A3%85Mariadb10/">树莓派安装Mariadb10</a>
           </li>
         
@@ -195,6 +201,10 @@
         
           <li>
             <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E8%BF%81%E7%A7%BB/">树莓派迁移</a>
+          </li>
+        
+          <li>
+            <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E4%BD%BF%E7%94%A8JMS578%E7%A1%AC%E7%9B%98%E7%9B%92%E7%9A%84%E5%9D%91/">树莓派使用JMS578硬盘盒的坑</a>
           </li>
         
       </ul>
