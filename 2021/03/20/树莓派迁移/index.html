@@ -4,14 +4,19 @@
   <meta charset="utf-8">
   
   
-  <title>Ntdys</title>
+  <title>树莓派迁移 | Ntdys</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta property="og:type" content="website">
-<meta property="og:title" content="Ntdys">
-<meta property="og:url" content="https://niantoudeyisi.github.com/page/15/index.html">
+  <meta name="description" content="起因树莓派换个硬盘。打算用docker整个elasticsearch 集群环境 过程 hexo   123# hexo目录生成一下 然后推送到github page# 打包一下 hexo文件夹   npm  12v13.14# 整个环境打成tar包走   profile环境  12345678export JAVA_HOME&#x3D;&#x2F;usr&#x2F;local&#x2F;java&#x2F;jdk1.8export JRE_HOM">
+<meta property="og:type" content="article">
+<meta property="og:title" content="树莓派迁移">
+<meta property="og:url" content="https://niantoudeyisi.github.com/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E8%BF%81%E7%A7%BB/index.html">
 <meta property="og:site_name" content="Ntdys">
+<meta property="og:description" content="起因树莓派换个硬盘。打算用docker整个elasticsearch 集群环境 过程 hexo   123# hexo目录生成一下 然后推送到github page# 打包一下 hexo文件夹   npm  12v13.14# 整个环境打成tar包走   profile环境  12345678export JAVA_HOME&#x3D;&#x2F;usr&#x2F;local&#x2F;java&#x2F;jdk1.8export JRE_HOM">
 <meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2021-03-20T08:40:41.000Z">
+<meta property="article:modified_time" content="2021-03-20T09:45:59.000Z">
 <meta property="article:author" content="ntdys">
+<meta property="article:tag" content="树莓派">
 <meta name="twitter:card" content="summary">
   
   
@@ -69,12 +74,10 @@
 </header>
 
       <div class="outer">
-        <section id="main">
-  
-    <article id="post-树莓派安装" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+        <section id="main"><article id="post-树莓派迁移" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
   <div class="article-meta">
-    <a href="/2021/03/16/%E6%A0%91%E8%8E%93%E6%B4%BE%E5%AE%89%E8%A3%85/" class="article-date">
-  <time class="dt-published" datetime="2021-03-16T14:00:58.000Z" itemprop="datePublished">2021-03-16</time>
+    <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E8%BF%81%E7%A7%BB/" class="article-date">
+  <time class="dt-published" datetime="2021-03-20T08:40:41.000Z" itemprop="datePublished">2021-03-20</time>
 </a>
     
   <div class="article-category">
@@ -88,8 +91,8 @@
       <header class="article-header">
         
   
-    <h1 itemprop="name">
-      <a class="p-name article-title" href="/2021/03/16/%E6%A0%91%E8%8E%93%E6%B4%BE%E5%AE%89%E8%A3%85/">树莓派安装</a>
+    <h1 class="p-name article-title" itemprop="headline name">
+      树莓派迁移
     </h1>
   
 
@@ -97,45 +100,83 @@
     
     <div class="e-content article-entry" itemprop="articleBody">
       
-        <h1 id="一-安装前"><a href="#一-安装前" class="headerlink" title="一 安装前"></a>一 安装前</h1><p>​    主要俩个东西 ssh 和 wpa_supplicant.conf</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">country=CN</span><br><span class="line">ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev</span><br><span class="line">update_config=1</span><br><span class="line"></span><br><span class="line">network=&#123;</span><br><span class="line">ssid=<span class="string">&quot;104&quot;</span></span><br><span class="line">psk=<span class="string">&quot;13855380770&quot;</span></span><br><span class="line">key_mgmt=WPA-PSK</span><br><span class="line">priority=1</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+        <h1 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h1><p>树莓派换个硬盘。打算用docker整个elasticsearch 集群环境</p>
+<h1 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h1><ul>
+<li>hexo </li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># hexo目录生成一下 然后推送到github page</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 打包一下 hexo文件夹</span></span><br></pre></td></tr></table></figure>
 
-<p>​    如果需要超频还可以</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">force_turbo=0</span><br><span class="line">arm_freq=2000</span><br><span class="line">over_voltage=6</span><br></pre></td></tr></table></figure>
+<ul>
+<li>npm</li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">v13.14</span><br><span class="line"><span class="comment"># 整个环境打成tar包走</span></span><br></pre></td></tr></table></figure>
 
-<h1 id="二-安装后"><a href="#二-安装后" class="headerlink" title="二 安装后"></a>二 安装后</h1><p>​    基本上这样就算装好了，还可以修改时区 字体等还能打开vnc端口什么的 。然后改装啥装啥</p>
-<hr>
-<h1 id="三-软件"><a href="#三-软件" class="headerlink" title="三 软件"></a>三 软件</h1><ul>
-<li>docker </li>
+<ul>
+<li>profile环境</li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">export</span> JAVA_HOME=/usr/<span class="built_in">local</span>/java/jdk1.8</span><br><span class="line"><span class="built_in">export</span> JRE_HOME=<span class="variable">$JAVA_HOME</span>/jre</span><br><span class="line"><span class="built_in">export</span> CLASSPATH=.:<span class="variable">$JAVA_HOME</span>/lib/dt.jar:<span class="variable">$JRE_HOME</span>/lib:<span class="variable">$JAVA_HOME</span>/lib/tools.jar</span><br><span class="line"><span class="built_in">export</span> PATH=<span class="variable">$PATH</span>:<span class="variable">$JAVA_HOME</span>/bin:<span class="variable">$JRE_HOME</span>/bin:<span class="variable">$CLASSPATH</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">export</span> NODEJS=/usr/<span class="built_in">local</span>/node</span><br><span class="line"><span class="built_in">export</span> PATH=<span class="variable">$PATH</span>:<span class="variable">$NODEJS</span>/node-v13.14/bin</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<ul>
 <li>java</li>
-<li>frp</li>
-<li>nodejs hexo</li>
-<li></li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 备份一下jdk</span></span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>docker</li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 到时候脚本安装</span></span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>tomcat不需要了 以后都是springboot</li>
+<li>mysql 到时候整个</li>
+<li>zookeeper 也不用了</li>
+<li>还有git 、 neofetch 、 screenfetch等</li>
+</ul>
+<p>好像没东西了</p>
+<hr>
+<p>还有 树莓派的时区配置 软件源配置。</p>
+<p>更想用arch。可惜archlinuxarm有点问题。玩arch还是的x86</p>
+<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><ul>
+<li>把自己的脚本 和 开发环境放到 /usr/local 日后换机器直接tar包大迁移</li>
+<li>hexo 直接打包即可</li>
+<li>别的需要再装</li>
 </ul>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://niantoudeyisi.github.com/2021/03/16/%E6%A0%91%E8%8E%93%E6%B4%BE%E5%AE%89%E8%A3%85/" data-id="ckmhl433f000qqayqc1k32pbf" data-title="树莓派安装" class="article-share-link">分享</a>
+      <a data-url="https://niantoudeyisi.github.com/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E8%BF%81%E7%A7%BB/" data-id="ckmhl4344000wqayqa868cs0v" data-title="树莓派迁移" class="article-share-link">分享</a>
       
       
       
-  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Linux/" rel="tag">Linux</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/" rel="tag">树莓派</a></li></ul>
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/" rel="tag">树莓派</a></li></ul>
 
     </footer>
   </div>
   
-</article>
-
-
+    
+<nav id="article-nav">
+  
+    <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">前一篇</strong>
+      <div class="article-nav-title">
+        
+          树莓派的基础配置
+        
+      </div>
+    </a>
+  
+  
+    <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E4%BD%BF%E7%94%A8JMS578%E7%A1%AC%E7%9B%98%E7%9B%92%E7%9A%84%E5%9D%91/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">后一篇</strong>
+      <div class="article-nav-title">树莓派使用JMS578硬盘盒的坑</div>
+    </a>
+  
+</nav>
 
   
+</article>
 
-
-  <nav id="page-nav">
-    
-    <a class="extend prev" rel="prev" href="/page/14/">&laquo; 上一页</a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/13/">13</a><a class="page-number" href="/page/14/">14</a><span class="page-number current">15</span><a class="page-number" href="/page/16/">16</a><a class="extend next" rel="next" href="/page/16/">下一页 &raquo;</a>
-  </nav>
 
 </section>
         
