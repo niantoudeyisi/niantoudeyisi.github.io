@@ -4,11 +4,11 @@
   <meta charset="utf-8">
   
   
-  <title>标签: Base | Ntdys</title>
+  <title>Ntdys</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta property="og:type" content="website">
 <meta property="og:title" content="Ntdys">
-<meta property="og:url" content="https://niantoudeyisi.github.com/tags/Base/index.html">
+<meta property="og:url" content="https://niantoudeyisi.github.com/page/18/index.html">
 <meta property="og:site_name" content="Ntdys">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:author" content="ntdys">
@@ -71,133 +71,72 @@
       <div class="outer">
         <section id="main">
   
-  
-    
-    
-      
-      
-      <section class="archives-wrap">
-        <div class="archive-year-wrap">
-          <a href="/archives/2021" class="archive-year">2021</a>
-        </div>
-        <div class="archives">
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" class="archive-article-date">
-  <time class="dt-published" datetime="2021-03-20T11:06:57.000Z" itemprop="datePublished">3月 20</time>
+    <article id="post-V2ray基础配置" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/2021/03/16/V2ray%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" class="article-date">
+  <time class="dt-published" datetime="2021-03-16T12:53:08.000Z" itemprop="datePublished">2021-03-16</time>
 </a>
-      
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/Linux/">Linux</a>►<a class="article-category-link" href="/categories/Linux/Software/">Software</a>►<a class="article-category-link" href="/categories/Linux/Software/V2ray/">V2ray</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
   
     <h1 itemprop="name">
-      <a class="archive-article-title" href="/2021/03/20/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/">树莓派的基础配置</a>
+      <a class="p-name article-title" href="/2021/03/16/V2ray%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/">V2ray基础配置</a>
     </h1>
   
 
-    </header>
-  </div>
-</article>
-  
+      </header>
     
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2021/03/17/Linux%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" class="archive-article-date">
-  <time class="dt-published" datetime="2021-03-17T12:45:27.000Z" itemprop="datePublished">3月 17</time>
-</a>
+    <div class="e-content article-entry" itemprop="articleBody">
       
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2021/03/17/Linux%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/">Linux基础配置</a>
-    </h1>
-  
+        <p>主要写一些关于v2ray的基础配置</p>
+<h1 id="一-安装"><a href="#一-安装" class="headerlink" title="一 安装"></a>一 安装</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">bash &lt;(curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh)</span><br></pre></td></tr></table></figure>
 
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2021/03/17/Hexo%E6%90%AD%E5%BB%BA/" class="archive-article-date">
-  <time class="dt-published" datetime="2021-03-17T01:01:33.000Z" itemprop="datePublished">3月 17</time>
-</a>
+<ul>
+<li><a target="_blank" rel="noopener" href="https://github.com/v2fly/v2ray-core">https://github.com/v2fly/v2ray-core</a></li>
+<li><a target="_blank" rel="noopener" href="https://github.com/v2fly/fhs-install-v2ray">https://github.com/v2fly/fhs-install-v2ray</a></li>
+<li><a target="_blank" rel="noopener" href="https://www.v2ray.com/">https://www.v2ray.com/</a></li>
+</ul>
+<h2 id="二-复制-uuid码"><a href="#二-复制-uuid码" class="headerlink" title="二 复制 uuid码"></a>二 复制 uuid码</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">cat /proc/sys/kernel/random/uuid</span><br><span class="line">1f80e01c-d0fe-4a8b-bf99-7de2c0b3dd31</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h1 id="三-修改配置文件"><a href="#三-修改配置文件" class="headerlink" title="三 修改配置文件"></a>三 修改配置文件</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br></pre></td><td class="code"><pre><span class="line">/usr/<span class="built_in">local</span>/etc/v2ray/config.json</span><br><span class="line"></span><br><span class="line">&#123;</span><br><span class="line">  <span class="string">&quot;inbounds&quot;</span>: [&#123;</span><br><span class="line">    <span class="string">&quot;port&quot;</span>: 20001,</span><br><span class="line">    <span class="string">&quot;protocol&quot;</span>: <span class="string">&quot;vmess&quot;</span>,</span><br><span class="line">    <span class="string">&quot;settings&quot;</span>: &#123;</span><br><span class="line">      <span class="string">&quot;clients&quot;</span>: [</span><br><span class="line">        &#123;</span><br><span class="line">          <span class="string">&quot;id&quot;</span>: <span class="string">&quot;1f80e01c-d0fe-4a8b-bf99-7de2c0b3dd31&quot;</span>,</span><br><span class="line">          <span class="string">&quot;level&quot;</span>: 1,</span><br><span class="line">          <span class="string">&quot;alterId&quot;</span>: 64</span><br><span class="line">        &#125;</span><br><span class="line">      ]</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;],</span><br><span class="line">  <span class="string">&quot;outbounds&quot;</span>: [&#123;</span><br><span class="line">    <span class="string">&quot;protocol&quot;</span>: <span class="string">&quot;freedom&quot;</span>,</span><br><span class="line">    <span class="string">&quot;settings&quot;</span>: &#123;&#125;</span><br><span class="line">  &#125;,&#123;</span><br><span class="line">    <span class="string">&quot;protocol&quot;</span>: <span class="string">&quot;blackhole&quot;</span>,</span><br><span class="line">    <span class="string">&quot;settings&quot;</span>: &#123;&#125;,</span><br><span class="line">    <span class="string">&quot;tag&quot;</span>: <span class="string">&quot;blocked&quot;</span></span><br><span class="line">  &#125;],</span><br><span class="line">  <span class="string">&quot;routing&quot;</span>: &#123;</span><br><span class="line">    <span class="string">&quot;rules&quot;</span>: [</span><br><span class="line">      &#123;</span><br><span class="line">        <span class="string">&quot;type&quot;</span>: <span class="string">&quot;field&quot;</span>,</span><br><span class="line">        <span class="string">&quot;ip&quot;</span>: [<span class="string">&quot;geoip:private&quot;</span>],</span><br><span class="line">        <span class="string">&quot;outboundTag&quot;</span>: <span class="string">&quot;blocked&quot;</span></span><br><span class="line">      &#125;</span><br><span class="line">    ]</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h1 id="四-命令"><a href="#四-命令" class="headerlink" title="四 命令"></a>四 命令</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">## 启动</span></span><br><span class="line">sudo systemctl start v2ray</span><br><span class="line"></span><br><span class="line"><span class="comment">## 停止</span></span><br><span class="line">sudo systemctl stop v2ray</span><br><span class="line"></span><br><span class="line"><span class="comment">## 重启</span></span><br><span class="line">sudo systemctl restart v2ray</span><br></pre></td></tr></table></figure>
+
+
+
+
       
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2021/03/17/Hexo%E6%90%AD%E5%BB%BA/">Hexo搭建</a>
-    </h1>
-  
-
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2021/03/17/Rust%E5%9F%BA%E7%A1%80/" class="archive-article-date">
-  <time class="dt-published" datetime="2021-03-17T00:38:31.000Z" itemprop="datePublished">3月 17</time>
-</a>
+    </div>
+    <footer class="article-footer">
+      <a data-url="https://niantoudeyisi.github.com/2021/03/16/V2ray%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" data-id="ckmhmnodt000hfsyqb3w141lo" data-title="V2ray基础配置" class="article-share-link">分享</a>
       
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2021/03/17/Rust%E5%9F%BA%E7%A1%80/">Rust基础</a>
-    </h1>
-  
-
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2021/03/17/idea%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" class="archive-article-date">
-  <time class="dt-published" datetime="2021-03-17T00:05:20.000Z" itemprop="datePublished">3月 17</time>
-</a>
       
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2021/03/17/idea%E7%9A%84%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/">idea的基础配置</a>
-    </h1>
-  
-
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2021/03/16/V2ray%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/" class="archive-article-date">
-  <time class="dt-published" datetime="2021-03-16T12:53:08.000Z" itemprop="datePublished">3月 16</time>
-</a>
       
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2021/03/16/V2ray%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/">V2ray基础配置</a>
-    </h1>
-  
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Base/" rel="tag">Base</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Software/" rel="tag">Software</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/V2ray/" rel="tag">V2ray</a></li></ul>
 
-    </header>
+    </footer>
   </div>
+  
 </article>
-  
-  
-    </div></section>
+
+
+
   
 
+
+  <nav id="page-nav">
+    
+    <a class="extend prev" rel="prev" href="/page/17/">&laquo; 上一页</a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/16/">16</a><a class="page-number" href="/page/17/">17</a><span class="page-number current">18</span>
+  </nav>
 
 </section>
         
