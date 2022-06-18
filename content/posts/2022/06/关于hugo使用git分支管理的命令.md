@@ -27,7 +27,7 @@ git checkout main -- public
 
 #然后 git push 
 ## 添加远程仓库
-remote add origin git@github.com:niantoudeyisi/niantoudeyisi.github.io.git
+git remote add origin git@github.com:niantoudeyisi/niantoudeyisi.github.io.git
 
 ## 第一次需要明确远程分支 后面只需要git push即可
 git push -u origin public
