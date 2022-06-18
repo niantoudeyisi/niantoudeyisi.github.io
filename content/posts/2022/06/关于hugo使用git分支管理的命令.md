@@ -32,5 +32,9 @@ git remote add origin git@github.com:niantoudeyisi/niantoudeyisi.github.io.git
 ## 第一次需要明确远程分支 后面只需要git push即可
 git push -u origin public
 
+
+# 还有将本地一个仓库 推送到另一个远程仓库的另一个分支上
+git push -f url master:deploy
+
 ```
 
