@@ -14,6 +14,8 @@ tags:
 
 ​	就是一个仓库创建两个分支 然后 都提交到远程仓库；然后每次合并文件到public的分支 ；存放public文件的仓库作为默认展示分支； 
 
+
+
 ```shell
 # 创建分支
 git checkout -b public
@@ -34,11 +36,11 @@ git push -u origin public
 
 
 # 还有将本地一个仓库 推送到另一个远程仓库的另一个分支上
-git push -f url master:deploy
-
+# 就是将 url是仓库地址 ；就是将本地master分支推送到远程deploy分支
+git push -f url master:deploy  
 ```
 
 ```
-然后我这边 就是本地两个文件夹 分别push远程仓库的两个分支即可
+	然后我这边 就是本地blog文件 resource推送到一个分支 
+	然后进入public目录将内容推送到另一个用于展示github pages的分支
 ```
-
