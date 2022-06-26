@@ -23,10 +23,59 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sat, 18 Jun 2022 23:55:45 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 22:21:50 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://niantoudeyisi.github.io/rss.xml" />
         
+        
+            <item>
+                <title>记录一下我收集的一些好听的歌</title>
+                <link>https://niantoudeyisi.github.io/posts/2022/06/%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8B%E6%88%91%E6%94%B6%E9%9B%86%E7%9A%84%E4%B8%80%E4%BA%9B%E5%A5%BD%E5%90%AC%E7%9A%84%E6%AD%8C/</link>
+                <guid isPermaLink="true">https://niantoudeyisi.github.io/posts/2022/06/%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8B%E6%88%91%E6%94%B6%E9%9B%86%E7%9A%84%E4%B8%80%E4%BA%9B%E5%A5%BD%E5%90%AC%E7%9A%84%E6%AD%8C/</guid>
+                <pubDate>Sun, 26 Jun 2022 22:13:58 &#43;0800</pubDate>
+                
+                    <author>niantoudeyisi@gmail.com (汪先雨)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;记录一下偶然遇见的好听的歌&lt;/p&gt;
+&lt;h2 id=&#34;2022-06&#34;&gt;2022-06&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt; Numb Little Bug(Piano Version)  很棒 很惊艳 让我感受到英文歌的美妙
+&lt;/code&gt;&lt;/pre&gt;</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/categories/2022%E6%97%A5%E5%B8%B8/">2022日常</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/tags/music/">Music</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/tags/2022/">2022</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>关于hugo使用git分支管理的命令</title>
@@ -86,7 +135,8 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -f url master:deploy
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description>
+&lt;/div&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;然后我这边 就是本地两个文件夹 分别push远程仓库的两个分支即可
+&lt;/code&gt;&lt;/pre&gt;</description>
                 
                 
                 
