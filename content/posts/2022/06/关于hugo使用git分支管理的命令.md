@@ -38,3 +38,7 @@ git push -f url master:deploy
 
 ```
 
+```
+然后我这边 就是本地两个文件夹 分别push远程仓库的两个分支即可
+```
+
