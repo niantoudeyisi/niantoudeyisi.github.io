@@ -23,10 +23,325 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 26 Jun 2022 23:23:40 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 23:24:47 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://niantoudeyisi.github.io/rss.xml" />
         
+        
+            <item>
+                <title>今天的低效率工作</title>
+                <link>https://niantoudeyisi.github.io/posts/2022/07/%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%BD%8E%E6%95%88%E7%8E%87%E5%B7%A5%E4%BD%9C/</link>
+                <guid isPermaLink="true">https://niantoudeyisi.github.io/posts/2022/07/%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%BD%8E%E6%95%88%E7%8E%87%E5%B7%A5%E4%BD%9C/</guid>
+                <pubDate>Sun, 10 Jul 2022 23:16:55 &#43;0800</pubDate>
+                
+                    <author>niantoudeyisi@gmail.com (汪先雨)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h2 id=&#34;起因&#34;&gt;起因&lt;/h2&gt;
+&lt;p&gt;​	今天工作效率很烂;虽然一直都很烂🤣;&lt;/p&gt;
+&lt;p&gt;​	没有找到根本的问题原因，就光顾着操作。&lt;/p&gt;
+&lt;p&gt;​	以后要先找出问题的出现点 然后分析 是页面还是后台问题；&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/categories/2022%E6%97%A5%E5%B8%B8/">2022日常</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/tags/2022/">2022</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/tags/%E5%B7%A5%E4%BD%9C/">工作</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>树莓派的wifi,超频,ssh</title>
+                <link>https://niantoudeyisi.github.io/posts/2022/07/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9A%84wifi%E8%B6%85%E9%A2%91ssh/</link>
+                <guid isPermaLink="true">https://niantoudeyisi.github.io/posts/2022/07/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9A%84wifi%E8%B6%85%E9%A2%91ssh/</guid>
+                <pubDate>Sun, 10 Jul 2022 23:12:44 &#43;0800</pubDate>
+                
+                    <author>niantoudeyisi@gmail.com (汪先雨)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h2 id=&#34;wifi&#34;&gt;wifi&lt;/h2&gt;
+&lt;p&gt;开机连接wifi然后新建一个wpa_supplicant.conf&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;country=CN
+ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+update_config=1
+
+network={
+ssid=&amp;#34;&amp;#34;
+psk=&amp;#34;&amp;#34;
+key_mgmt=WPA-PSK
+priority=1
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;超频&#34;&gt;超频&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# /boot/config.txt
+force_turbo=0
+arm_freq=2000
+over_voltage=6
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;ssh&#34;&gt;ssh&lt;/h2&gt;
+&lt;p&gt;就是创建一个SSH或者ssh 文件名的文件即可&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/categories/raspberry/">Raspberry</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/tags/raspberry/">Raspberry</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>关于我所知道的Android刷机方案</title>
+                <link>https://niantoudeyisi.github.io/posts/2022/07/%E5%85%B3%E4%BA%8E%E6%88%91%E6%89%80%E7%9F%A5%E9%81%93%E7%9A%84android%E5%88%B7%E6%9C%BA%E6%96%B9%E6%A1%88/</link>
+                <guid isPermaLink="true">https://niantoudeyisi.github.io/posts/2022/07/%E5%85%B3%E4%BA%8E%E6%88%91%E6%89%80%E7%9F%A5%E9%81%93%E7%9A%84android%E5%88%B7%E6%9C%BA%E6%96%B9%E6%A1%88/</guid>
+                <pubDate>Sun, 10 Jul 2022 22:59:48 &#43;0800</pubDate>
+                
+                    <author>niantoudeyisi@gmail.com (汪先雨)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h2 id=&#34;背景&#34;&gt;背景&lt;/h2&gt;
+&lt;p&gt;​	很久以前做过的操作了；这边就是简单的记录一下&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这几天沉迷刷机 索尼xp 小米8lite 小米平板1&lt;/p&gt;
+&lt;p&gt;索尼xp刷得很顺利 一步到位。&lt;/p&gt;
+&lt;p&gt;小米8lite 也很顺利刷成pixel的系统 是真的好用。下一步手机就决定pixel了。（最近的一次刷机已经刷挂掉了，暂时也没时间修复 。2020.7.10）&lt;/p&gt;
+&lt;p&gt;然后小米平板1 出了点问题 。我猜测是rom有问题。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;感谢这个网站&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://niantoudeyisi.github.io/posts/2022/07/%E5%85%B3%E4%BA%8E%E6%88%91%E6%89%80%E7%9F%A5%E9%81%93%E7%9A%84android%E5%88%B7%E6%9C%BA%E6%96%B9%E6%A1%88/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;的大佬们。&lt;/p&gt;
+&lt;h2 id=&#34;过程&#34;&gt;过程&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;充满电&lt;/li&gt;
+&lt;li&gt;解bl&lt;/li&gt;
+&lt;li&gt;刷twrp&lt;/li&gt;
+&lt;li&gt;刷rom 双清  四清&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;问题&#34;&gt;问题&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;1 需要注意twrp 是否是可用的&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;常用指令&#34;&gt;常用指令&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;fastboot flash recovery twrp.img&lt;/p&gt;
+&lt;p&gt;fastboot oem reboot-recovery&lt;/p&gt;
+&lt;p&gt;adb sideload Magisk.zip&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;感受&#34;&gt;感受&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;xda刷各种rom是真的快乐。&lt;/p&gt;
+&lt;p&gt;自己好菜啊。&lt;/p&gt;
+&lt;p&gt;然后有一种 前人栽树后人乘凉的感觉。要是自己一点点摸索都不知道刷多少砖才能整好一个rom。&lt;/p&gt;
+&lt;p&gt;自己遇到的问题基本上都会有人遇到过，真是奇妙的感觉。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://forum.xda-developers.com/&#34;&gt;XDA Forums (xda-developers.com)&lt;/a&gt;&amp;#160;&lt;a href=&#34;https://niantoudeyisi.github.io/posts/2022/07/%E5%85%B3%E4%BA%8E%E6%88%91%E6%89%80%E7%9F%A5%E9%81%93%E7%9A%84android%E5%88%B7%E6%9C%BA%E6%96%B9%E6%A1%88/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/categories/%E5%88%B7%E6%9C%BA/">刷机</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/tags/%E5%88%B7%E6%9C%BA/">刷机</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/tags/%E6%8A%98%E8%85%BE/">折腾</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/tags/android/">Android</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>关于docker版的openwrt使用</title>
+                <link>https://niantoudeyisi.github.io/posts/2022/07/%E5%85%B3%E4%BA%8Edocker%E7%89%88%E7%9A%84openwrt%E4%BD%BF%E7%94%A8/</link>
+                <guid isPermaLink="true">https://niantoudeyisi.github.io/posts/2022/07/%E5%85%B3%E4%BA%8Edocker%E7%89%88%E7%9A%84openwrt%E4%BD%BF%E7%94%A8/</guid>
+                <pubDate>Sun, 10 Jul 2022 22:48:26 &#43;0800</pubDate>
+                
+                    <author>niantoudeyisi@gmail.com (汪先雨)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h2 id=&#34;起因&#34;&gt;起因&lt;/h2&gt;
+&lt;p&gt;​	以前玩树莓派的时候发现的openwrt-Rpi项目，然后看到了大佬&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://niantoudeyisi.github.io/posts/2022/07/%E5%85%B3%E4%BA%8Edocker%E7%89%88%E7%9A%84openwrt%E4%BD%BF%E7%94%A8/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;配置，基于docker的openwrt旁路由的教程&lt;/p&gt;
+&lt;p&gt;​	我这边简单归纳一下，便于自己日后使用；&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;打开网卡混杂模式&lt;/li&gt;
+&lt;li&gt;创建网络&lt;/li&gt;
+&lt;li&gt;拉镜像&lt;/li&gt;
+&lt;li&gt;运行&lt;/li&gt;
+&lt;li&gt;修改网络&lt;/li&gt;
+&lt;li&gt;关openwrt的DHCP(如果需求是 指定设备走特定网关 就选择关掉)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo ip link set eth0 promisc on
+#######---
+
+docker network create -d macvlan --subnet=192.168.123.0/24 --gateway=192.168.123.1 -o parent=eth0 macnet
+docker network ls
+########---
+
+docker pull sulinggg/openwrt:latest
+##############---
+
+docker run --restart always --name openwrt -d --network macnet --privileged registry.cn-shanghai.aliyuncs.com/suling/openwrt:latest /sbin/init
+
+
+# --restart always参数表示容器退出时始终重启，使服务尽量保持始终可用；
+
+#--name openwrt参数定义了容器的名称；
+
+# -d参数定义使容器运行在 Daemon 模式；
+
+# --network macnet参数定义将容器加入 maxnet网络；
+
+# --privileged 参数定义容器运行在特权模式下；
+
+# registry.cn-shanghai.aliyuncs.com/suling/openwrt:latest为 Docker 镜像名
+
+# /sbin/init定义容器启动后执行的命令。
+
+#########---
+
+docker exec -it openwrt bash
+
+vim /etc/config/network
+
+config interface &amp;#39;lan&amp;#39;
+        option type &amp;#39;bridge&amp;#39;
+        option ifname &amp;#39;eth0&amp;#39;
+        option proto &amp;#39;static&amp;#39;
+        option ipaddr &amp;#39;192.168.2.100&amp;#39;
+        option netmask &amp;#39;255.255.255.0&amp;#39;
+        option ip6assign &amp;#39;60&amp;#39;
+        option gateway &amp;#39;192.168.2.1&amp;#39;
+        option broadcast &amp;#39;192.168.2.255&amp;#39;
+        option dns &amp;#39;192.168.2.1&amp;#39;
+        
+        
+/etc/init.d/network restart
+
+###---
+&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://mlapp.cn/376.html&#34;&gt;在Docker 中运行 OpenWrt 旁路网关 | 美丽应用 (mlapp.cn)&lt;/a&gt;&amp;#160;&lt;a href=&#34;https://niantoudeyisi.github.io/posts/2022/07/%E5%85%B3%E4%BA%8Edocker%E7%89%88%E7%9A%84openwrt%E4%BD%BF%E7%94%A8/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/categories/docker/">Docker</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/tags/docker/">Docker</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/tags/openwrt/">OpenWrt</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>树莓派用JMS578硬盘盒的坑</title>
@@ -209,8 +524,8 @@ usb-storage.quirks=152d:0578:u
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -f url master:deploy  
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;	然后我这边 就是本地blog文件 resource推送到一个分支 
-	然后进入public目录将内容推送到另一个用于展示github pages的分支
+&lt;/div&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;然后我这边 就是本地blog文件 resource推送到一个分支 
+然后进入public目录将内容推送到另一个用于展示github pages的分支
 &lt;/code&gt;&lt;/pre&gt;</description>
                 
                 
