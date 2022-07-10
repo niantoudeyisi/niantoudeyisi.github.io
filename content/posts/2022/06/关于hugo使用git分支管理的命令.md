@@ -41,6 +41,6 @@ git push -f url master:deploy
 ```
 
 ```
-	然后我这边 就是本地blog文件 resource推送到一个分支 
-	然后进入public目录将内容推送到另一个用于展示github pages的分支
+然后我这边 就是本地blog文件 resource推送到一个分支 
+然后进入public目录将内容推送到另一个用于展示github pages的分支
 ```
