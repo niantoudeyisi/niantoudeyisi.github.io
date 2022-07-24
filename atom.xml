@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">汪先雨的博客</title>
     <subtitle type="html">汪先雨的博客</subtitle>
-    <updated>2022-07-24T23:15:06&#43;08:00</updated>
+    <updated>2022-07-24T23:25:36&#43;08:00</updated>
     <id>https://niantoudeyisi.github.io/</id>
     <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://niantoudeyisi.github.io/atom.xml" />
@@ -128,7 +128,7 @@
             <title type="text">20220724_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/07/20220724_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/07/20220724_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-07-24T22:58:04&#43;08:00</updated>
+            <updated>2022-07-24T23:24:02&#43;08:00</updated>
             <published>2022-07-24T22:09:10&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -148,7 +148,7 @@
 &lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;
 &lt;p&gt;刷了一天固件，测试出现的 call trace问题&lt;/p&gt;
 &lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;
-&lt;p&gt;新的显示器到了。然后也把桌面环境重新收拾了一下。
+&lt;p&gt;新的显示器到了。然后也把桌面环境重新收拾了一下。大显示器是真的好。
 &lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/07/AGC_20220723_200441231.jpg&#34; alt=&#34;一身家当&#34;&gt;&lt;/p&gt;
 &lt;p&gt;给服务器重新弄成archlinux了。感觉没必要用debian。也没什么重要的数据。用arch还能多折腾折腾学点有意思的东西；&lt;/p&gt;
 &lt;p&gt;对于docker-compose 竟然还有更新操作。之前一直都是down 然后up -d。&lt;/p&gt;
@@ -162,6 +162,7 @@
 &lt;p&gt;以及使用win ssh免密别名登录linux&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;想写一点技术的。但我也是基本上用到了就去查一下。也就用一下一两个命令。&lt;/p&gt;
+&lt;p&gt;有点想以后多拍点照片了。可惜手机相机差了点。&lt;/p&gt;
 </content>
             
             
