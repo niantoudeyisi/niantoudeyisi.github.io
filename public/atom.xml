@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">汪先雨的博客</title>
     <subtitle type="html">汪先雨的博客</subtitle>
-    <updated>2022-07-24T23:15:06&#43;08:00</updated>
+    <updated>2022-07-24T23:23:22&#43;08:00</updated>
     <id>https://niantoudeyisi.github.io/</id>
     <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://niantoudeyisi.github.io/atom.xml" />
@@ -128,7 +128,7 @@
             <title type="text">20220724_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/07/20220724_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/07/20220724_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-07-24T22:58:04&#43;08:00</updated>
+            <updated>2022-07-24T23:23:10&#43;08:00</updated>
             <published>2022-07-24T22:09:10&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -162,6 +162,7 @@
 &lt;p&gt;以及使用win ssh免密别名登录linux&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;想写一点技术的。但我也是基本上用到了就去查一下。也就用一下一两个命令。&lt;/p&gt;
+&lt;p&gt;有点想以后多拍点照片了。可惜手机相机差了点。&lt;/p&gt;
 </content>
             
             
