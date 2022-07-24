@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 24 Jul 2022 23:23:22 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 23:25:36 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://niantoudeyisi.github.io/rss.xml" />
         
@@ -151,7 +151,7 @@
 &lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;
 &lt;p&gt;刷了一天固件，测试出现的 call trace问题&lt;/p&gt;
 &lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;
-&lt;p&gt;新的显示器到了。然后也把桌面环境重新收拾了一下。
+&lt;p&gt;新的显示器到了。然后也把桌面环境重新收拾了一下。大显示器是真的好。
 &lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/07/AGC_20220723_200441231.jpg&#34; alt=&#34;一身家当&#34;&gt;&lt;/p&gt;
 &lt;p&gt;给服务器重新弄成archlinux了。感觉没必要用debian。也没什么重要的数据。用arch还能多折腾折腾学点有意思的东西；&lt;/p&gt;
 &lt;p&gt;对于docker-compose 竟然还有更新操作。之前一直都是down 然后up -d。&lt;/p&gt;
