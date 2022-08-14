@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">汪先雨的博客</title>
     <subtitle type="html">汪先雨的博客</subtitle>
-    <updated>2022-08-15T00:51:55&#43;08:00</updated>
+    <updated>2022-08-15T01:10:39&#43;08:00</updated>
     <id>https://niantoudeyisi.github.io/</id>
     <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://niantoudeyisi.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">20220814_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/08/20220814_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/08/20220814_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-08-15T00:51:43&#43;08:00</updated>
+            <updated>2022-08-15T01:10:20&#43;08:00</updated>
             <published>2022-08-14T23:44:14&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -39,7 +39,7 @@
 &lt;p&gt;无聊在家里试了下跑pcdn。 太少了；就放弃了。&lt;/p&gt;
 &lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;
 &lt;p&gt;干活&lt;/p&gt;
-&lt;p&gt;用塑料装水果的方盒子，给软路由降温，效果卓越。&lt;/p&gt;
+&lt;p&gt;用装水果的塑料透明方盒子 ，装点水，放软路由上面，降温，效果卓越。对比旁边风冷的n3150服务器 cpu温度差不多；不过俩个都是低负载状态。&lt;/p&gt;
 &lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;
 &lt;p&gt;干活&lt;/p&gt;
 &lt;p&gt;每天都有不同的活，每种问题解决的方法都不能复用。真是有点遭不住。。还是解决的问题太少了。&lt;/p&gt;
