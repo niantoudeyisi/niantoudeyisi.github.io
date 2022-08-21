@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 21 Aug 2022 21:23:41 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 23:20:52 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://niantoudeyisi.github.io/rss.xml" />
         
@@ -76,6 +76,9 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
 听说三明治喷点水烤会更好吃。感觉没啥区别。&lt;/p&gt;
 &lt;p&gt;PasteMe项目最新的docker似乎是用不了的。用了个两年前的docker可以跑起来。不知道是我搭建的手法有问题还是什么原因。&lt;/p&gt;
 &lt;p&gt;百度eh ex的东西。搜到了十年前别人回答的答案。那个回答放到今天都是挺有意义的。令人感叹。&lt;/p&gt;
+&lt;p&gt;登录shell刷新logo。 对应shell的.bashrc文件添加一行 source 一个文本文件，文件内容添加neofetch或者其他应用程序&lt;/p&gt;
+&lt;p&gt;docker-compose pull 更新&lt;/p&gt;
+&lt;p&gt;之前整理了打机环境。现在需要整理软件环境以及目前所掌握的技能以及备份数据&lt;/p&gt;
 </description>
                 
                 
@@ -390,6 +393,11 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
 &lt;li&gt;&lt;a href=&#34;https://get.docker.com/&#34;&gt;https://get.docker.com/&lt;/a&gt;  安装docker我比较喜欢用脚本安装。这个方法也比较通用。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://emojixd.com/&#34;&gt;🤣 Emoji表情大全，颜文字百科 💌 - EmojiXD&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.crackingvip.xyz/&#34;&gt;狐说社区 (crackingvip.xyz)&lt;/a&gt;  某个资源站。当初不知道嫖了什么资源，想不起来了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;08&#34;&gt;08&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://realfavicongenerator.net/&#34;&gt;Favicon Generator for perfect icons on all browsers (realfavicongenerator.net)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;可以生成网站相关图片格式很方便&lt;/li&gt;
 &lt;/ul&gt;
 </description>
                 

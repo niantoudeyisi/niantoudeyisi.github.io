@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">汪先雨的博客</title>
     <subtitle type="html">汪先雨的博客</subtitle>
-    <updated>2022-08-21T21:23:41&#43;08:00</updated>
+    <updated>2022-08-21T23:20:52&#43;08:00</updated>
     <id>https://niantoudeyisi.github.io/</id>
     <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://niantoudeyisi.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">20220821_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/08/20220821_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/08/20220821_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-08-21T21:23:28&#43;08:00</updated>
+            <updated>2022-08-21T21:52:13&#43;08:00</updated>
             <published>2022-08-21T20:12:23&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -67,6 +67,9 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
 听说三明治喷点水烤会更好吃。感觉没啥区别。&lt;/p&gt;
 &lt;p&gt;PasteMe项目最新的docker似乎是用不了的。用了个两年前的docker可以跑起来。不知道是我搭建的手法有问题还是什么原因。&lt;/p&gt;
 &lt;p&gt;百度eh ex的东西。搜到了十年前别人回答的答案。那个回答放到今天都是挺有意义的。令人感叹。&lt;/p&gt;
+&lt;p&gt;登录shell刷新logo。 对应shell的.bashrc文件添加一行 source 一个文本文件，文件内容添加neofetch或者其他应用程序&lt;/p&gt;
+&lt;p&gt;docker-compose pull 更新&lt;/p&gt;
+&lt;p&gt;之前整理了打机环境。现在需要整理软件环境以及目前所掌握的技能以及备份数据&lt;/p&gt;
 </content>
             
             
@@ -381,7 +384,7 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
             <title type="text">常用的网站</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/%E5%B8%B8%E7%94%A8%E7%9A%84%E7%BD%91%E7%AB%99/" />
             <id>https://niantoudeyisi.github.io/posts/2022/%E5%B8%B8%E7%94%A8%E7%9A%84%E7%BD%91%E7%AB%99/</id>
-            <updated>2022-08-01T00:00:10&#43;08:00</updated>
+            <updated>2022-08-21T21:39:25&#43;08:00</updated>
             <published>2022-07-24T22:59:05&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -396,6 +399,11 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
 &lt;li&gt;&lt;a href=&#34;https://get.docker.com/&#34;&gt;https://get.docker.com/&lt;/a&gt;  安装docker我比较喜欢用脚本安装。这个方法也比较通用。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://emojixd.com/&#34;&gt;🤣 Emoji表情大全，颜文字百科 💌 - EmojiXD&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.crackingvip.xyz/&#34;&gt;狐说社区 (crackingvip.xyz)&lt;/a&gt;  某个资源站。当初不知道嫖了什么资源，想不起来了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;08&#34;&gt;08&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://realfavicongenerator.net/&#34;&gt;Favicon Generator for perfect icons on all browsers (realfavicongenerator.net)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;可以生成网站相关图片格式很方便&lt;/li&gt;
 &lt;/ul&gt;
 </content>
             
