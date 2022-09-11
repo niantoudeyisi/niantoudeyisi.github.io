@@ -23,10 +23,99 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 11 Sep 2022 19:23:07 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 21:46:25 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://niantoudeyisi.github.io/rss.xml" />
         
+        
+            <item>
+                <title>20220911_最近的日常</title>
+                <link>https://niantoudeyisi.github.io/posts/2022/09/20220911_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</link>
+                <guid isPermaLink="true">https://niantoudeyisi.github.io/posts/2022/09/20220911_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</guid>
+                <pubDate>Sun, 11 Sep 2022 20:17:19 &#43;0800</pubDate>
+                
+                    <author>niantoudeyisi@gmail.com (汪先雨)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/09/LieAll_20220910_212914843.jpg&#34; alt=&#34;中秋月亮&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;
+&lt;p&gt;干活&lt;/p&gt;
+&lt;p&gt;下班久违的看见路边共享单车桩还剩一辆自行车。骑车回家确实比走路爽很多。风吹过脸庞，看着周围快速掠过的景色。听着歌。很放松很舒服。就是腿有点累。好久没骑了。蹬久了有点蹬不动。尤其是有个小上坡，好难骑。&lt;/p&gt;
+&lt;p&gt;在宿舍有一个拿着很多小册子的人来登记合租的人。感觉像网格员。&lt;/p&gt;
+&lt;p&gt;有点想换掉r2s 。还是想弄个aio。。但是看上的n5105 总感觉不太靠谱。 还需好好斟酌。感觉我大概了会冲。233&lt;/p&gt;
+&lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;
+&lt;p&gt;不小心没umount把usb把移动硬盘拔掉了。导致各种问题。最后ntfsfix修复了。&lt;/p&gt;
+&lt;p&gt;kvm切换器插不紧会导致屏幕颜色有问题。蜜汁问题。也不知道是线有问题还是接口有问题&lt;/p&gt;
+&lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;
+&lt;p&gt;干活好累&lt;/p&gt;
+&lt;p&gt;好像明白社畜是怎么坏掉的了。看着就今天发的工资比上周少了一千左右。似乎因为上周四个周末我都没加班。&lt;/p&gt;
+&lt;p&gt;打算尝试别的水果 西红柿 黄瓜 柿子 梨子 蜜桔  。在丁香医生上看似乎最有性价比。等我实践一下。&lt;/p&gt;
+&lt;p&gt;远程rdp 似乎pc睡眠时候会无法连接。待测试https://m.dxy.com/article/26633 （周末测试结果就是这个导致的）&lt;/p&gt;
+&lt;p&gt;本地音乐的另一个方案。https://www.v2ex.com/t/878015  日后有时间再去折腾。。&lt;/p&gt;
+&lt;p&gt;vps莫名其妙访问github 变成ipv6了。然后折腾了几个小时。发现 /etc/hosts 有几个 ipv6的东西。就注掉了 然后就好了。
+然后nginx 莫名奇妙403 。网上方案都试了一下都没用。不知道是不是ipv6的原因。&lt;/p&gt;
+&lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;
+&lt;p&gt;好累。稀里糊涂被reopen(rework),弄到晚上又是没问题是误报。&lt;/p&gt;
+&lt;p&gt;服务器恢复了对github的访问。也不知道国外什么情况&lt;/p&gt;
+&lt;p&gt;早上窗子忘了开了。回到屋子。一股热气。也不知道是标压笔记本的热量还是r2s还是n3150的热量&lt;/p&gt;
+&lt;p&gt;透明塑料袋解冻培根 挺不戳&lt;/p&gt;
+&lt;p&gt;身体似乎因为久坐越来越僵硬了。&lt;/p&gt;
+&lt;p&gt;前段时间孵出来的草龟 时常伸着飞机腿浮着。不知道是不是太舒服导致。
+年纪大一点的草龟 似乎很少看见伸飞机腿。还有点胆小。可能是之前跟着我吃了点苦头。导致心理不健康。&lt;/p&gt;
+&lt;p&gt;笔记本win11 好像睡眠会导致死机。&lt;/p&gt;
+&lt;p&gt;不知道是不是m1芯片导致 似乎很多docker都带有arm版本  妙啊妙啊&lt;/p&gt;
+&lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;
+&lt;p&gt;好累。&lt;/p&gt;
+&lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;
+&lt;p&gt;似乎之前所做的事情都是有意义的。可能暂时不知道。未来的某一天可能会有所触及。&lt;/p&gt;
+&lt;p&gt;服务器好像被攻击了。md 真有人够无聊的。好像是ssh试错(猜测)。
+服务器各项正常 ssh就会突然卡住。后来改了仅用密钥登录并且换了默认端口就正常了。md 谁这么无聊啊。&lt;/p&gt;
+&lt;p&gt;学到了squashfs固件扩容的方法。sulinggg newbee！
+大致就是 overlay复制到扩容的路径 然后生成一下fstab 重启即可。&lt;/p&gt;
+&lt;p&gt;arm架构服务器跑一下；docker-compose需要自己移植(/doge)&lt;/p&gt;
+&lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
+&lt;p&gt;安装r2s fan口风扇。手被打了个小皮。4000转速还挺快。
+不出意外。后面会把n3150出掉。r2s可以满足我的需求了就是跑docker start有点慢 不过不碍事。&lt;/p&gt;
+&lt;p&gt;然后学到了/etc/init.d的妙用。有意思。&lt;/p&gt;
+&lt;p&gt;理了个发。&lt;/p&gt;
+&lt;p&gt;黄瓜容易蔫掉不适合一次多买。可惜。
+4个黄瓜3个番茄20 感觉也不是很贵。&lt;/p&gt;
+&lt;p&gt;新来的同事找我问问题。我翻出之前自己培训写的东西。2333看不懂了。
+注释很重要啊。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;苍蜣登阶 有意思。&lt;/p&gt;
+&lt;p&gt;r2s 目前来看 aio不辍 目前没遇到问题。但是感觉未来可能会遇到一些问题。暂且先看着。&lt;/p&gt;
+&lt;p&gt;一个老充电宝似乎电池鼓包了。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/categories/2022%E6%97%A5%E5%B8%B8/">2022日常</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/tags/2022%E6%97%A5%E5%B8%B8/">2022日常</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>20220904_最近的日常</title>
@@ -733,6 +822,14 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;09&#34;&gt;09&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ineo6/hosts&#34;&gt;https://github.com/ineo6/hosts&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;关于改hosts访问github的 以后可能会用到&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
                 
                 
@@ -1375,6 +1472,31 @@ usb-storage.quirks=152d:0578:u
 &lt;ul&gt;
 &lt;li&gt;很好听&lt;/li&gt;
 &lt;li&gt;纯音乐&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;痴人说梦
+&lt;ul&gt;
+&lt;li&gt;不戳&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;流年烹茶
+&lt;ul&gt;
+&lt;li&gt;不辍&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;夏·烟火
+&lt;ul&gt;
+&lt;li&gt;不辍的纯音乐&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;花篝 (Hana Kagari) AMV &amp;amp; Nightcore World
+&lt;ul&gt;
+&lt;li&gt;熟悉的旋律&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;voodoo kingdom
+&lt;ul&gt;
+&lt;li&gt;jojo的歌 旋律莫名的妙啊。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
