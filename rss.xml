@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 18 Sep 2022 22:45:43 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 22:58:44 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://niantoudeyisi.github.io/rss.xml" />
         
@@ -72,6 +72,7 @@
 &lt;p&gt;莫名学习到。人体内糖分一般不会轻易的排出。宁愿堆积成脂肪。因为容易排出的已经被自然选择掉了。&lt;/p&gt;
 &lt;p&gt;优化一下手机相册,以及本地进行一次机械硬盘的备份。虽然也不知道整理目录数据备份有没有意义。&lt;/p&gt;
 &lt;p&gt;想整一下win本地俩个文件夹自动同步。弄来弄去。还是自己复制粘贴算了。 没想到win也有软连接。有意思。&lt;/p&gt;
+&lt;p&gt;自建的ADH，默认规则拦住了一些，才想起来这个。然后又弄了一下anti-ad的规则。 后面有时间在细弄一下。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;无聊莫名好奇。这个社会是怎么运作的。&lt;/p&gt;
 &lt;p&gt;git常用命令&lt;/p&gt;
@@ -114,6 +115,12 @@
                                 
                                 
                                     <category domain="https://niantoudeyisi.github.io/tags/git/">Git</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/tags/adguard-home/">AdGuard Home</category>
                                 
                             
                         
