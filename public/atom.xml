@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">汪先雨的博客</title>
     <subtitle type="html">汪先雨的博客</subtitle>
-    <updated>2022-09-18T22:45:43&#43;08:00</updated>
+    <updated>2022-09-18T22:58:44&#43;08:00</updated>
     <id>https://niantoudeyisi.github.io/</id>
     <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://niantoudeyisi.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">20220918_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/09/20220918_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/09/20220918_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-09-18T22:45:32&#43;08:00</updated>
+            <updated>2022-09-18T22:58:07&#43;08:00</updated>
             <published>2022-09-18T20:02:33&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -63,6 +63,7 @@
 &lt;p&gt;莫名学习到。人体内糖分一般不会轻易的排出。宁愿堆积成脂肪。因为容易排出的已经被自然选择掉了。&lt;/p&gt;
 &lt;p&gt;优化一下手机相册,以及本地进行一次机械硬盘的备份。虽然也不知道整理目录数据备份有没有意义。&lt;/p&gt;
 &lt;p&gt;想整一下win本地俩个文件夹自动同步。弄来弄去。还是自己复制粘贴算了。 没想到win也有软连接。有意思。&lt;/p&gt;
+&lt;p&gt;自建的ADH，默认规则拦住了一些，才想起来这个。然后又弄了一下anti-ad的规则。 后面有时间在细弄一下。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;无聊莫名好奇。这个社会是怎么运作的。&lt;/p&gt;
 &lt;p&gt;git常用命令&lt;/p&gt;
@@ -105,6 +106,12 @@
                             
                             
                                 <category scheme="https://niantoudeyisi.github.io/tags/git/" term="Git" label="Git" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/adguard-home/" term="AdGuard Home" label="AdGuard Home" />
                             
                         
                     
