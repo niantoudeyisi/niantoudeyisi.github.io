@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 25 Sep 2022 23:11:08 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 25 Sep 2022 23:19:07 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://niantoudeyisi.github.io/rss.xml" />
         
@@ -83,6 +83,7 @@ ci/cd挺有意思 。&lt;/p&gt;
 &lt;p&gt;打算洗牙来着 要核算证明。下次再去了。&lt;/p&gt;
 &lt;p&gt;adh的账号密码默认似乎是bcrypt 10位加密。不知道位数是否会有影响。目前我是10位正常替换使用&lt;/p&gt;
 &lt;p&gt;三十块买了200ml*20的牛奶 不知道算不算贵。&lt;/p&gt;
+&lt;p&gt;有点哈人。刚刚git add commit put发现数字写错了就git reset了。然后内容就都没了。 还好可以在reflog能reset回来。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;把自己的简历模子，发给一个应该也是快毕业的一个网友了。
 总感觉我的烂简历应该也帮不到什么忙。
@@ -125,6 +126,12 @@ ci/cd挺有意思 。&lt;/p&gt;
                                 
                                 
                                     <category domain="https://niantoudeyisi.github.io/tags/github/">GitHub</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/tags/git/">Git</category>
                                 
                             
                         

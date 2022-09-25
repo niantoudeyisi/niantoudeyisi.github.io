@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">汪先雨的博客</title>
     <subtitle type="html">汪先雨的博客</subtitle>
-    <updated>2022-09-25T23:11:08&#43;08:00</updated>
+    <updated>2022-09-25T23:19:07&#43;08:00</updated>
     <id>https://niantoudeyisi.github.io/</id>
     <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://niantoudeyisi.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">20220925_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/09/20220925_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/09/20220925_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-09-25T23:10:51&#43;08:00</updated>
+            <updated>2022-09-25T23:18:37&#43;08:00</updated>
             <published>2022-09-25T21:12:30&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -74,6 +74,7 @@ ci/cd挺有意思 。&lt;/p&gt;
 &lt;p&gt;打算洗牙来着 要核算证明。下次再去了。&lt;/p&gt;
 &lt;p&gt;adh的账号密码默认似乎是bcrypt 10位加密。不知道位数是否会有影响。目前我是10位正常替换使用&lt;/p&gt;
 &lt;p&gt;三十块买了200ml*20的牛奶 不知道算不算贵。&lt;/p&gt;
+&lt;p&gt;有点哈人。刚刚git add commit put发现数字写错了就git reset了。然后内容就都没了。 还好可以在reflog能reset回来。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;把自己的简历模子，发给一个应该也是快毕业的一个网友了。
 总感觉我的烂简历应该也帮不到什么忙。
@@ -118,6 +119,12 @@ ci/cd挺有意思 。&lt;/p&gt;
                                 <category scheme="https://niantoudeyisi.github.io/tags/github/" term="GitHub" label="GitHub" />
                             
                         
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/git/" term="Git" label="Git" />
+                            
+                        
                     
                 
             
@@ -127,7 +134,7 @@ ci/cd挺有意思 。&lt;/p&gt;
             <title type="text">20220918_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/09/20220918_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/09/20220918_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-09-19T01:08:43&#43;08:00</updated>
+            <updated>2022-09-25T23:17:23&#43;08:00</updated>
             <published>2022-09-18T20:02:33&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -1688,7 +1695,7 @@ usb-storage.quirks=152d:0578:u
             <title type="text">记录一下我收集的一些好听的歌</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8B%E6%88%91%E6%94%B6%E9%9B%86%E7%9A%84%E4%B8%80%E4%BA%9B%E5%A5%BD%E5%90%AC%E7%9A%84%E6%AD%8C/" />
             <id>https://niantoudeyisi.github.io/posts/2022/%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8B%E6%88%91%E6%94%B6%E9%9B%86%E7%9A%84%E4%B8%80%E4%BA%9B%E5%A5%BD%E5%90%AC%E7%9A%84%E6%AD%8C/</id>
-            <updated>2022-09-25T21:47:49&#43;08:00</updated>
+            <updated>2022-09-25T23:17:23&#43;08:00</updated>
             <published>2022-06-26T22:13:58&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
