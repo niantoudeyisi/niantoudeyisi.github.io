@@ -38,6 +38,9 @@ git push -u origin public
 # 还有将本地一个仓库 推送到另一个远程仓库的另一个分支上
 # 就是将 url是仓库地址 ；就是将本地master分支推送到远程deploy分支
 git push -f url master:deploy  
+
+# 后续基本上就是
+git add . && git commit -m  "20221007" && git push 
 ```
 
 ```
