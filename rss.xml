@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 23 Oct 2022 21:32:02 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 23 Oct 2022 21:58:21 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://niantoudeyisi.github.io/rss.xml" />
         
@@ -38,8 +38,10 @@
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;
-&lt;p&gt;感觉有点达克效应了。越来越咸鱼了。&lt;/p&gt;
+                    <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/10/IMG_20221022_105838511.jpg&#34; alt=&#34;周六团建&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/10/IMG_20221022_143032177.jpg&#34; alt=&#34;周六团建&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;
+&lt;p&gt;感觉有点达克效应了。越菜感觉自己越厉害。&lt;/p&gt;
 &lt;p&gt;ddns-go 真好用；看了下源码感觉好像不是很复杂。md想学学golang学学这个源码了。&lt;/p&gt;
 &lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;
 &lt;p&gt;蜜汁停电&lt;/p&gt;
@@ -67,6 +69,7 @@
 &lt;p&gt;感动好像会随着时间一同流逝。也可能是我没什么才能罢。&lt;/p&gt;
 &lt;p&gt;晚上心血来潮收拾桌面。就拔插了一下笔记本的电源。莫名其妙win11掉引导了。修复完引导会绿屏进不去。然后经高人指点进安全模式。就进去了。然后啥也没干。重启就正常了。
 真是有点受不了win11了。&lt;/p&gt;
+&lt;p&gt;买了点皮蛋吃。好久没吃过了。想吃吃看。&lt;/p&gt;
 &lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
 &lt;p&gt;昨天好像运行过度，全身酸痛。屁股贼酸。
 但不知道为什么却也感觉很舒服。&lt;/p&gt;
@@ -1671,6 +1674,11 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
 &lt;li&gt;&lt;a href=&#34;https://github.com/mouday/domain-admin&#34;&gt;https://github.com/mouday/domain-admin&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;域名ssl监测平台。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;PicGo
+&lt;ul&gt;
+&lt;li&gt;很好用的github图床工具&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
