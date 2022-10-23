@@ -12,7 +12,7 @@ tags:
 
 ## 简单的几个命令	 
 
-​	就是一个仓库创建两个分支 然后 都提交到远程仓库；然后每次合并文件到public的分支 ；存放public文件的仓库作为默认展示分支； 
+​	~~就是一个仓库创建两个分支 然后 都提交到远程仓库；然后每次合并文件到各自的分支；存放public文件的仓库分支作为默认展示分支；~~ 
 
 
 
@@ -20,7 +20,7 @@ tags:
 # 创建分支
 git checkout -b public
 
-# 切换分支j
+# 切换分支
 git checkout public 
 
 # 复制文件到另外一个分支
@@ -43,7 +43,9 @@ git push -f url master:deploy
 git add . && git commit -m  "20221007" && git push 
 ```
 
-```
-然后我这边 就是本地blog文件 resource推送到一个分支 
-然后进入public目录将内容推送到另一个用于展示github pages的分支
-```
+> 然后我这边 就是本地blog文件 resource推送到一个分支 
+> 然后进入public目录将内容推送到另一个用于展示github pages的分支
+
+---
+
+就是是本地两个仓库，分别推送到远程的有个仓库的两个分支
