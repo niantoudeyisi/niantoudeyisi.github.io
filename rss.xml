@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 31 Oct 2022 00:53:31 &#43;0800</lastBuildDate>
+        <lastBuildDate>Mon, 31 Oct 2022 01:09:59 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://niantoudeyisi.github.io/rss.xml" />
         
@@ -86,7 +86,8 @@
 搞了凌晨了。md。可惜服务器客户端对调之后速度还是不能跑满。懒得折腾了。&lt;/p&gt;
 &lt;p&gt;又看到有说R8168不好169更好的。
 试了下插交换机上和不插交换机上也有很大区别。吐了。&lt;/p&gt;
-&lt;p&gt;感觉是不是&lt;/p&gt;
+&lt;p&gt;吐了 又有说内核有问题。
+放弃了。&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;已安装
 opkg list_installed
 卸载ipk
