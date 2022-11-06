@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "4de18c0cb4532f91",
+    "type": "split",
+    "children": [
+      {
+        "id": "51acb6722da65d67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47bbcf1f1c589b19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/2022/11/20221106_最近的日常.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a920a6c9267b3b24",
+    "type": "split",
+    "children": [
+      {
+        "id": "59aadfa53846cdb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7d3c41bb8039559",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a240eea97316f5ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be9b6187fbdae0ef",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9ed54ecba2cab1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5268a54ac8233a5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64e48e15b7e1d0cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/2022/11/20221106_最近的日常.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c6856f98a6d9bb5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/2022/11/20221106_最近的日常.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a8b313798c84e64",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "39d330d190218856",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/2022/11/20221106_最近的日常.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "39d330d190218856",
+  "lastOpenFiles": [
+    "posts/2022/11/电脑重做系统后的环境.md",
+    "posts/2022/11/20221106_最近的日常.md",
+    "posts/2022/大佬们的博客.md",
+    "posts/2022/常用的工具.md",
+    "posts/2022/10/判断端口是否被封掉.md",
+    "posts/2022/常用的网站.md",
+    "posts/2022/10/20221030_最近的日常.md",
+    "posts/2022/10/debian禁用ipv6.md",
+    "posts/2022/10/20221023_最近的日常.md",
+    "posts/2022/10/20221002_最近的日常.md"
+  ]
+}
