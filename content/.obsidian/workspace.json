@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2022/11/20221106_最近的日常.md",
+                "file": "posts/2022/10/20221007_最近的日常.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,13 +85,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2022/11/20221106_最近的日常.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "posts/2022/10/20221007_最近的日常.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -102,8 +102,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2022/11/20221106_最近的日常.md",
-                "linksCollapsed": false,
+                "file": "posts/2022/10/20221007_最近的日常.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -125,28 +125,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2022/11/20221106_最近的日常.md"
+                "file": "posts/2022/10/20221007_最近的日常.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "39d330d190218856",
+  "active": "1c6856f98a6d9bb5",
   "lastOpenFiles": [
-    "posts/2022/11/电脑重做系统后的环境.md",
+    "posts/2022/10/20221002_最近的日常.md",
     "posts/2022/11/20221106_最近的日常.md",
+    "posts/2022/11/电脑重做系统后的环境.md",
     "posts/2022/大佬们的博客.md",
     "posts/2022/常用的工具.md",
     "posts/2022/10/判断端口是否被封掉.md",
     "posts/2022/常用的网站.md",
     "posts/2022/10/20221030_最近的日常.md",
     "posts/2022/10/debian禁用ipv6.md",
-    "posts/2022/10/20221023_最近的日常.md",
-    "posts/2022/10/20221002_最近的日常.md"
+    "posts/2022/10/20221023_最近的日常.md"
   ]
 }
