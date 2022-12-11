@@ -1,1 +1,11 @@
-{}
+{
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "workspace:toggle-pin": []
+}
