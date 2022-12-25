@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">汪先雨的博客</title>
     <subtitle type="html">汪先雨的博客</subtitle>
-    <updated>2022-12-18T21:00:07&#43;08:00</updated>
+    <updated>2022-12-25T20:35:39&#43;08:00</updated>
     <id>https://niantoudeyisi.github.io/</id>
     <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://niantoudeyisi.github.io/atom.xml" />
@@ -16,6 +16,153 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.105.0">Hugo</generator>
+        <entry>
+            <title type="text">20221225_最近的日常</title>
+            <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/12/20221225_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
+            <id>https://niantoudeyisi.github.io/posts/2022/12/20221225_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
+            <updated>2022-12-25T20:27:15&#43;08:00</updated>
+            <published>2022-12-19T20:48:31&#43;08:00</published>
+            <author>
+                    <name>汪先雨</name>
+                    <uri>https://niantoudeyisi.github.io</uri>
+                    <email>niantoudeyisi@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/12/IMG_20221225_150956089_HDR.jpg&#34; alt=&#34;十里斜塘&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;想办法跳过编译错误，提交自己已经提交过的代码。编译了openwrt四次。每次绕过之后又有新的。 目前来说失败了&lt;/p&gt;
+&lt;p&gt;工位换了一下。现在大家都是隔一个了。 目前pon上线环境好像有点问题。明天再去弄弄了。&lt;/p&gt;
+&lt;p&gt;又被分配了两个任务。 。。 感觉25号手上的活是做不完了。。。&lt;/p&gt;
+&lt;p&gt;mtu 有点搞不太懂。br-lan和wan的mtu不一样，改lan的会导致流不通。&lt;/p&gt;
+&lt;p&gt;testcenter抓不到mtu分片。 吐了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;早上五点莫名醒了。梦到奶奶在敲门叫我吃饭。。。还真的是有点想家了。&lt;/p&gt;
+&lt;p&gt;脑壳有点疼 。不知道是着凉还是阳了。暂且没其他感受。感觉是看电脑时间太长了。&lt;/p&gt;
+&lt;p&gt;自己热花生米还挺方便实惠。冬天面包机加热12分钟左右就可以吃了。&lt;/p&gt;
+&lt;p&gt;外卖有点点不到了。也不知道什么原因。真奇怪。突然之间就所有的正餐店在app上就消失了。。&lt;/p&gt;
+&lt;p&gt;南京的甲方好像阳了不少。&lt;/p&gt;
+&lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;testcenter 模拟组播接受设备。需要设备开启snoop。 不然无法正常模拟开关。。吐了。 折腾了一两个小时。这几天testcenter真的是玩吐了。环境问题太恶心了。&lt;/p&gt;
+&lt;p&gt;submit需要重新编一下。看看谁弄出来的编译错误。 感觉还是很久很久以前的问题。。&lt;/p&gt;
+&lt;p&gt;daily问题。感觉像是release版本的。目录有点看不懂。明天需要去问一下。&lt;/p&gt;
+&lt;p&gt;mtu问题感觉要烂掉。 pd前缀。也不知道怎么搞。。&lt;/p&gt;
+&lt;p&gt;还有三天。一大堆问题。吐了啊。&lt;/p&gt;
+&lt;p&gt;被纠正了一下加班时间的写法。不要2h30m 要2.5h 。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;外卖越来越慢了。 大的要来了。&lt;/p&gt;
+&lt;p&gt;快递感觉是到了苏州之后就不动了。&lt;/p&gt;
+&lt;p&gt;昨晚脑壳真疼。&lt;/p&gt;
+&lt;p&gt;中午睡觉流口水真的吐了。几乎每次都流口水。。高中趴桌子午睡休憩也没这么经常流口水的。&lt;/p&gt;
+&lt;p&gt;快递到了。&lt;/p&gt;
+&lt;p&gt;开门拿钥匙的时候耳机摔楼下去了。居然没摔坏。。。估计多少有些损伤。&lt;/p&gt;
+&lt;p&gt;是十一个8.5cm苹果五斤.&lt;/p&gt;
+&lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;挂了一晚上的soak 打流莫名很多丢包。离谱至极&lt;/p&gt;
+&lt;p&gt;submit代码合入之后有编译错误。重新下载一点一点调试看了。&lt;/p&gt;
+&lt;p&gt;mtu需要设置pon.100 不是pppoe&lt;/p&gt;
+&lt;p&gt;远程环境确认ok了似乎是基于vmware的。然后贼卡。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;外卖等了一个多小时没人接单。&lt;/p&gt;
+&lt;p&gt;好像有几个同事疑似阳了&lt;/p&gt;
+&lt;p&gt;老头给打电话了家里阳了不少。&lt;/p&gt;
+&lt;p&gt;两个杂粮快递卡了有六七天了。估计到我手里都烂了。&lt;/p&gt;
+&lt;p&gt;很舒服晚上dota2任务箱子踢了个16级。。&lt;/p&gt;
+&lt;p&gt;优衣库的T恤领子要烂了，也不知道是穿烂的还是洗烂的。一年多以前买的了。还是第一次有意识到穿坏衣服。&lt;/p&gt;
+&lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;好恶心的submit 合并修改过makefile加werror的。吐了几十个profile需要改。 感觉要改到死。&lt;/p&gt;
+&lt;p&gt;当前的olt环境 一会丢包严重一会没有丢包。真的是看不懂了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;家里老头来电话了。有可能阳了。突然想到为什么那么多人抢药和抗原了。 之前我还以为小区会发。问了一下屁都没有。苏州这边倒是发烧可以去免费领取。&lt;/p&gt;
+&lt;p&gt;然后这边常点的外卖彻底点不到了。周末得屯点做饭的素材了。&lt;/p&gt;
+&lt;p&gt;公司好像又有几个同事阳了&lt;/p&gt;
+&lt;p&gt;经过一次次实验。目前我这边苏州冬天的环境 三明治机13分支左右的热熟生花生最好吃。&lt;/p&gt;
+&lt;p&gt;看动漫，成年人都要看淡事物的技巧。会少很多痛苦。&lt;/p&gt;
+&lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;中午实验室断电。环境&amp;quot;爆炸&amp;quot;,再加上很多QA请假。 olt出问题恶心一笔。&lt;/p&gt;
+&lt;p&gt;submit、算是告一段落了，允许我下次合入。md 想想几十个profile需要修改编译错误。我就害怕。&lt;/p&gt;
+&lt;p&gt;openwrt测试一堆问题。下周不知道到QA手里会出现什么问题。一坨答辩(/doge)。&lt;/p&gt;
+&lt;p&gt;公司发了三组抗原。&lt;/p&gt;
+&lt;p&gt;想买点零食周末造一下，附件好多小卖铺都关门了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;室友好像是阳了。 我估计也快了。&lt;/p&gt;
+&lt;p&gt;发现外卖一个菜不是很贵。一荤一素就比较贵。我在想我是不是可以买点生菜。用水烫一烫吃。几块钱够吃好几天了。&lt;/p&gt;
+&lt;p&gt;晚上坐大佬同事的电动车回宿舍。好快啊。也好冷。差点给我冻死。冷风吹得我的眼泪直流。&lt;/p&gt;
+&lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;参加了个公司的线上年会。莫名想到上学时候的元旦晚会。。。&lt;/p&gt;
+&lt;p&gt;然后莫名有个新人奖1200。😀 +1200还是很开心的。&lt;/p&gt;
+&lt;p&gt;下午去买了11个鸡蛋8块。然后回来的路上被我弄坏了三个，晚上含泪加餐。&lt;/p&gt;
+&lt;p&gt;两个生菜+一组小青菜 13块 好便宜。焯小青菜味道说好也好说难吃叶难吃。不好评价。&lt;/p&gt;
+&lt;p&gt;晚上久违吃了自己做的菜(没有饭)。真的不如外卖好吃。 但是现在外卖难点而且贵。&lt;/p&gt;
+&lt;p&gt;耳机又丢了一支。不知道是不是落在公司了。&lt;/p&gt;
+&lt;p&gt;试了一下跑步卫衣绳子容易打脸，系了一下。完美！&lt;/p&gt;
+&lt;p&gt;外套好像快坏掉了。，，自己缝了一下。目前是会缝衣服的收尾打结了太神奇了。&lt;/p&gt;
+&lt;p&gt;鸟类的新陈代谢好像是很快的。&lt;/p&gt;
+&lt;p&gt;终于打完岩洞了。但是电脑太垃圾看不出什么特效。艹了。&lt;/p&gt;
+&lt;p&gt;戴了口罩跑步确实不怎么流鼻涕了。但是有点费口罩。只能经常脱敏训练了。还有不知道是不是姿势或者鞋子有问题。一只脚的脚踝容易难受右脚却没什么感觉&lt;/p&gt;
+&lt;p&gt;缝了一下衣服口袋。学会收尾打结了。真神奇。真不知道前人是怎么想出来的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;技术&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pasteme的docker有点bug。不知道是我导致的还是本身有问题。手机端会无法显示。restart 容器就好了。&lt;/p&gt;
+&lt;p&gt;还有clash，也是restart就好了。不知道是机场还是配置文件有问题。&lt;/p&gt;
+&lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;家里老头来电话了，说我，他阳了生病也不关心他。
+我不知道是不是我缺失了什么情感。也可能是我的错觉。 当时晚上看到消息已经十点了。我之前疑似感染。头疼也只能硬抗，我也没有什么办法。别人关心感觉也只会打扰休息。&lt;/p&gt;
+&lt;p&gt;室友似乎还是生病比较严重。&lt;/p&gt;
+&lt;p&gt;抓绒的衣服真暖和。以前都是冬天最里层是一件T恤。&lt;/p&gt;
+&lt;p&gt;下午两点去斜塘河边溜达了一下。钓鱼晒太阳真舒服。&lt;/p&gt;
+&lt;p&gt;中饭午饭都去门面店打包了。现在外卖真离谱。十几块的外卖配送费十几块。&lt;/p&gt;
+&lt;p&gt;年报写完了。后买就按照那个模板整了。(笑&lt;/p&gt;
+&lt;p&gt;下周不知道怎么安排了。submit想想就头疼。openwrt还有一点问题。&lt;/p&gt;
+&lt;hr&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/categories/2022%E6%97%A5%E5%B8%B8/" term="2022日常" label="2022日常" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/2022%E6%97%A5%E5%B8%B8/" term="2022日常" label="2022日常" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/pasteme/" term="PasteMe" label="PasteMe" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/docker/" term="Docker" label="Docker" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">20221218_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/12/20221218_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
@@ -1809,7 +1956,7 @@ drone感觉r2s带不起来。没弄了。&lt;/p&gt;
             <title type="text">20220925_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/09/20220925_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/09/20220925_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-11-05T18:00:11&#43;08:00</updated>
+            <updated>2022-12-22T20:28:50&#43;08:00</updated>
             <published>2022-09-25T21:12:30&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -1927,7 +2074,7 @@ ci/cd挺有意思 。&lt;/p&gt;
             <title type="text">20220918_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/09/20220918_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/09/20220918_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-11-05T18:00:11&#43;08:00</updated>
+            <updated>2022-12-22T20:28:17&#43;08:00</updated>
             <published>2022-09-18T20:02:33&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -2032,7 +2179,7 @@ ci/cd挺有意思 。&lt;/p&gt;
             <title type="text">20220911_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/09/20220911_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/09/20220911_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-11-05T18:00:11&#43;08:00</updated>
+            <updated>2022-12-22T20:26:33&#43;08:00</updated>
             <published>2022-09-11T20:17:19&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -2133,7 +2280,7 @@ r2s 微调了一下pwm风扇脚本 不然一会跑一会停好吵&lt;/p&gt;
             <title type="text">20220904_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/09/20220904_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/09/20220904_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-11-05T18:00:11&#43;08:00</updated>
+            <updated>2022-12-22T20:26:07&#43;08:00</updated>
             <published>2022-09-04T23:21:35&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -2230,7 +2377,7 @@ r2s 微调了一下pwm风扇脚本 不然一会跑一会停好吵&lt;/p&gt;
             <title type="text">20220828_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/08/20220828_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/08/20220828_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-11-05T18:00:11&#43;08:00</updated>
+            <updated>2022-12-22T20:25:49&#43;08:00</updated>
             <published>2022-08-28T20:48:37&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -2465,7 +2612,7 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
             <title type="text">20220814_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/08/20220814_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/08/20220814_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-11-05T18:00:11&#43;08:00</updated>
+            <updated>2022-12-22T20:25:03&#43;08:00</updated>
             <published>2022-08-14T23:44:14&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -2531,7 +2678,7 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
             <title type="text">20220807_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/08/20220807_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/08/20220807_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-11-05T18:00:11&#43;08:00</updated>
+            <updated>2022-12-22T20:24:54&#43;08:00</updated>
             <published>2022-08-07T23:47:54&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -2604,7 +2751,7 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
             <title type="text">20220731_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/07/20220731_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/07/20220731_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-11-05T18:00:11&#43;08:00</updated>
+            <updated>2022-12-19T20:49:09&#43;08:00</updated>
             <published>2022-07-31T23:30:17&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -2681,7 +2828,7 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
             <title type="text">有趣的博客</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8D%9A%E5%AE%A2/" />
             <id>https://niantoudeyisi.github.io/posts/2022/%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
-            <updated>2022-12-04T20:09:29&#43;08:00</updated>
+            <updated>2022-12-25T20:24:47&#43;08:00</updated>
             <published>2022-07-25T23:24:29&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -2789,6 +2936,11 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
 &lt;li&gt;&lt;a href=&#34;https://qust.me/&#34;&gt;https://qust.me/&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;大佬的blog。后面耍shellclash参考参考！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://song.al/haowu2022&#34;&gt;https://song.al/haowu2022&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;向往的大佬。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -3096,7 +3248,7 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
             <title type="text">20220724_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/07/20220724_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/07/20220724_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-11-05T18:00:11&#43;08:00</updated>
+            <updated>2022-12-19T20:49:03&#43;08:00</updated>
             <published>2022-07-24T22:09:10&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -3165,7 +3317,7 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
             <title type="text">20220717_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/07/20220717_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/07/20220717_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-11-05T18:00:11&#43;08:00</updated>
+            <updated>2022-12-19T20:48:56&#43;08:00</updated>
             <published>2022-07-17T22:08:15&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -3266,7 +3418,7 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
             <title type="text">20220710_今天的低效率工作</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/07/20220710_%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%BD%8E%E6%95%88%E7%8E%87%E5%B7%A5%E4%BD%9C/" />
             <id>https://niantoudeyisi.github.io/posts/2022/07/20220710_%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%BD%8E%E6%95%88%E7%8E%87%E5%B7%A5%E4%BD%9C/</id>
-            <updated>2022-11-05T18:00:11&#43;08:00</updated>
+            <updated>2022-12-19T20:48:52&#43;08:00</updated>
             <published>2022-07-10T23:16:55&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -3593,7 +3745,7 @@ config interface &amp;#39;lan&amp;#39;
             <title type="text">树莓派用JMS578硬盘盒的坑</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/06/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%94%A8jms578%E7%A1%AC%E7%9B%98%E7%9B%92%E7%9A%84%E5%9D%91/" />
             <id>https://niantoudeyisi.github.io/posts/2022/06/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%94%A8jms578%E7%A1%AC%E7%9B%98%E7%9B%92%E7%9A%84%E5%9D%91/</id>
-            <updated>2022-11-05T18:00:11&#43;08:00</updated>
+            <updated>2022-12-22T20:21:56&#43;08:00</updated>
             <published>2022-06-26T23:06:38&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -4096,7 +4248,7 @@ usb-storage.quirks=152d:0578:u
             <title type="text">关于docker镜像加速</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/06/%E5%85%B3%E4%BA%8Edocker%E9%95%9C%E5%83%8F%E5%8A%A0%E9%80%9F/" />
             <id>https://niantoudeyisi.github.io/posts/2022/06/%E5%85%B3%E4%BA%8Edocker%E9%95%9C%E5%83%8F%E5%8A%A0%E9%80%9F/</id>
-            <updated>2022-11-05T18:00:11&#43;08:00</updated>
+            <updated>2022-12-22T20:21:55&#43;08:00</updated>
             <published>2022-06-18T17:37:01&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
