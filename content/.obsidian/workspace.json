@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2022/12/20221225_最近的日常.md",
+                "file": "posts/2023/01/20230101_最近的日常.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2022/12/20221225_最近的日常.md",
+                "file": "posts/2023/01/20230101_最近的日常.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2022/12/20221225_最近的日常.md",
+                "file": "posts/2023/01/20230101_最近的日常.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2022/12/20221225_最近的日常.md"
+                "file": "posts/2023/01/20230101_最近的日常.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "e0630646ab164268",
   "lastOpenFiles": [
-    "posts/2022/有趣的博客.md",
+    "posts/2023/2023_有趣的歌.md",
+    "posts/2023/01/20230101_最近的日常.md",
+    "posts/2023/2023_有趣的网站.md",
     "posts/2022/12/20221225_最近的日常.md",
-    "posts/2022/10/20221007_最近的日常.md",
-    "posts/2022/10/20221016_最近的日常.md",
-    "posts/2022/10/20221002_最近的日常.md",
-    "posts/2022/09/20220925_最近的日常.md",
-    "posts/2022/09/20220918_最近的日常.md",
-    "posts/2022/09/20220911_最近的日常.md",
-    "posts/2022/09/20220904_最近的日常.md",
-    "posts/2022/08/20220828_最近的日常.md"
+    "posts/2023/2023_有趣的工具.md",
+    "posts/2022/有趣的网站.md",
+    "posts/2022/有趣的工具.md",
+    "posts/2022/有趣的歌.md",
+    "posts/2023/2023_有趣的博客.md",
+    "posts/2022/有趣的博客.md"
   ]
 }
