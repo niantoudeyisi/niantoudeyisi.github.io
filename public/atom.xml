@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">汪先雨的博客</title>
     <subtitle type="html">汪先雨的博客</subtitle>
-    <updated>2023-01-08T22:13:45&#43;08:00</updated>
+    <updated>2023-01-08T22:26:43&#43;08:00</updated>
     <id>https://niantoudeyisi.github.io/</id>
     <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://niantoudeyisi.github.io/atom.xml" />
@@ -20,8 +20,8 @@
             <title type="text">20230108_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/01/20230108_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2023/01/20230108_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2023-01-08T21:58:55&#43;08:00</updated>
-            <published>2023-01-02T21:01:07&#43;08:00</published>
+            <updated>2023-01-08T22:20:14&#43;08:00</updated>
+            <published>2023-01-08T21:01:07&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
                     <uri>https://niantoudeyisi.github.io</uri>
@@ -115,10 +115,110 @@
         </entry>
     
         <entry>
+            <title type="text">20230101_最近的日常</title>
+            <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/01/20230101_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
+            <id>https://niantoudeyisi.github.io/posts/2023/01/20230101_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
+            <updated>2023-01-08T22:19:54&#43;08:00</updated>
+            <published>2023-01-01T01:30:11&#43;08:00</published>
+            <author>
+                    <name>汪先雨</name>
+                    <uri>https://niantoudeyisi.github.io</uri>
+                    <email>niantoudeyisi@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/12/IMG_20221230_095412215.jpg&#34; alt=&#34;路由器串口线序&#34;&gt;&lt;/p&gt;
+&lt;p&gt;之前都不懂这是什么。黑色接地，绿色黄色 tx rx，接收数据和传送数据，红色电源线 。 (大概&lt;/p&gt;
+&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;submit进度加一点点&lt;/p&gt;
+&lt;p&gt;openwrt QA测试又有新的问题。需要看代码解决。吐了。&lt;/p&gt;
+&lt;p&gt;coverity进度一点点。但是发现好多被斌哥解决了。tql。&lt;/p&gt;
+&lt;p&gt;同一个项目的大佬生病了没来。任务全到我这边了。压力Max。之前纯纯是有个子高的顶着啊。/(ㄒoㄒ)/~~&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;吃饭，外卖20 店里15 。。。 算上运费需要三十多。还不一定有人接单。&lt;/p&gt;
+&lt;p&gt;抓绒长袖真舒服。中午睡觉腿有点冷。&lt;/p&gt;
+&lt;p&gt;跑步跑不动。跑完也没有喉咙有奇怪的味道的感觉。心率增长也较快。感觉肌肉好像没以前灵活了。应该是僵硬掉了。&lt;/p&gt;
+&lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;外卖好像开始恢复了。&lt;/p&gt;
+&lt;p&gt;快递好像还是有问题。顺丰竟然送不到了，目前我这个地址。&lt;/p&gt;
+&lt;p&gt;打算给爷爷整个电视机。&lt;/p&gt;
+&lt;p&gt;两倍摄像头似乎比一倍摄像头拍照会有意料之外的效果。神奇的小知识增加了。&lt;/p&gt;
+&lt;p&gt;打算修一下索尼xp，太累了。懒得弄了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;好累啊。活越来越多，旧的没处理掉。还不断有新的活。&lt;/p&gt;
+&lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;脑壳疼，怕自己是阳了，请假。躺一天好无聊啊。不是双休的休息。有点不知所措。也不知道去干什么好。&lt;/p&gt;
+&lt;p&gt;外卖好像有变得怪怪的了。昨天晚上下班回来看还能点。今天看又点不了了。&lt;/p&gt;
+&lt;p&gt;早饭的燕麦又没吃。&lt;/p&gt;
+&lt;p&gt;抗原自测捅鼻子好难受啊我日。。。 还有那个滴灌正好就四滴。精湛的刀法。 感觉这个东西应该是试剂和试纸比较难制造。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;好像阳了请了个假，晚上自测了一下是阴的。&lt;/p&gt;
+&lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一堆qa测试的疑问。然后解新的问题。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;起床 - 吃饭 - 休息 - 干活 - 吃饭 - 睡觉&lt;/p&gt;
+&lt;p&gt;音乐真有意思。静静的听歌，让人有一种莫名的冲动。&lt;/p&gt;
+&lt;p&gt;新耳机到了，整理音乐。又看到了一首16年刚出来，我就听过的歌。现在已经22年了。。。还在听。&lt;/p&gt;
+&lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;干活。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;玩手机-睡觉。&lt;/p&gt;
+&lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;狠狠的玩手机睡觉。&lt;/p&gt;
+&lt;p&gt;pin码电脑锁只能识别数字。不识别字母。有意思的。可以乱按字母在按数字然后解锁。&lt;/p&gt;
+&lt;p&gt;一直躺着好无聊。&lt;/p&gt;
+&lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;狠狠的睡觉&lt;/p&gt;
+&lt;p&gt;打算给家里老人整个椭圆机 。&lt;/p&gt;
+&lt;p&gt;跑步要带卫生纸。艹了 流鼻涕太影响呼吸节奏了。然后跑步需要直着身子，不然锻练不到正确的部位，效果会比较差(大概&lt;/p&gt;
+&lt;p&gt;硬鞋子跑步不是很舒服。&lt;/p&gt;
+&lt;p&gt;去买水果，好多梨子都烂了。好像也没有新进水果的打算。 还有每次过去收银员都不一样。。。😂&lt;/p&gt;
+&lt;p&gt;感觉最近的小说，越来越奇怪了。&lt;/p&gt;
+&lt;p&gt;洗衣服-收拾垃圾-买点菜-然后送的小葱用泡沫浮着尝试水培玩玩。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;去年这个时候，我还在家里打dota。 现在也是。🤣&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/categories/2023%E6%97%A5%E5%B8%B8/" term="2023日常" label="2023日常" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/2023%E6%97%A5%E5%B8%B8/" term="2023日常" label="2023日常" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">2023_有趣的网站</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E7%BD%91%E7%AB%99/" />
             <id>https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E7%BD%91%E7%AB%99/</id>
-            <updated>2023-01-08T01:41:57&#43;08:00</updated>
+            <updated>2023-01-08T22:17:35&#43;08:00</updated>
             <published>2022-12-26T19:44:50&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -128,7 +228,7 @@
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">2023年份的</summary>
             
                 <content type="html">&lt;p&gt;2023年份的&lt;/p&gt;
-&lt;h2 id=&#34;1&#34;&gt;1&lt;/h2&gt;
+&lt;h2 id=&#34;01&#34;&gt;01&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://music.ghxi.com/&#34;&gt;https://music.ghxi.com/&lt;/a&gt;
 &lt;ul&gt;
@@ -372,106 +472,6 @@
                             
                             
                                 <category scheme="https://niantoudeyisi.github.io/tags/%E5%B7%A5%E5%85%B7/" term="工具" label="工具" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">20230101_最近的日常</title>
-            <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/01/20230101_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
-            <id>https://niantoudeyisi.github.io/posts/2023/01/20230101_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2023-01-02T18:55:26&#43;08:00</updated>
-            <published>2022-12-26T01:30:11&#43;08:00</published>
-            <author>
-                    <name>汪先雨</name>
-                    <uri>https://niantoudeyisi.github.io</uri>
-                    <email>niantoudeyisi@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
-            
-                <content type="html">&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/12/IMG_20221230_095412215.jpg&#34; alt=&#34;路由器串口线序&#34;&gt;&lt;/p&gt;
-&lt;p&gt;之前都不懂这是什么。黑色接地，绿色黄色 tx rx，接收数据和传送数据，红色电源线 。 (大概&lt;/p&gt;
-&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;submit进度加一点点&lt;/p&gt;
-&lt;p&gt;openwrt QA测试又有新的问题。需要看代码解决。吐了。&lt;/p&gt;
-&lt;p&gt;coverity进度一点点。但是发现好多被斌哥解决了。tql。&lt;/p&gt;
-&lt;p&gt;同一个项目的大佬生病了没来。任务全到我这边了。压力Max。之前纯纯是有个子高的顶着啊。/(ㄒoㄒ)/~~&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;吃饭，外卖20 店里15 。。。 算上运费需要三十多。还不一定有人接单。&lt;/p&gt;
-&lt;p&gt;抓绒长袖真舒服。中午睡觉腿有点冷。&lt;/p&gt;
-&lt;p&gt;跑步跑不动。跑完也没有喉咙有奇怪的味道的感觉。心率增长也较快。感觉肌肉好像没以前灵活了。应该是僵硬掉了。&lt;/p&gt;
-&lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;外卖好像开始恢复了。&lt;/p&gt;
-&lt;p&gt;快递好像还是有问题。顺丰竟然送不到了，目前我这个地址。&lt;/p&gt;
-&lt;p&gt;打算给爷爷整个电视机。&lt;/p&gt;
-&lt;p&gt;两倍摄像头似乎比一倍摄像头拍照会有意料之外的效果。神奇的小知识增加了。&lt;/p&gt;
-&lt;p&gt;打算修一下索尼xp，太累了。懒得弄了。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;好累啊。活越来越多，旧的没处理掉。还不断有新的活。&lt;/p&gt;
-&lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;脑壳疼，怕自己是阳了，请假。躺一天好无聊啊。不是双休的休息。有点不知所措。也不知道去干什么好。&lt;/p&gt;
-&lt;p&gt;外卖好像有变得怪怪的了。昨天晚上下班回来看还能点。今天看又点不了了。&lt;/p&gt;
-&lt;p&gt;早饭的燕麦又没吃。&lt;/p&gt;
-&lt;p&gt;抗原自测捅鼻子好难受啊我日。。。 还有那个滴灌正好就四滴。精湛的刀法。 感觉这个东西应该是试剂和试纸比较难制造。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;好像阳了请了个假，晚上自测了一下是阴的。&lt;/p&gt;
-&lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;一堆qa测试的疑问。然后解新的问题。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;起床 - 吃饭 - 休息 - 干活 - 吃饭 - 睡觉&lt;/p&gt;
-&lt;p&gt;音乐真有意思。静静的听歌，让人有一种莫名的冲动。&lt;/p&gt;
-&lt;p&gt;新耳机到了，整理音乐。又看到了一首16年刚出来，我就听过的歌。现在已经22年了。。。还在听。&lt;/p&gt;
-&lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;干活。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;玩手机-睡觉。&lt;/p&gt;
-&lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;狠狠的玩手机睡觉。&lt;/p&gt;
-&lt;p&gt;pin码电脑锁只能识别数字。不识别字母。有意思的。可以乱按字母在按数字然后解锁。&lt;/p&gt;
-&lt;p&gt;一直躺着好无聊。&lt;/p&gt;
-&lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;狠狠的睡觉&lt;/p&gt;
-&lt;p&gt;打算给家里老人整个椭圆机 。&lt;/p&gt;
-&lt;p&gt;跑步要带卫生纸。艹了 流鼻涕太影响呼吸节奏了。然后跑步需要直着身子，不然锻练不到正确的部位，效果会比较差(大概&lt;/p&gt;
-&lt;p&gt;硬鞋子跑步不是很舒服。&lt;/p&gt;
-&lt;p&gt;去买水果，好多梨子都烂了。好像也没有新进水果的打算。 还有每次过去收银员都不一样。。。😂&lt;/p&gt;
-&lt;p&gt;感觉最近的小说，越来越奇怪了。&lt;/p&gt;
-&lt;p&gt;洗衣服-收拾垃圾-买点菜-然后送的小葱用泡沫浮着尝试水培玩玩。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;去年这个时候，我还在家里打dota。 现在也是。🤣&lt;/p&gt;
-</content>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://niantoudeyisi.github.io/categories/2023%E6%97%A5%E5%B8%B8/" term="2023日常" label="2023日常" />
-                            
-                        
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://niantoudeyisi.github.io/tags/2023%E6%97%A5%E5%B8%B8/" term="2023日常" label="2023日常" />
                             
                         
                     
