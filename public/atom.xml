@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">汪先雨的博客</title>
     <subtitle type="html">汪先雨的博客</subtitle>
-    <updated>2023-01-15T19:53:03&#43;08:00</updated>
+    <updated>2023-01-22T23:06:52&#43;08:00</updated>
     <id>https://niantoudeyisi.github.io/</id>
     <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://niantoudeyisi.github.io/atom.xml" />
@@ -17,10 +17,157 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.105.0">Hugo</generator>
         <entry>
+            <title type="text">20230122_最近的日常</title>
+            <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/01/20230122_%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F_%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4/" />
+            <id>https://niantoudeyisi.github.io/posts/2023/01/20230122_%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F_%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4/</id>
+            <updated>2023-01-22T23:06:47&#43;08:00</updated>
+            <published>2023-01-15T19:54:09&#43;08:00</published>
+            <author>
+                    <name>汪先雨</name>
+                    <uri>https://niantoudeyisi.github.io</uri>
+                    <email>niantoudeyisi@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/1/IMG_20230120_091633771.jpg&#34; alt=&#34;全身家当2.0&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/1/IMG_20230120_113620223_HDR.jpg&#34; alt=&#34;春节回家好多人&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/1/IMG_20230120_133701692_HDR.jpg&#34; alt=&#34;南京转站&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/1/IMG_20230120_135512387_HDR.jpg&#34; alt=&#34;南京站好大好多人&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/1/IMG_20230120_154644849.jpg&#34; alt=&#34;回老家汽车上拍摄的长江&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/1/IMG_20230121_002610395.jpg&#34; alt=&#34;老家卧室&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;内存泄漏的问题。一看ps拉了好多odhcpd。。。不知道什么情况 重新搭了个环境再看看。500MB的内存直接干到16MB&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今天好冷。在公司脚都是冷的。&lt;/p&gt;
+&lt;p&gt;隔夜饭有点咸。微波炉热的有点烫嘴。&lt;/p&gt;
+&lt;p&gt;笔记本没有电池好轻啊。&lt;/p&gt;
+&lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;干活&lt;/p&gt;
+&lt;p&gt;很多事情理清了思路。但是本质上还是没解决 。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;4kg大米有点重。&lt;/p&gt;
+&lt;p&gt;整了块数位板真有意思。哈哈。 挺好玩的&lt;/p&gt;
+&lt;p&gt;腊肉焖饭没我想象的好吃。 可能是肉不太好。下次再试试。&lt;/p&gt;
+&lt;p&gt;shellclash挺好用。每次折腾新东西虽然会很累。但是都能学到新东西。&lt;/p&gt;
+&lt;p&gt;发了年终奖。 给家里老人买了点钙片。 还是想买个椭圆机给他跑步的 ，感觉又不太想跑。&lt;/p&gt;
+&lt;p&gt;手不知道为什么破了。冬天手上都没感觉。&lt;/p&gt;
+&lt;p&gt;好冷这几天。&lt;/p&gt;
+&lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;干活&lt;/p&gt;
+&lt;p&gt;同事大佬 tql。几乎手把手帮我了。惭愧。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;卧槽。早上好冷。一天比一天冷。&lt;/p&gt;
+&lt;p&gt;电饭煲15分钟 ，饭就好了。好快啊。感觉需要在焖一会。&lt;/p&gt;
+&lt;p&gt;感觉腊肉还是切的薄一点好。和别的菜混在一起吃没啥感觉。应该是井上添花的。&lt;/p&gt;
+&lt;p&gt;半熟菜可以用蒸蛋器蒸20分钟左右。&lt;/p&gt;
+&lt;p&gt;穿两条裤子没那么冷了。&lt;/p&gt;
+&lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;代码和以前不一样。不知道怎么push了。主要是不能本地验证。md&lt;/p&gt;
+&lt;p&gt;感觉工作的话，把事情记录好很重要。更重要的是能把事情分类好。以后方便查询。这几个月来的工作记录了很多。但是现在回头看。乱七八糟的。。。 不好查询。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;中午没吃到外卖。点了外卖莫名其妙没点退款了。中午吃的香肠和面包。饿的好快。&lt;/p&gt;
+&lt;p&gt;电饭煲熟了就吃 。会有点夹生。 口感一言难尽。&lt;/p&gt;
+&lt;p&gt;饭快熟了放料理包 感觉和外卖一样了。&lt;/p&gt;
+&lt;p&gt;冬天洗碗好难受。&lt;/p&gt;
+&lt;p&gt;对我而言算是明天算是过年了。。。因为正式开始放假了。&lt;/p&gt;
+&lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;到家了&lt;/p&gt;
+&lt;p&gt;一路上坐高铁遇到了一对夫妇带着小孩。希望我可以换个位置。让他们五六岁的小孩可以坐一起。真有意思。 不知道为什么现在这个年纪再去看小孩子。感觉也好想养一个。。。唉。&lt;/p&gt;
+&lt;p&gt;路上看到一个妹子带着两个行李箱。tql。我拎一个都有点累。&lt;/p&gt;
+&lt;p&gt;到老家后坐汽车。汽车站旁边还有乞讨的老人。。。好多年没看到了。&lt;/p&gt;
+&lt;p&gt;公共汽车上看到类似售票员的存在。我记得我很小很小的时候。车子上还有售票员。后来小学自己坐公交车也没遇到过了。&lt;/p&gt;
+&lt;p&gt;芜湖公交车居然有两套系统。两种公交卡。也是醉了。到我老家只有一个路线的公交车可以到达。&lt;/p&gt;
+&lt;p&gt;路上看到有背着国家地理背包100元的那个。hhh 不知道是不是酷安老哥， 当时我也打算买来着。后来感觉太小了。现在感觉挺好的。大了屁用没有。&lt;/p&gt;
+&lt;p&gt;目前感觉还是需要一个充电宝。一天路程下来 电还剩30左右 有点危险。&lt;/p&gt;
+&lt;p&gt;还有回来的路上公交车上面居然有暖气。以前小学做了好几年根本没遇到过。&lt;/p&gt;
+&lt;p&gt;感觉老家也挺好的。&lt;/p&gt;
+&lt;p&gt;父母感觉状态不如以前了。感觉要是能家附近工作就好了。可惜尝试过。不可能。&lt;/p&gt;
+&lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;需要去哥哥家拜年&lt;/p&gt;
+&lt;p&gt;今天哥哥带着小孩过来了。小孩子长大好多了。。。当年我也是这么大。&lt;/p&gt;
+&lt;p&gt;感叹。我已经是小孩眼中的大人了。&lt;/p&gt;
+&lt;p&gt;爷爷过年给了我压岁钱。&lt;/p&gt;
+&lt;p&gt;过年需要去娘娘家还有哥哥家。&lt;/p&gt;
+&lt;p&gt;晚上出去溜达了一下。发现以前能跑到的地方现在只能跑个五分之一都没到。。。也是离谱。 现在的身体 跑步之后的累和以前不太一样。似乎是意志没以前坚定了。 能跑就跑吧。 每天跑一点。&lt;/p&gt;
+&lt;p&gt;后来下雨了 回家爬楼梯了。30楼还是真 高啊。 楼道有人养猫也是蛮有意思的。要是能在家门口找到舒服的工作 。也可以养养各种有意思的生物植物。&lt;/p&gt;
+&lt;p&gt;晚上发了60块红包。心疼。平时都不舍得吃60块钱的东西。不过感觉也挺有意思得。也不知道为什么。可能是挺热闹的。 也抢到了不少在大佬群里面大佬们发的红包。 公司群老板们也发了不少。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;技术&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;躺在床上 笔记本在放歌。想着手机可不可以控制下一首歌。百度了一下。18年就有大佬和我一个想法并把它实现出来了。tql。&lt;/p&gt;
+&lt;p&gt;后来又查了一下16年就有实现了。或许更早也有实现。估计在搜索引擎的犄角旮旯处。&lt;/p&gt;
+&lt;p&gt;我试了一下数位板的快捷键也可以。。。&lt;/p&gt;
+&lt;p&gt;然后蓝牙多媒体遥控器也可以。。。有点贵。我选择爬起来切换。&lt;/p&gt;
+&lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;爷爷家收音机电池都鼓包了。还放在阳台。 还好发现了。不然也不知道后面没发现会不会产生有毒物质还是炸掉什么的。。。&lt;/p&gt;
+&lt;p&gt;以前只有我膝盖大小的侄女，经常找我玩，挺有意思的，也长的和我差不多高了。&lt;/p&gt;
+&lt;p&gt;和哥哥们聊了一些。都偏向建议我去学修变频主板。&lt;/p&gt;
+&lt;p&gt;稀里糊涂一个人去娘娘(老爸的姐姐)家窜门。
+年纪大了的人也挺难的。年夜饭她老公需要上班回不来打算明年过年回来。 她儿子好像也是吵架不来吃饭，好多饭菜也吃不掉。然后她的孙子也是不太努力学习，说几句就会犟嘴。然后也是不经常来了。。。 也不知道该说什么。作为小辈也只能听着。&lt;/p&gt;
+&lt;p&gt;两个哥哥家宽带一个说是200M测速9兆。真离谱。。。 后来发现是路由器有点问题。不知道之前怎么弄的。人在睡觉我也不知道路由器密码。也不敢恢复出厂，因为也不知道拨号密码。怕后面直接上不了网。还有一个是测速600M实际只有50M wifi的话到只能跑300M。我是看不懂。。。 他也不太在意这个事。路由器密码也不知道。我也不知道怎么办。&lt;/p&gt;
+&lt;p&gt;然后嫂子做饭真好吃，还有她老家带的腊肉真不错，不知道是不是四川的特产，第一次吃到这种腊肉。之前我自己网购的一点味道都没有。爷爷家的也没有那个好吃。挺羡慕老哥的。莫名想到以后能找个会做饭的女人就好了。&lt;/p&gt;
+&lt;p&gt;回到家家里老头也是喝醉了。一把年纪还这么喝酒。。。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;技术&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;试了一下alist。感觉上传比较麻烦。一般上传带宽都是很低的。不如nas好用。不过胜在便宜。&lt;/p&gt;
+&lt;hr&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/categories/2023%E6%97%A5%E5%B8%B8/" term="2023日常" label="2023日常" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/2023%E6%97%A5%E5%B8%B8/" term="2023日常" label="2023日常" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/%E8%BF%87%E5%B9%B4/" term="过年" label="过年" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/alist/" term="AList" label="AList" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F/" term="内存泄漏" label="内存泄漏" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">20230115_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/01/20230115_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2023/01/20230115_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2023-01-15T19:52:56&#43;08:00</updated>
+            <updated>2023-01-15T19:53:41&#43;08:00</updated>
             <published>2023-01-09T20:22:22&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -482,7 +629,7 @@
             <title type="text">2023_有趣的歌</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E6%AD%8C/" />
             <id>https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E6%AD%8C/</id>
-            <updated>2023-01-15T18:46:49&#43;08:00</updated>
+            <updated>2023-01-15T20:20:35&#43;08:00</updated>
             <published>2022-12-26T19:44:33&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -532,6 +679,11 @@
 &lt;li&gt;归霞与客
 &lt;ul&gt;
 &lt;li&gt;熟悉的旋律。 搜了一下应该是16年左右的歌。 以前可能听过罢&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;我寻着光而来
+&lt;ul&gt;
+&lt;li&gt;好听&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
