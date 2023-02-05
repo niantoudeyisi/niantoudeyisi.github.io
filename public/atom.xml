@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">汪先雨的博客</title>
     <subtitle type="html">汪先雨的博客</subtitle>
-    <updated>2023-01-30T20:49:25&#43;08:00</updated>
+    <updated>2023-02-05T20:03:31&#43;08:00</updated>
     <id>https://niantoudeyisi.github.io/</id>
     <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://niantoudeyisi.github.io/atom.xml" />
@@ -17,39 +17,138 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.105.0">Hugo</generator>
         <entry>
-            <title type="text">20230130_最近的日常</title>
-            <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/01/20230130_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
-            <id>https://niantoudeyisi.github.io/posts/2023/01/20230130_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2023-01-30T20:49:24&#43;08:00</updated>
+            <title type="text">20230130_熟悉自己做饭_体验armbian_整理目前所学_体验hdmi采集卡</title>
+            <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/01/20230130_%E7%86%9F%E6%82%89%E8%87%AA%E5%B7%B1%E5%81%9A%E9%A5%AD_%E4%BD%93%E9%AA%8Carmbian_%E6%95%B4%E7%90%86%E7%9B%AE%E5%89%8D%E6%89%80%E5%AD%A6_%E4%BD%93%E9%AA%8Chdmi%E9%87%87%E9%9B%86%E5%8D%A1/" />
+            <id>https://niantoudeyisi.github.io/posts/2023/01/20230130_%E7%86%9F%E6%82%89%E8%87%AA%E5%B7%B1%E5%81%9A%E9%A5%AD_%E4%BD%93%E9%AA%8Carmbian_%E6%95%B4%E7%90%86%E7%9B%AE%E5%89%8D%E6%89%80%E5%AD%A6_%E4%BD%93%E9%AA%8Chdmi%E9%87%87%E9%9B%86%E5%8D%A1/</id>
+            <updated>2023-02-05T20:02:46&#43;08:00</updated>
             <published>2023-01-30T20:49:16&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
                     <uri>https://niantoudeyisi.github.io</uri>
                     <email>niantoudeyisi@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">周一 工作</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
             
-                <content type="html">&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/2/IMG_20230204_131954359_HDR.jpg&#34; alt=&#34;葱&#34;&gt;&lt;/p&gt;
+&lt;p&gt;买菜送的葱。这也能开花离谱。&lt;/p&gt;
+&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;干活&lt;/p&gt;
+&lt;p&gt;满载摆了三次。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;东北大米md颗粒大煮熟了之后分量却很少。。。&lt;/p&gt;
+&lt;p&gt;料理包的狮子头好难吃。md 吃完脑壳疼&lt;/p&gt;
+&lt;p&gt;买了点雪梨吃 。好像没吃过&lt;/p&gt;
+&lt;p&gt;n1刷了个armbian。 刷openwrt有点蜜汁问题。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;技术&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;看了一下zsh主题。目前我比较习惯的是bureau主题 。&lt;/p&gt;
+&lt;p&gt;n1 刷openwrt之后，想刷armbian 只要系统写到U盘在拔电重启就可以直接进U盘了。然后执行相关脚本将系统写入emmc&lt;/p&gt;
+&lt;p&gt;如果之前是机顶盒系统还需要adb reboot一下进行重启&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;adb kill-server
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;adb connect xxx 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;adb devices
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;adb shell reboot update
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;linux命令行下 开关网卡 ifconfig xxxname  up/down (临时)&lt;/p&gt;
+&lt;p&gt;nmcli radio wifi off (永久&lt;/p&gt;
+&lt;p&gt;试了一下挂在一个webdav硬盘。太棒了 就是反应有点慢，因为硬盘会自动休眠&lt;/p&gt;
 &lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;都好麻烦。原以为是个小bug。没想到捅了屎山&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;经过同事指点 一次做两份的量 这样可以减少工作量。多线程真的好(🐶)。昨天做了两个多个小时饭，真是吐了 还不如点外卖轻松。&lt;/p&gt;
+&lt;p&gt;食行生鲜，靠近地铁口真方便。 8块钱五颗生菜，一颗剥了16片 ，基本上两顿一片。&lt;/p&gt;
+&lt;p&gt;不过个人感觉 菜市场的生菜更新鲜。&lt;/p&gt;
+&lt;p&gt;鸡蛋也是10个12块左右 比菜市场稍贵点。&lt;/p&gt;
+&lt;p&gt;感觉这样算下来生活成本节约不少。就是感觉以后每天要么上班要么做饭吃饭要么休息。 说不出的感觉。&lt;/p&gt;
+&lt;p&gt;今天感觉好多了。昨天脑壳疼的不行不知道是不是休息久了上班不适应。&lt;/p&gt;
+&lt;p&gt;料理包目前除了狮子头感觉都还行。&lt;/p&gt;
+&lt;p&gt;东北大米有点硬 听同事说五常大米还行&lt;/p&gt;
+&lt;p&gt;想再买个wifi插座给灯用。&lt;/p&gt;
+&lt;p&gt;又一个室友要跑路了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;技术&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;n1盒子plex太棒了！armbian太棒了！&lt;/p&gt;
+&lt;p&gt;卧槽emby太棒了 可以手机远程控制其他设备的播放！ 这下可以躺床上播放歌曲了。可惜必须是下载的歌不能是在线播放的。&lt;/p&gt;
+&lt;p&gt;似乎不付费不能用硬解。&lt;/p&gt;
 &lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;好多活 遭不住。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;早上迟到了。闹钟响了关了之后启动失败。(⊙﹏⊙) 还好9点醒了&lt;/p&gt;
+&lt;p&gt;晚上关机不小心把主机电源拔掉了。 不知道会不会丢失什么重要数据。 基本上都有随手保存的。&lt;/p&gt;
+&lt;p&gt;armbian真不戳。想入个s922x的盒子。md一看价格好贵。 难怪都推荐n1。真的便宜还勉强能用。相比n1贵了八九倍。&lt;/p&gt;
+&lt;p&gt;rk3588贵了二十多倍我tm。。。&lt;/p&gt;
+&lt;p&gt;晚上玩的gal，b站一直给我推送相关信息。真的是一点隐私都没有。&lt;/p&gt;
+&lt;p&gt;老家吃了香菜感觉很不错 。买了点明天试试。食行生鲜真不错 买了送到附近地铁站太棒了。&lt;/p&gt;
+&lt;p&gt;想整个nas玩玩。但是感觉又没什么需求&lt;/p&gt;
+&lt;p&gt;买的充电宝和咖啡到了，咖啡有点杂牌子的感觉。 充电宝居然还有快充。掉电好快。&lt;/p&gt;
+&lt;p&gt;莫名想到家里老头子。给他买了盘的核桃也不晚。  以后还打算就靠这个留点念想了。&lt;/p&gt;
+&lt;p&gt;感觉不同的环境会让人有不同的思考。影响还挺大。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;技术&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;看了几眼关于服务器套cf的博客。好像默认服务器有域名和https证书的情况下 ，只需要点亮cf的小云就可以了。 真奇怪。也不知道这流量怎么跑的。&lt;/p&gt;
+&lt;p&gt;等以后有机会试试&lt;/p&gt;
+&lt;p&gt;想到了工作中curl对ipv6有点问题，就像在家里看看是不是也有问题。md 联通宽带拨号没有ipv6，腾讯云轻量服务器也没有ipv6，cloudcone也没有。&lt;/p&gt;
+&lt;p&gt;难怪ipv6很少看人用。。。&lt;/p&gt;
+&lt;p&gt;两个openwrt会有问题。好几个ip。不知道是不是开启了dhcp的原因&lt;/p&gt;
+&lt;p&gt;n1 armbian固件默认开启wifi会对已有wifi产生干扰&lt;/p&gt;
+&lt;p&gt;kvm虚拟化好复杂。md&lt;/p&gt;
+&lt;p&gt;n1还能玩k8s真神奇。&lt;/p&gt;
 &lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;各种奇怪的问题md&lt;/p&gt;
+&lt;p&gt;lua写的页面真的恶心。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;早上走半路是想起来饭没带。回去拿。来不及了骑自行车。md 真倒霉。我就猜到所以一直不想骑。&lt;/p&gt;
+&lt;p&gt;骑起来累的一比。活到现在最难骑的自行车。累死我了。估计是生锈了还是怎么了。&lt;/p&gt;
+&lt;p&gt;买的米桶到了。感觉挺适合养乌龟的。。。&lt;/p&gt;
+&lt;p&gt;新买的花生米到了味道很不错 炒熟的，好吃&lt;/p&gt;
+&lt;p&gt;打算买个理发器 自己理发了。&lt;/p&gt;
+&lt;p&gt;煮饭加点油 好像不怎么粘锅&lt;/p&gt;
 &lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;无法言语的酸爽&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;和离职的同事交流了一下。好像走之前会被扣很多钱。&lt;/p&gt;
+&lt;p&gt;这个月电费三百多。真离谱 不知道怎么这么贵。&lt;/p&gt;
+&lt;p&gt;hr说房东来说房间很脏很乱。在这样不给住了。&lt;/p&gt;
+&lt;p&gt;用电推子 自己理了个发。应该算6毫米寸头。感觉还行。就是头发有点多洗了好久。&lt;/p&gt;
+&lt;p&gt;保暖裤子炸线了。缝了一下。学了个打结方法 针压线方法。挺好用&lt;/p&gt;
 &lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;出去存压岁钱，忘了带银行卡 。一来一回累死了md。 然后骑自行车感觉还行。上次那么累我都怀疑是身体不行了。 好车子和坏车子差距真大。&lt;/p&gt;
+&lt;p&gt;hdmi采集卡到了。小东西还挺精致。&lt;/p&gt;
+&lt;p&gt;试了一下dwm。。。。放弃&lt;/p&gt;
+&lt;p&gt;晚上想着明天去哪里玩。莫名想起同事的话 &amp;quot;任何地方你去过了就不好玩了。&amp;quot; 当时和他聊去哪玩的时候说的。他是老员工来这边好久了。&lt;/p&gt;
+&lt;p&gt;看到群友再养鹌鹑。想起了以前养的鹦鹉。要是没死，也好大了。 当时经验不足 ，没有准备好垫材导致腿部畸形。我给他矫正，然后应激致死。唉。&lt;/p&gt;
 &lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;莫名发现 非铁的水果刀割保鲜膜 快速做切割的动作可以很方便的割开保鲜膜&lt;/p&gt;
+&lt;p&gt;做饭水弄多了差点摔倒。。。&lt;/p&gt;
+&lt;p&gt;那个快递 大概二三十分钟左右步行路程，一直以为只用十几分钟的。&lt;/p&gt;
+&lt;p&gt;保暖的手套到了 但是都要春天了。。。&lt;/p&gt;
+&lt;p&gt;京东送了包猫粮。 猫粮好难吃。感觉和冷掉的内脏一样反胃。猫和的奶粉还不错。没什么味道，但是还挺好喝。&lt;/p&gt;
+&lt;p&gt;晚上出去买水果被小区保安大爷拦住登记了一下信息。&lt;/p&gt;
+&lt;p&gt;现在每天做饭像本能一样了。 三颗生菜只用六块钱。够我至少吃三天的。&lt;/p&gt;
+&lt;p&gt;晚上一直能听到放烟花的声音。一直都没注意是元宵节了。没什么感觉。可能是因为不放额外假的原因&lt;/p&gt;
+&lt;p&gt;有点想出去看看灯会 但是一来一回要一个小时。感觉也没什么欲望了。现在也不早了。代价有点高 ，一个人也没什么看的欲望。&lt;/p&gt;
+&lt;hr&gt;
 </content>
             
             
@@ -73,6 +172,54 @@
                             
                             
                                 <category scheme="https://niantoudeyisi.github.io/tags/2023%E6%97%A5%E5%B8%B8/" term="2023日常" label="2023日常" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/zsh/" term="Zsh" label="Zsh" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/n1/" term="N1" label="N1" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/linux/" term="Linux" label="Linux" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/webdav/" term="WebDAV" label="WebDAV" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/plex/" term="Plex" label="Plex" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/armbian/" term="Armbian" label="Armbian" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/emby/" term="Emby" label="Emby" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/cloudflare/" term="Cloudflare" label="Cloudflare" />
                             
                         
                     
@@ -674,7 +821,7 @@
             <title type="text">2023_有趣的网站</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E7%BD%91%E7%AB%99/" />
             <id>https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E7%BD%91%E7%AB%99/</id>
-            <updated>2023-01-08T22:17:35&#43;08:00</updated>
+            <updated>2023-02-01T23:45:16&#43;08:00</updated>
             <published>2022-12-26T19:44:50&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -696,6 +843,21 @@
 &lt;li&gt;苹果壁纸，以后linux桌面美化可能用的到&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;02&#34;&gt;02&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://miuirom.org/&#34;&gt;https://miuirom.org/&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;miuirom网站，方便后面刷机玩&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://xbeibeix.com/&#34;&gt;https://xbeibeix.com/&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;下载视频可能会用到&lt;/li&gt;
+&lt;li&gt;还有国际接码&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
             
@@ -737,7 +899,7 @@
             <title type="text">2023_有趣的博客</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8D%9A%E5%AE%A2/" />
             <id>https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
-            <updated>2023-01-30T19:54:59&#43;08:00</updated>
+            <updated>2023-02-01T23:59:07&#43;08:00</updated>
             <published>2022-12-26T19:44:39&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -764,6 +926,35 @@
 &lt;li&gt;&lt;a href=&#34;https://www.wusiqi.cn/archives/269/&#34;&gt;https://www.wusiqi.cn/archives/269/&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;学习openwrt改mac&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://an9wer.github.io/blog.html&#34;&gt;https://an9wer.github.io/blog.html&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;搜索dwm搜到的大佬！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.lincloud.pro/archives/36.html&#34;&gt;https://blog.lincloud.pro/archives/36.html&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;搜索webdav相关搜到！&lt;/li&gt;
+&lt;li&gt;成功挂在webdav到n1上&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zocoxx.com/&#34;&gt;https://zocoxx.com/&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;学习大佬的dwm教程，以及对比测试了一下n1性能参数&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;02&#34;&gt;02&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.dowhat.top/&#34;&gt;https://blog.dowhat.top/&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;大佬博客 学到了hdmi采集卡&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rashion.medium.com/&#34;&gt;https://rashion.medium.com/&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;言简意骇&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -807,7 +998,7 @@
             <title type="text">2023_有趣的歌</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E6%AD%8C/" />
             <id>https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E6%AD%8C/</id>
-            <updated>2023-01-15T20:20:35&#43;08:00</updated>
+            <updated>2023-02-01T23:18:02&#43;08:00</updated>
             <published>2022-12-26T19:44:33&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -865,6 +1056,30 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;02&#34;&gt;02&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;25時、ナイトコードで。 - 再生
+&lt;ul&gt;
+&lt;li&gt;好听 ，中午困得时候听到的 。可以让人安静下来&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;我的意中人
+&lt;ul&gt;
+&lt;li&gt;感觉叶里的歌我都蛮喜欢听的&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;梦春分
+&lt;ul&gt;
+&lt;li&gt;好听&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;等风吹
+&lt;ul&gt;
+&lt;li&gt;好听&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
             
             
@@ -905,7 +1120,7 @@
             <title type="text">2023_有趣的工具</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B7%A5%E5%85%B7/" />
             <id>https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B7%A5%E5%85%B7/</id>
-            <updated>2023-01-08T20:02:54&#43;08:00</updated>
+            <updated>2023-02-01T23:28:29&#43;08:00</updated>
             <published>2022-12-26T19:44:26&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -919,6 +1134,26 @@
 &lt;p&gt;&lt;a href=&#34;https://github.com/mebtte/cicada&#34;&gt;https://github.com/mebtte/cicada&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;本地音乐播放器 有意思的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;02&#34;&gt;02&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://emby.media/&#34;&gt;https://emby.media/&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;局域网控制其他设备放歌 ，我特么吹爆！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/microsoft/PowerToys&#34;&gt;https://github.com/microsoft/PowerToys&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;有用 可 锦上添花&lt;/li&gt;
+&lt;li&gt;截图文本提取 批量重命名 快捷修改hosts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ShareX/ShareX&#34;&gt;https://github.com/ShareX/ShareX&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;很棒的工具，可以录制gif。&lt;/li&gt;
+&lt;li&gt;以前很想要的，目前暂时不是很需要。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </content>
             
@@ -5246,7 +5481,7 @@ usb-storage.quirks=152d:0578:u
             <title type="text">Hello World</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/hello-world/" />
             <id>https://niantoudeyisi.github.io/posts/hello-world/</id>
-            <updated>2022-11-05T18:00:11&#43;08:00</updated>
+            <updated>2023-02-04T17:11:14&#43;08:00</updated>
             <published>2022-06-18T11:34:00&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
