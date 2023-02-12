@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "4de18c0cb4532f91",
+    "id": "72c8779a5521fb5d",
     "type": "split",
     "children": [
       {
-        "id": "83dccf16d0209e31",
+        "id": "d02cf430248449e2",
         "type": "tabs",
         "children": [
           {
-            "id": "f74a032f7441adfb",
+            "id": "8625c417d9403cda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2023/02/20230205_J4125_PVE_漏电跳电闸_新室友.md",
+                "file": "content/posts/2023/02/20230205_J4125_PVE_漏电跳电闸_新室友.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a920a6c9267b3b24",
+    "id": "8ab6105d880fa11f",
     "type": "split",
     "children": [
       {
-        "id": "59aadfa53846cdb3",
+        "id": "481efa0745f5aeb5",
         "type": "tabs",
         "children": [
           {
-            "id": "f7d3c41bb8039559",
+            "id": "54df60ecc060d942",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "a240eea97316f5ab",
+            "id": "bf89947f3912a8d0",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "zsh",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "be9b6187fbdae0ef",
+            "id": "c986338d45e2854a",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "f9ed54ecba2cab1c",
+    "id": "73f36cdfa18cab22",
     "type": "split",
     "children": [
       {
-        "id": "5268a54ac8233a5d",
+        "id": "49003e790990d412",
         "type": "tabs",
         "children": [
           {
-            "id": "64e48e15b7e1d0cd",
+            "id": "211487af51ed1057",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2023/02/20230205_J4125_PVE_漏电跳电闸_新室友.md",
+                "file": "content/posts/2023/02/20230205_J4125_PVE_漏电跳电闸_新室友.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "1c6856f98a6d9bb5",
+            "id": "17ea0e3261480e5a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2023/02/20230205_J4125_PVE_漏电跳电闸_新室友.md",
-                "linksCollapsed": true,
+                "file": "content/posts/2023/02/20230205_J4125_PVE_漏电跳电闸_新室友.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9a8b313798c84e64",
+            "id": "c6095664e532ba7e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "39d330d190218856",
+            "id": "50005416203afb36",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2023/02/20230205_J4125_PVE_漏电跳电闸_新室友.md"
+                "file": "content/posts/2023/02/20230205_J4125_PVE_漏电跳电闸_新室友.md"
               }
             }
           }
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,17 +146,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f74a032f7441adfb",
+  "active": "8625c417d9403cda",
   "lastOpenFiles": [
-    "posts/2023/01/20230130_熟悉自己做饭_体验armbian_整理目前所学_体验hdmi采集卡.md",
-    "posts/2023/02/20230205_J4125_PVE_漏电跳电闸_新室友.md",
-    "posts/2023/01/20230122_维生素c对口腔溃疡的妙用_快乐的年假_然后又上班了.md",
-    "posts/2023/01/20230115_最近的日常.md",
-    "posts/2023/01/20230115_内存泄漏_回家过年.md",
-    "posts/2023/01/20230108_最近的日常.md",
-    "posts/2023/01/20230101_最近的日常.md",
-    "posts/2023/2023_有趣的博客.md",
-    "posts/2023/2023_有趣的工具.md",
-    "posts/2022/有趣的博客.md"
+    "static/2022.md",
+    "content/posts/2023/02/20230205_J4125_PVE_漏电跳电闸_新室友.md",
+    "content/posts/2023/2023_有趣的歌.md",
+    "content/posts/2022/08/20220828_最近的日常.md",
+    "content/links/_index.md",
+    "archetypes/default.md"
   ]
 }
