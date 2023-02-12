@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">汪先雨的博客</title>
     <subtitle type="html">汪先雨的博客</subtitle>
-    <updated>2023-02-05T20:03:31&#43;08:00</updated>
+    <updated>2023-02-12T21:36:56&#43;08:00</updated>
     <id>https://niantoudeyisi.github.io/</id>
     <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://niantoudeyisi.github.io/atom.xml" />
@@ -16,6 +16,110 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.105.0">Hugo</generator>
+        <entry>
+            <title type="text">20230205_最近的日常</title>
+            <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/02/20230205_j4125_pve_%E6%BC%8F%E7%94%B5%E8%B7%B3%E7%94%B5%E9%97%B8_%E6%96%B0%E5%AE%A4%E5%8F%8B/" />
+            <id>https://niantoudeyisi.github.io/posts/2023/02/20230205_j4125_pve_%E6%BC%8F%E7%94%B5%E8%B7%B3%E7%94%B5%E9%97%B8_%E6%96%B0%E5%AE%A4%E5%8F%8B/</id>
+            <updated>2023-02-12T21:15:58&#43;08:00</updated>
+            <published>2023-02-05T20:05:54&#43;08:00</published>
+            <author>
+                    <name>汪先雨</name>
+                    <uri>https://niantoudeyisi.github.io</uri>
+                    <email>niantoudeyisi@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/2/IMG_20230212_202928976_HDR.jpg&#34; alt=&#34;j4125&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/2/IMG_20230212_202749639.jpg&#34; alt=&#34;j4125&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;感觉变成测试了。 每个bug改完。要测一堆东西。脑壳疼。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;刷了下马桶。 口区&lt;/p&gt;
+&lt;p&gt;长教训了。下次租房子 先检查是否有坏的或者脏的。 不然就得我来清理。&lt;/p&gt;
+&lt;p&gt;昨晚跳了电闸。热水器漏电。 给人事报修了。 回来发现，应该是热水器插座烧了导致。&lt;/p&gt;
+&lt;p&gt;晚上打了吧dota。又是四黑打四黑。挺累的也挺爽的。&lt;/p&gt;
+&lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;热水壶坏掉了。症状是热水壶插头要被烫烂了。&lt;/p&gt;
+&lt;p&gt;zlib 活了。还带了个个人链接。🐂&lt;/p&gt;
+&lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;京东快递好快。晚上下单的第二天早上就到了。 之前看软件记录说是最晚后天到。。。&lt;/p&gt;
+&lt;p&gt;1t硬盘 16g内存 j4125 都到了；&lt;/p&gt;
+&lt;p&gt;有点后悔。自己能力太差。玩不来pve。早知道不如n5105 。有点冲动了。一言难尽。&lt;/p&gt;
+&lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;干活&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;螺狮酱 感觉有点容易拉肚子。不知道什么原因。&lt;/p&gt;
+&lt;p&gt;晚上打算玩openwrt编译，debian11一堆依赖问题。试了一下aptitude挺好用。&lt;/p&gt;
+&lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;curl 和traceroute 。md 真恶心啊&lt;/p&gt;
+&lt;p&gt;开源代码 真的是。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;东北大米吃完了。8KG 。感觉有点不禁吃&lt;/p&gt;
+&lt;p&gt;下次想做做绿皮火车感受一下 ，前人所感受的绿皮火车的氛围。&lt;/p&gt;
+&lt;p&gt;熟的花生 放久了好难吃。md。&lt;/p&gt;
+&lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;新室友到了。 大学刚出来，大包小包一堆东西。 似乎是比较爱卫生的。&lt;/p&gt;
+&lt;p&gt;蔬菜焯水加盐似乎口感会好很多。似乎是保持细胞内外浓度平衡减少营养成分的流失。&lt;/p&gt;
+&lt;p&gt;debian的aptitude真好用。&lt;/p&gt;
+&lt;p&gt;pve系统真好玩 。&lt;/p&gt;
+&lt;p&gt;pve的虚拟sata性能好差比scsi差了一半不止。。。相差几乎三四倍的感觉。(好像是错觉)&lt;/p&gt;
+&lt;p&gt;修改默认shell 可以使用chsh&lt;/p&gt;
+&lt;p&gt;真的是不懂，一点也不能乱点。 使用virtio，pve win没有网卡，默认使用的E1000就正常。。。&lt;/p&gt;
+&lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;奥莉薇 /(ㄒoㄒ)/~~&lt;/p&gt;
+&lt;p&gt;一直阴天/下雨，没有晒被子的机会&lt;/p&gt;
+&lt;p&gt;晚上买水果，边看手机边走路 ，撞到消防栓了md。。。&lt;/p&gt;
+&lt;p&gt;回想一周，好像啥也没干。&lt;/p&gt;
+&lt;p&gt;米吃完了快递买的米还没到。不知道为什么格外的慢。&lt;/p&gt;
+&lt;p&gt;晚上打了吧dota，被对面狠狠的虐菜了。md 匹配比天梯还难。&lt;/p&gt;
+&lt;p&gt;家里爷爷和老头子都打电话。逼我结婚。。。&lt;/p&gt;
+&lt;p&gt;pve弄好了还是挺舒服的  ，可惜不太会弄直通。感觉以后的win小服务器还是需要一个单独的硬件。&lt;/p&gt;
+&lt;p&gt;听了一段时间资治通鉴。还蛮有意思的。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/categories/2023%E6%97%A5%E5%B8%B8/" term="2023日常" label="2023日常" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/2023%E6%97%A5%E5%B8%B8/" term="2023日常" label="2023日常" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/debian/" term="Debian" label="Debian" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">20230130_熟悉自己做饭_体验armbian_整理目前所学_体验hdmi采集卡</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/01/20230130_%E7%86%9F%E6%82%89%E8%87%AA%E5%B7%B1%E5%81%9A%E9%A5%AD_%E4%BD%93%E9%AA%8Carmbian_%E6%95%B4%E7%90%86%E7%9B%AE%E5%89%8D%E6%89%80%E5%AD%A6_%E4%BD%93%E9%AA%8Chdmi%E9%87%87%E9%9B%86%E5%8D%A1/" />
@@ -899,7 +1003,7 @@
             <title type="text">2023_有趣的博客</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8D%9A%E5%AE%A2/" />
             <id>https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
-            <updated>2023-02-01T23:59:07&#43;08:00</updated>
+            <updated>2023-02-11T23:18:23&#43;08:00</updated>
             <published>2022-12-26T19:44:39&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -957,6 +1061,12 @@
 &lt;li&gt;言简意骇&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bigshans.github.io/&#34;&gt;https://bigshans.github.io/&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;搜到whoogle搜到。&lt;/li&gt;
+&lt;li&gt;大佬。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </content>
             
@@ -998,7 +1108,7 @@
             <title type="text">2023_有趣的歌</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E6%AD%8C/" />
             <id>https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E6%AD%8C/</id>
-            <updated>2023-02-01T23:18:02&#43;08:00</updated>
+            <updated>2023-02-10T21:31:09&#43;08:00</updated>
             <published>2022-12-26T19:44:33&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -1078,7 +1188,9 @@
 &lt;li&gt;好听&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;galgame-中-blooming-world-挺好听可惜找不到原曲&#34;&gt;galgame 中 blooming world 挺好听可惜找不到原曲&lt;/h2&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </content>
             
