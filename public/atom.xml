@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">汪先雨的博客</title>
     <subtitle type="html">汪先雨的博客</subtitle>
-    <updated>2023-02-12T21:36:56&#43;08:00</updated>
+    <updated>2023-02-19T23:26:15&#43;08:00</updated>
     <id>https://niantoudeyisi.github.io/</id>
     <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://niantoudeyisi.github.io/atom.xml" />
@@ -17,10 +17,123 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.105.0">Hugo</generator>
         <entry>
+            <title type="text">20230212_最近的日常</title>
+            <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/02/20230212_%E9%98%85%E8%AF%BB%E5%9F%BA%E4%BA%8Eshell%E7%9A%84%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0_%E6%89%93%E7%AE%97%E4%B9%B0%E8%87%AA%E8%A1%8C%E8%BD%A6_%E5%A5%87%E6%80%AA%E7%9A%84%E5%BC%80%E9%94%80%E4%B8%8D%E5%AF%B9%E5%B8%90/" />
+            <id>https://niantoudeyisi.github.io/posts/2023/02/20230212_%E9%98%85%E8%AF%BB%E5%9F%BA%E4%BA%8Eshell%E7%9A%84%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0_%E6%89%93%E7%AE%97%E4%B9%B0%E8%87%AA%E8%A1%8C%E8%BD%A6_%E5%A5%87%E6%80%AA%E7%9A%84%E5%BC%80%E9%94%80%E4%B8%8D%E5%AF%B9%E5%B8%90/</id>
+            <updated>2023-02-19T23:25:01&#43;08:00</updated>
+            <published>2023-02-12T21:42:44&#43;08:00</published>
+            <author>
+                    <name>汪先雨</name>
+                    <uri>https://niantoudeyisi.github.io</uri>
+                    <email>niantoudeyisi@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/2/IMG_20220830_075739651.jpg&#34; alt=&#34;草龟&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一百多行的shell。看吐了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;22端口封掉会导致git push失败，可以尝试使用443端口进行提交。&lt;/p&gt;
+&lt;p&gt;pvetools 真好用啊！&lt;/p&gt;
+&lt;p&gt;j4125跑win10 依托答辩。&lt;/p&gt;
+&lt;p&gt;pve备份恢复挺方便 备份的压缩文件，拷贝后 在另一台pve上 qm restxxx 编号 即可。&lt;/p&gt;
+&lt;p&gt;粗粮米好像量多又便宜。就是不知道口感怎么样&lt;/p&gt;
+&lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;纯shell实现的easycwmp。看的好痛苦。之前都是功能可以对上。这次的功能感觉都是有问题。md。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;粗粮好硬。煮了和平时买的大米一样量。感觉下巴好累。要脱臼了。&lt;/p&gt;
+&lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;没系统学过shell。写的好痛苦。各种奇怪的语法。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;因特尔uhd630核显。内存条单通道和双通道。dota2 帧数相差60多帧。。。离谱。&lt;/p&gt;
+&lt;p&gt;打游戏有点卡想把两根8g换回笔记本。结果j4125单挑16g点不亮。我日。。。搜索研究了一下 发现挑颗粒的。吐了。&lt;/p&gt;
+&lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;16g内存条到了。 装上之后感觉不如之前的两条8g。不知道是不是错觉。&lt;/p&gt;
+&lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;技痒难耐 理了个发。剃歪了。一言难尽。下次还是得和第一次一样悠着点。。。&lt;/p&gt;
+&lt;p&gt;公司年会，之前是有个新人奖要发言。。。 不太会这个。 别人都是感谢xxx感谢xxx。 但是我之前都准备按照人事要求的说了。只能硬着头皮说了。&lt;/p&gt;
+&lt;p&gt;买了jeep的自行车。听说很烂。我还是想试一试。  到时候如果会离开苏州的话。就和显示器一样要么寄回家要么半价出掉。(如果能勉强一用的话)&lt;/p&gt;
+&lt;p&gt;年会抽奖。。。 抽奖这种事情。 让我想到了世界rpg。 不抱什么希望。&lt;/p&gt;
+&lt;p&gt;拿了个阳光普照奖(人人都有的那种） 小米吹风机。。。 感觉没什么需求。不出意外以后都是寸头了。  晚上拿快递的时候寄回家了&lt;/p&gt;
+&lt;p&gt;明天想出去玩。但是感觉也不知道去哪玩。 又有点不太想躺着。&lt;/p&gt;
+&lt;p&gt;还有算是体验了一次 酒桌文化。。。。喝多了有点口渴。&lt;/p&gt;
+&lt;p&gt;感觉晚上吃的也不是很好。&lt;/p&gt;
+&lt;p&gt;还有感觉现在出行真的是都要带充电宝了。 有个保险。要是真没电还是很蛋疼的。&lt;/p&gt;
+&lt;p&gt;感觉网上看一个事情/事物的评论/评价。有点痛苦。不同人有不同的看法。  不好分辨。 每个人站的角度不一样。还是要自己亲身去体验才会知道。&lt;/p&gt;
+&lt;p&gt;完了看见蚊子了。 欸咬的日子又要来了。&lt;/p&gt;
+&lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;粗粮 需要放比正常吃的米 要多的水 不然容易粘锅。&lt;/p&gt;
+&lt;p&gt;每天吃饭的时候感觉是最快乐的时候。可能是一天只有两三次的原因&lt;/p&gt;
+&lt;p&gt;gentoo命令行支持鼠标还挺好玩。。。&lt;/p&gt;
+&lt;p&gt;文本浏览器好神奇。&lt;/p&gt;
+&lt;p&gt;晚上算了一下这个月的开销。。。有点乱。开销大于我统计的开销。不知道从那个银行卡花掉了。。。 想买自行车又有点不舍的钱。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;技术&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;gentoo 准备编译之前&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;#march=native 加上这个参数 是为当前架构进行编译。
+march=native 
+&lt;/code&gt;&lt;/pre&gt;</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/categories/2023%E6%97%A5%E5%B8%B8/" term="2023日常" label="2023日常" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/2023%E6%97%A5%E5%B8%B8/" term="2023日常" label="2023日常" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/pve/" term="PVE" label="PVE" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/gentoo/" term="Gentoo" label="Gentoo" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/j4125/" term="J4125" label="J4125" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">20230205_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/02/20230205_j4125_pve_%E6%BC%8F%E7%94%B5%E8%B7%B3%E7%94%B5%E9%97%B8_%E6%96%B0%E5%AE%A4%E5%8F%8B/" />
             <id>https://niantoudeyisi.github.io/posts/2023/02/20230205_j4125_pve_%E6%BC%8F%E7%94%B5%E8%B7%B3%E7%94%B5%E9%97%B8_%E6%96%B0%E5%AE%A4%E5%8F%8B/</id>
-            <updated>2023-02-12T21:15:58&#43;08:00</updated>
+            <updated>2023-02-12T22:33:07&#43;08:00</updated>
             <published>2023-02-05T20:05:54&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -113,6 +226,12 @@
                             
                             
                                 <category scheme="https://niantoudeyisi.github.io/tags/debian/" term="Debian" label="Debian" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/pve/" term="PVE" label="PVE" />
                             
                         
                     
@@ -1232,7 +1351,7 @@
             <title type="text">2023_有趣的工具</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B7%A5%E5%85%B7/" />
             <id>https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B7%A5%E5%85%B7/</id>
-            <updated>2023-02-01T23:28:29&#43;08:00</updated>
+            <updated>2023-02-18T23:47:38&#43;08:00</updated>
             <published>2022-12-26T19:44:26&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -1264,6 +1383,11 @@
 &lt;ul&gt;
 &lt;li&gt;很棒的工具，可以录制gif。&lt;/li&gt;
 &lt;li&gt;以前很想要的，目前暂时不是很需要。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://maxplayer.tv/&#34;&gt;https://maxplayer.tv/&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;真好用。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;

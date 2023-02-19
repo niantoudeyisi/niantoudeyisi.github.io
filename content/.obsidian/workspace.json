@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2023/02/20230205_J4125_PVE_漏电跳电闸_新室友.md",
+                "file": "posts/2023/02/20230212_阅读基于shell的代码实现_打算买自行车_奇怪的开销不对帐.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zsh",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2023/02/20230205_J4125_PVE_漏电跳电闸_新室友.md",
+                "file": "posts/2023/02/20230212_阅读基于shell的代码实现_打算买自行车_奇怪的开销不对帐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2023/02/20230205_J4125_PVE_漏电跳电闸_新室友.md",
+                "file": "posts/2023/02/20230212_阅读基于shell的代码实现_打算买自行车_奇怪的开销不对帐.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2023/02/20230205_J4125_PVE_漏电跳电闸_新室友.md"
+                "file": "posts/2023/02/20230212_阅读基于shell的代码实现_打算买自行车_奇怪的开销不对帐.md"
               }
             }
           }
@@ -147,15 +147,15 @@
   },
   "active": "f74a032f7441adfb",
   "lastOpenFiles": [
-    "posts/2023/01/20230130_熟悉自己做饭_体验armbian_整理目前所学_体验hdmi采集卡.md",
     "posts/2023/02/20230205_J4125_PVE_漏电跳电闸_新室友.md",
+    "posts/2023/02/20230212_阅读基于shell的代码实现_打算买自行车_奇怪的开销不对帐.md",
+    "posts/2023/01/20230130_熟悉自己做饭_体验armbian_整理目前所学_体验hdmi采集卡.md",
     "posts/2023/01/20230122_维生素c对口腔溃疡的妙用_快乐的年假_然后又上班了.md",
-    "posts/2023/01/20230115_最近的日常.md",
     "posts/2023/01/20230115_内存泄漏_回家过年.md",
+    "posts/2023/01/20230115_最近的日常.md",
+    "posts/2023/2023_有趣的工具.md",
     "posts/2023/01/20230108_最近的日常.md",
     "posts/2023/01/20230101_最近的日常.md",
-    "posts/2023/2023_有趣的博客.md",
-    "posts/2023/2023_有趣的工具.md",
-    "posts/2022/有趣的博客.md"
+    "posts/2023/2023_有趣的博客.md"
   ]
 }
