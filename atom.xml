@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">汪先雨的博客</title>
     <subtitle type="html">汪先雨的博客</subtitle>
-    <updated>2023-03-12T21:47:31&#43;08:00</updated>
+    <updated>2023-03-19T22:21:01&#43;08:00</updated>
     <id>https://niantoudeyisi.github.io/</id>
     <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://niantoudeyisi.github.io/atom.xml" />
@@ -17,10 +17,112 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.105.0">Hugo</generator>
         <entry>
-            <title type="text">20230306_最近的日常</title>
+            <title type="text">20230312_干活_白色的鸡蛋_花枝鼠上手_山地车后拨故障_更换伙食</title>
+            <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/03/20230312_%E5%B9%B2%E6%B4%BB_%E7%99%BD%E8%89%B2%E7%9A%84%E9%B8%A1%E8%9B%8B_%E8%8A%B1%E6%9E%9D%E9%BC%A0%E4%B8%8A%E6%89%8B_%E5%B1%B1%E5%9C%B0%E8%BD%A6%E5%90%8E%E6%8B%A8%E6%95%85%E9%9A%9C_%E6%9B%B4%E6%8D%A2%E4%BC%99%E9%A3%9F/" />
+            <id>https://niantoudeyisi.github.io/posts/2023/03/20230312_%E5%B9%B2%E6%B4%BB_%E7%99%BD%E8%89%B2%E7%9A%84%E9%B8%A1%E8%9B%8B_%E8%8A%B1%E6%9E%9D%E9%BC%A0%E4%B8%8A%E6%89%8B_%E5%B1%B1%E5%9C%B0%E8%BD%A6%E5%90%8E%E6%8B%A8%E6%95%85%E9%9A%9C_%E6%9B%B4%E6%8D%A2%E4%BC%99%E9%A3%9F/</id>
+            <updated>2023-03-19T22:20:28&#43;08:00</updated>
+            <published>2023-03-12T21:49:46&#43;08:00</published>
+            <author>
+                    <name>汪先雨</name>
+                    <uri>https://niantoudeyisi.github.io</uri>
+                    <email>niantoudeyisi@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/3/IMG_20230318_230120861.jpg&#34; alt=&#34;花枝鼠上手&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;又遇到了一次 win换行符和linux换行符不一致的问题。太特么坑了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;便宜的机场被人称作公交车。。。&lt;/p&gt;
+&lt;p&gt;今天格外的冷。看了眼温度计15°&lt;/p&gt;
+&lt;p&gt;晚上钥匙丢在公司了。沃日。&lt;/p&gt;
+&lt;p&gt;活干的好累。真的要遭不住了。&lt;/p&gt;
+&lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ip6 不熟。好痛苦。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;隔板到了 给花枝鼠隔了个单间 不知道未来会不会被咬穿。&lt;/p&gt;
+&lt;p&gt;花枝鼠好像挺喜欢吃花生的。但是查了一下不能多吃。 打算整点鼠粮算了。&lt;/p&gt;
+&lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;干活。rework了。。。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;麻木的干活。&lt;/p&gt;
+&lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;好累。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;麻木的干活&lt;/p&gt;
+&lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;好像有个被我改烂了。。。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;昆虫面对困境只会用蛮力冲击。而哺乳动物花枝鼠会隐忍到机会的到来一跃而起突破困境。。。&lt;/p&gt;
+&lt;p&gt;各种ai歌曲。tql。。。&lt;/p&gt;
+&lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;微信找了我。还给我打了电话。但是没注意到。。。 事后回复了也没回我。。害怕。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;syncthing 软件有bug ，会有僵尸进程无法关闭。。。&lt;/p&gt;
+&lt;p&gt;香菇酱蛮好吃的。 牛肉酱隔一夜之后味道怪怪的。适合现拌现吃。&lt;/p&gt;
+&lt;p&gt;看了个户晨风的事情。不知道事情的所有脉络。。。&lt;/p&gt;
+&lt;p&gt;白色的鸡蛋还挺有意思的。。。还以为是鸭蛋。吃蒸的鸭蛋有点ptsd了&lt;/p&gt;
+&lt;p&gt;蓝图的后拨自行车店好像都不太愿意换。。。我特么 不会要自己换吧。。。原来的后拨坏了我吐了。&lt;/p&gt;
+&lt;p&gt;好久没有nas/小服务器。都快忘了怎么用的了&lt;/p&gt;
+&lt;p&gt;虾米酱感觉 油多然后没什么口味。仿佛就是吃油。。。&lt;/p&gt;
+&lt;p&gt;换了个重的鼠标。感觉好难受。。。之前都是静音鼠标很轻。。。也不知道是不是桌子太矮了不好受力。&lt;/p&gt;
+&lt;p&gt;不知道为什么入手花枝鼠折腾玩之后 想想后面天天要铲屎。就感觉好麻烦。想扔了。。。昆虫的话它一辈子拉的屎几乎可以忽略不计。。。&lt;/p&gt;
+&lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;二月份买的一个快递。明明已经拿过了。今天去拿个快递。发现我又拿了一遍。看着物流信息上我拿了两边的信息。我陷入了沉默。开店这么赚钱的么 。这么随便就给我隔了一个多月又发了一份。。。 不知道是不是什么bug&lt;/p&gt;
+&lt;p&gt;和大佬同事打了两把dota 。 。。 都是喜欢打45的 2333&lt;/p&gt;
+&lt;p&gt;躺了两天。真的是什么也不想思考的感觉很让人懒惰。。。 然后出去采购一些补给品的时候不得不出去。 。。才感觉又活过来了。。。感觉确实是需要多出去走走。。。&lt;/p&gt;
+&lt;p&gt;看着群里的网友在青州的云门山玩。。。我也好想出去玩。。。云门山离我这里好远&lt;/p&gt;
+&lt;p&gt;现在养了两只花枝鼠。味道是真的大。大的感觉有点野了。越狱了两次。虽然不咬人。但感觉我也训不好了。 想扔掉了。。。小的苗子可以上手睡觉。感觉还挺好。 也就图能上手摸摸&lt;/p&gt;
+&lt;p&gt;两天啥也没干。。。 网购的车子后拨有问题。估计是内部弹簧有问题最低档位没反应md。 找了客服 说给我发一个后拨。。。 吐了。 。。闻了一下几个自行车店。人家都不愿意换后拨。。。可能都嫌钱少麻烦吧。。。 自己换 感觉铁坐牢(折磨)。。。&lt;/p&gt;
+&lt;p&gt;打算整点蚕蛹吃吃。&lt;/p&gt;
+&lt;p&gt;打算整点花生拌饭酱。&lt;/p&gt;
+&lt;p&gt;打算换个口味的料理包。内脏有些吃腻了。&lt;/p&gt;
+&lt;p&gt;感觉后面得自己更换后拨了。md真的是网购车都要自己修一遍。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;感觉这周又是什么都没干。。。 下周一定要出去溜达溜达。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/categories/2023%E6%97%A5%E5%B8%B8/" term="2023日常" label="2023日常" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/2023%E6%97%A5%E5%B8%B8/" term="2023日常" label="2023日常" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">20230306_加班_花枝鼠_温度_春天</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/03/20230306_%E5%8A%A0%E7%8F%AD_%E8%8A%B1%E6%9E%9D%E9%BC%A0_%E6%B8%A9%E5%BA%A6_%E6%98%A5%E5%A4%A9/" />
             <id>https://niantoudeyisi.github.io/posts/2023/03/20230306_%E5%8A%A0%E7%8F%AD_%E8%8A%B1%E6%9E%9D%E9%BC%A0_%E6%B8%A9%E5%BA%A6_%E6%98%A5%E5%A4%A9/</id>
-            <updated>2023-03-12T21:47:25&#43;08:00</updated>
+            <updated>2023-03-13T23:12:58&#43;08:00</updated>
             <published>2023-03-06T21:59:14&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -156,10 +258,10 @@
         </entry>
     
         <entry>
-            <title type="text">20230227_最近的日常</title>
+            <title type="text">20230227_加班干活_逐渐熟悉自行车_天气回暖_聚餐</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/02/20230227_%E5%8A%A0%E7%8F%AD%E5%B9%B2%E6%B4%BB_%E9%80%90%E6%B8%90%E7%86%9F%E6%82%89%E8%87%AA%E8%A1%8C%E8%BD%A6_%E5%A4%A9%E6%B0%94%E5%9B%9E%E6%9A%96_%E8%81%9A%E9%A4%90/" />
             <id>https://niantoudeyisi.github.io/posts/2023/02/20230227_%E5%8A%A0%E7%8F%AD%E5%B9%B2%E6%B4%BB_%E9%80%90%E6%B8%90%E7%86%9F%E6%82%89%E8%87%AA%E8%A1%8C%E8%BD%A6_%E5%A4%A9%E6%B0%94%E5%9B%9E%E6%9A%96_%E8%81%9A%E9%A4%90/</id>
-            <updated>2023-03-06T21:54:29&#43;08:00</updated>
+            <updated>2023-03-13T23:12:47&#43;08:00</updated>
             <published>2023-02-26T21:17:01&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -278,10 +380,10 @@
         </entry>
     
         <entry>
-            <title type="text">20230219_最近的日常</title>
+            <title type="text">20230219_rework_war3_网购自行车拉的不行</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/02/20230219_rework_war3_%E7%BD%91%E8%B4%AD%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%8B%89%E7%9A%84%E4%B8%8D%E8%A1%8C/" />
             <id>https://niantoudeyisi.github.io/posts/2023/02/20230219_rework_war3_%E7%BD%91%E8%B4%AD%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%8B%89%E7%9A%84%E4%B8%8D%E8%A1%8C/</id>
-            <updated>2023-02-26T22:00:56&#43;08:00</updated>
+            <updated>2023-03-13T23:12:41&#43;08:00</updated>
             <published>2023-02-19T23:27:39&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -379,10 +481,10 @@
         </entry>
     
         <entry>
-            <title type="text">20230212_最近的日常</title>
+            <title type="text">20230212_阅读基于shell的代码实现_打算买自行车_奇怪的开销不对帐</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/02/20230212_%E9%98%85%E8%AF%BB%E5%9F%BA%E4%BA%8Eshell%E7%9A%84%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0_%E6%89%93%E7%AE%97%E4%B9%B0%E8%87%AA%E8%A1%8C%E8%BD%A6_%E5%A5%87%E6%80%AA%E7%9A%84%E5%BC%80%E9%94%80%E4%B8%8D%E5%AF%B9%E5%B8%90/" />
             <id>https://niantoudeyisi.github.io/posts/2023/02/20230212_%E9%98%85%E8%AF%BB%E5%9F%BA%E4%BA%8Eshell%E7%9A%84%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0_%E6%89%93%E7%AE%97%E4%B9%B0%E8%87%AA%E8%A1%8C%E8%BD%A6_%E5%A5%87%E6%80%AA%E7%9A%84%E5%BC%80%E9%94%80%E4%B8%8D%E5%AF%B9%E5%B8%90/</id>
-            <updated>2023-02-19T23:25:01&#43;08:00</updated>
+            <updated>2023-03-13T23:12:36&#43;08:00</updated>
             <published>2023-02-12T21:42:44&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -492,10 +594,10 @@ march=native
         </entry>
     
         <entry>
-            <title type="text">20230205_最近的日常</title>
+            <title type="text">20230205_J4125_PVE_漏电跳电闸_新室友</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/02/20230205_j4125_pve_%E6%BC%8F%E7%94%B5%E8%B7%B3%E7%94%B5%E9%97%B8_%E6%96%B0%E5%AE%A4%E5%8F%8B/" />
             <id>https://niantoudeyisi.github.io/posts/2023/02/20230205_j4125_pve_%E6%BC%8F%E7%94%B5%E8%B7%B3%E7%94%B5%E9%97%B8_%E6%96%B0%E5%AE%A4%E5%8F%8B/</id>
-            <updated>2023-02-12T22:33:07&#43;08:00</updated>
+            <updated>2023-03-13T23:12:30&#43;08:00</updated>
             <published>2023-02-05T20:05:54&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
