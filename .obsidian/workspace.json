@@ -11,12 +11,8 @@
             "id": "55c6c12e5533bc47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2023/2023_有趣的歌.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023/2023_有趣的歌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2023/2023_有趣的歌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/posts/2023/2023_有趣的歌.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,9 @@
   },
   "active": "55c6c12e5533bc47",
   "lastOpenFiles": [
+    "public/posts/2023/04/20230402_共享单车_橄榄油_生菜_臭干子_硬件加速_clip4_镂空蒸盘_pixel6_充错话费/index.html",
+    "public/posts/2023/04/20230402_共享单车_橄榄油_生菜_臭干子_硬件加速_clip4_镂空蒸盘_pixel6_充错话费",
+    "content/posts/2023/2023_有趣的歌.md",
     "public/tags/防晒/index.html",
     "public/tags/防晒",
     "public/tags/衣食住行/index.html",
@@ -158,7 +153,6 @@
     "public/posts/2023/04/20230402_最近的日常",
     "public/posts/2023/04",
     "content/posts/2023/2023_有趣的博客.md",
-    "content/posts/2023/2023_有趣的歌.md",
     "content/posts/2023/04/20230402_最近的日常.md",
     "content/posts/2023/03/20230319_鸡蛋横放的作用_抛弃花枝鼠_山地车后拨前拨调试更加熟悉_安装山地车链条_大佬一句话点拨_两位老人不同人生.md",
     "content/posts/2023/01/20230115_内存泄漏_回家过年.md",
@@ -169,9 +163,7 @@
     "content/posts/2023/02/20230219_rework_war3_网购自行车拉的不行.md",
     "content/posts/2023/02/20230212_阅读基于shell的代码实现_打算买自行车_奇怪的开销不对帐.md",
     "content/posts/2022/12/20221204_最近的日常.md",
-    "content/posts/2023/04",
     "content/postst/2023/04/20230402_最近的日常.md",
-    "content/postst/2023/04",
     "content/posts/2022/07/20220731_最近的日常.md",
     "content/posts/2022/07/20220724_最近的日常.md",
     "361E0565.png",
