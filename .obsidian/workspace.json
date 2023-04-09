@@ -11,8 +11,12 @@
             "id": "55c6c12e5533bc47",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2023/04/20230409_苏州虎丘湿地公园_粘锅因素_生菜优化.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "谪仙",
+                "query": "key",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/2023/04/20230409_苏州虎丘湿地公园_粘锅因素_生菜优化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/posts/2023/04/20230409_苏州虎丘湿地公园_粘锅因素_生菜优化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/posts/2023/04/20230409_苏州虎丘湿地公园_粘锅因素_生菜优化.md"
+              }
             }
           }
         ]
@@ -140,18 +148,20 @@
   },
   "active": "55c6c12e5533bc47",
   "lastOpenFiles": [
+    "public/posts/2023/04/20230409_苏州虎丘湿地公园_粘锅因素_生菜优化/index.html",
+    "public/posts/2023/04/20230409_苏州虎丘湿地公园_粘锅因素_生菜优化",
+    "public/tags/powershell/index.html",
+    "public/tags/powershell",
+    "public/posts/2023/04/20230409_最近的日常/index.html",
+    "public/posts/2023/04/20230409_最近的日常",
+    "content/posts/2023/04/20230402_共享单车_橄榄油_生菜_臭干子_硬件加速_clip4_镂空蒸盘_pixel6_充错话费.md",
+    "content/posts/2023/04/20230409_苏州虎丘湿地公园_粘锅因素_生菜优化.md",
     "public/posts/2023/04/20230402_共享单车_橄榄油_生菜_臭干子_硬件加速_clip4_镂空蒸盘_pixel6_充错话费/index.html",
     "public/posts/2023/04/20230402_共享单车_橄榄油_生菜_臭干子_硬件加速_clip4_镂空蒸盘_pixel6_充错话费",
     "content/posts/2023/2023_有趣的歌.md",
     "public/tags/防晒/index.html",
     "public/tags/防晒",
     "public/tags/衣食住行/index.html",
-    "public/tags/衣食住行",
-    "public/tags/nginx/index.html",
-    "public/tags/nginx",
-    "public/posts/2023/04/20230402_最近的日常/index.html",
-    "public/posts/2023/04/20230402_最近的日常",
-    "public/posts/2023/04",
     "content/posts/2023/2023_有趣的博客.md",
     "content/posts/2023/04/20230402_最近的日常.md",
     "content/posts/2023/03/20230319_鸡蛋横放的作用_抛弃花枝鼠_山地车后拨前拨调试更加熟悉_安装山地车链条_大佬一句话点拨_两位老人不同人生.md",
@@ -176,8 +186,6 @@
     "IMG_20230226_215910422_HDR.jpg",
     "content/about/_index.md",
     "content/posts/2023/2023_有趣的网站.md",
-    "content/2023/02/20230227_最近的日常.md",
-    "content/posts/2022/09/20220911_最近的日常.md",
-    "content/posts/2022/08/20220821_最近的日常.md"
+    "content/2023/02/20230227_最近的日常.md"
   ]
 }
