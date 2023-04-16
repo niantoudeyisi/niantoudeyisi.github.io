@@ -23,10 +23,111 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 09 Apr 2023 21:24:10 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 21:35:37 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://niantoudeyisi.github.io/rss.xml" />
         
+        
+            <item>
+                <title>20230416_基于自研框架的ubus接口_落水跳蛛_通宵dota</title>
+                <link>https://niantoudeyisi.github.io/posts/2023/04/20230416_%E5%9F%BA%E4%BA%8E%E8%87%AA%E7%A0%94%E6%A1%86%E6%9E%B6%E7%9A%84ubus%E6%8E%A5%E5%8F%A3_%E8%90%BD%E6%B0%B4%E8%B7%B3%E8%9B%9B_%E9%80%9A%E5%AE%B5dota_%E9%9A%8F%E8%BA%ABwifi/</link>
+                <guid isPermaLink="true">https://niantoudeyisi.github.io/posts/2023/04/20230416_%E5%9F%BA%E4%BA%8E%E8%87%AA%E7%A0%94%E6%A1%86%E6%9E%B6%E7%9A%84ubus%E6%8E%A5%E5%8F%A3_%E8%90%BD%E6%B0%B4%E8%B7%B3%E8%9B%9B_%E9%80%9A%E5%AE%B5dota_%E9%9A%8F%E8%BA%ABwifi/</guid>
+                <pubDate>Sun, 09 Apr 2023 21:25:07 &#43;0800</pubDate>
+                
+                    <author>niantoudeyisi@gmail.com (汪先雨)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/4/PXL_20230408_071452818.jpg&#34; alt=&#34;苏州湿地公园-某栈道&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;又安排了新的任务。 注册一个ubus框架。给pon组用。。。搞一天。。。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;以前一直看别人说美v版。美v版。。。现在自己开始整pixel，才知道美v版多恶心。md。&lt;/p&gt;
+&lt;p&gt;试了一下便宜的usb 4g模块。速度1MB/s 还行，就是openwrt识别不了md。。。
+无法理解为什么现在还没有成品的类似于可插sim卡的安卓盒子的方案，或者可以不用电池的安卓小主机。。。感觉应该不是很难实现。&lt;/p&gt;
+&lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;还需要参照原有的基于ubus的接口架构重新写一份。。。吐了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;昨晚做梦梦到开的车子和骑得自行车丢在一个地方了。然后不能一起带回来。。一来一回四次会浪费一天时间然后很纠结。。。。离谱的梦。。。&lt;/p&gt;
+&lt;p&gt;ubus接口参考了大佬的文章，https://blog.csdn.net/Xiao_brother/article/details/126210792?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168123103516800184180481%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&amp;amp;request_id=168123103516800184180481&amp;amp;biz_id=0&amp;amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~times_rank-2-126210792-null-null.142^v82^koosearch_v1,201^v4^add_ask,239^v2^insert_chatgpt&amp;amp;utm_term=openwrt%20ubus&amp;amp;spm=1018.2226.3001.4187。&lt;/p&gt;
+&lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;搞了好几天的东西。对于甲方的大佬来说太简单了。。。好伤心。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;giffgaff手机卡到了。折腾了好久才知道打国外号码需要+44xxxx 。。&lt;/p&gt;
+&lt;p&gt;早上骑车风吹的眼睛流泪的不行。。。晚上骑回家风很大。。第一次戴着眼镜也能进沙子。就离谱。&lt;/p&gt;
+&lt;p&gt;房东主在我对面。就离谱。。。老小区一层两个房间。&lt;/p&gt;
+&lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;早上拉开窗帘看到阳台上。养乌龟的容器水面上，有一个蜘蛛。我还以为是掉进去淹死的。。。用纸调处来发现还是活的。卧槽。。。然后仔细一看还是跳蛛。。。然后也野生的很有活力。直接蹦下去没抓住墙摔下去了。。。没爆肚 ，不知道有没有受伤能不能活下去。&lt;/p&gt;
+&lt;p&gt;被同事问了什么时候结婚。。。&lt;/p&gt;
+&lt;p&gt;早上被室友叫醒。。。莫名想到之前我也是这样叫另一个同事的。现在他走了。。。不知道该说些什么。&lt;/p&gt;
+&lt;p&gt;晚上去拿快递，小区里面看到救护车。&lt;/p&gt;
+&lt;p&gt;终峰定律。挺有意思的。&lt;/p&gt;
+&lt;p&gt;莫名刷到了一个视频。了解到为什么受伤48h以内要冷敷，48h之后要热敷。。。之前知道这么么个事情。但是不知道原理。&lt;/p&gt;
+&lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;感觉自己是真的菜。。。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;唉&lt;/p&gt;
+&lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;下午打算出去骑了溜达溜达。结果吃完晚饭躺了会睡着了。。。&lt;/p&gt;
+&lt;p&gt;打了几把dota第一次遇到给的真眼去卖钱的。233&lt;/p&gt;
+&lt;p&gt;晚上打着打着，到了第二天五点。。。休息的时候看了眼窗外。已经天色发白了。。。夏天天亮的挺早。&lt;/p&gt;
+&lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;爷爷大伯伯二伯伯。和家里几个老人通了一下电话。。。和我说家族什么的。。。。。。。&lt;/p&gt;
+&lt;p&gt;和同事打了几把dota。&lt;/p&gt;
+&lt;p&gt;晚上父母也打电话过来了。&lt;/p&gt;
+&lt;p&gt;一周感觉又是什么也没做。 搞了好几天随身wifi的刷机。感觉都是很多小问题。放弃了。&lt;/p&gt;
+&lt;p&gt;一个t的硬盘莫名其妙用了六百多个g了。。。离谱。不知道什么玩意用的。不太正常。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/categories/2023%E6%97%A5%E5%B8%B8/">2023日常</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/tags/2023%E6%97%A5%E5%B8%B8/">2023日常</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/tags/%E4%BA%BA%E7%94%9F%E6%80%9D%E8%80%83/">人生思考</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/tags/%E9%9A%8F%E8%BA%ABwifi/">随身wifi</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>20230409_苏州虎丘湿地公园_粘锅因素_生菜优化</title>
