@@ -1,5 +1,5 @@
 ---
-title: "20230416_基于自研框架的ubus接口_落水跳蛛_通宵dota"
+title: "20230416_基于自研框架的ubus接口_落水跳蛛_通宵dota_随身wifi"
 date: 2023-04-09T21:25:07+08:00
 draft: false
 categories:
