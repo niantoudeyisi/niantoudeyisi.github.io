@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">汪先雨的博客</title>
     <subtitle type="html">汪先雨的博客</subtitle>
-    <updated>2023-04-30T22:19:23&#43;08:00</updated>
+    <updated>2023-04-30T23:27:45&#43;08:00</updated>
     <id>https://niantoudeyisi.github.io/</id>
     <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://niantoudeyisi.github.io/atom.xml" />
@@ -17,19 +17,20 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.111.3">Hugo</generator>
         <entry>
-            <title type="text">20230430_最近的日常</title>
-            <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/04/20230430_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
-            <id>https://niantoudeyisi.github.io/posts/2023/04/20230430_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2023-04-30T22:19:20&#43;08:00</updated>
+            <title type="text">20230430_绿皮火车硬座_amd7735hs_edge-s30-14G拍照_archlinux主机</title>
+            <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/04/20230430_20230430_%E7%BB%BF%E7%9A%AE%E7%81%AB%E8%BD%A6%E7%A1%AC%E5%BA%A7_amd7735hs_edge-s30-14g%E6%8B%8D%E7%85%A7_archlinux%E4%B8%BB%E6%9C%BA/" />
+            <id>https://niantoudeyisi.github.io/posts/2023/04/20230430_20230430_%E7%BB%BF%E7%9A%AE%E7%81%AB%E8%BD%A6%E7%A1%AC%E5%BA%A7_amd7735hs_edge-s30-14g%E6%8B%8D%E7%85%A7_archlinux%E4%B8%BB%E6%9C%BA/</id>
+            <updated>2023-04-30T23:27:40&#43;08:00</updated>
             <published>2023-04-24T00:45:28&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
                     <uri>https://niantoudeyisi.github.io</uri>
                     <email>niantoudeyisi@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">周一 工作</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
             
-                <content type="html">&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/4/PXL_20230429_043838831.jpg&#34; alt=&#34;绿皮火车&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;github pages ，会有push之后deploy失败的情况。&lt;/p&gt;
@@ -50,16 +51,31 @@
 &lt;p&gt;打算给自己的公网ip写一个导航页面用了。自己记太不方便了。&lt;/p&gt;
 &lt;p&gt;整理备份的时候发现，自己到苏州已经拍了14g的照片了。&lt;/p&gt;
 &lt;p&gt;uhd630默认就站三四百M的内存。680m最多能站8g。差距真大。&lt;/p&gt;
+&lt;p&gt;也算是用了一下amd平台的硬件了。感觉amd比intel的核显软件要好用点。&lt;/p&gt;
 &lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;
-中午一点坐火车，下午九点才到家。。。真实的怕了硬座了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;坐了一趟绿皮火车。满足了一个小愿望。以前一直想做一次。可惜不是卧铺。不禁让人想到《爱上火车》,让人兴奋。&lt;/p&gt;
+&lt;p&gt;路上无聊。抱着kindle看。囫囵吞操过了便毛选。感觉干完也没啥用。 。。以前一直听别人吹有多牛。。。也可能是我阶级太低了看不懂。&lt;/p&gt;
+&lt;p&gt;中午一点坐火车，下午九点才到家。。。真实的怕了硬座了。&lt;/p&gt;
 &lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;看了眼很久以前的一个块固态硬盘写入量才十几T，应该不会坏。&lt;/p&gt;
+&lt;p&gt;archlinux的dota2感觉不如win的dota2稳定。真是令人感叹。可能是我没优化好，也可能是wine的原因。也可能是linux确实不适合打游戏。&lt;/p&gt;
+&lt;p&gt;arch没有装显卡驱动的时候会有画面撕裂。&lt;/p&gt;
+&lt;p&gt;得到了一个正版win11的系统U盘。nice。&lt;/p&gt;
+&lt;p&gt;老家比苏州冷不少。。。冻得我脑壳疼。&lt;/p&gt;
+&lt;p&gt;明天还要去吃酒。。。五天假，两天路程，一天躺着了。一天要去吃喜酒。还有一天。。。打算重新弄一下自己的小服务器们。感觉有点时间不够了。。。&lt;/p&gt;
+&lt;p&gt;回家燃气热水器风压微动开关好像坏了。。。又学会了修这个。。&lt;/p&gt;
+&lt;p&gt;家里汤挺好喝的。作为外面几乎喝不到汤。&lt;/p&gt;
+&lt;p&gt;写了个shell脚本，用来每天进行Syyu，并保存log记录日志时间戳。还蛮让人兴奋的。archlinux主机。&lt;/p&gt;
+&lt;p&gt;19年买的标压笔记本。风扇是真的吵。&lt;/p&gt;
+&lt;p&gt;syncthing,找到为什么会打开失败的原因了。因为win下local有其他的缓存。&lt;/p&gt;
+&lt;p&gt;还有这次备份转移感觉挺成功的。各种东西很快就在新电脑上部署起来了。感觉对于之前的那些服务更熟悉了。&lt;/p&gt;
 </content>
             
             
