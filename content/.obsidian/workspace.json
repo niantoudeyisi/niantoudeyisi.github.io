@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2023/02/20230219_最近的日常.md",
+                "file": "posts/2023/04/20230430_最近的日常.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2023/02/20230219_最近的日常.md",
+                "file": "posts/2023/04/20230430_最近的日常.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2023/02/20230219_最近的日常.md",
+                "file": "posts/2023/04/20230430_最近的日常.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2023/02/20230219_最近的日常.md"
+                "file": "posts/2023/04/20230430_最近的日常.md"
               }
             }
           }
@@ -133,13 +133,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false
@@ -147,10 +148,14 @@
   },
   "active": "f74a032f7441adfb",
   "lastOpenFiles": [
+    "posts/2023/2023_有趣的网站.md",
+    "posts/2023/04/20230430_最近的日常.md",
+    "posts/2023/04/20230423_基于ctcapd的pon-ubus框架_草龟过滤系统_dota2更新换7735hs_循环扇_清理卧室.md",
+    "posts/2023/02/20230227_加班干活_逐渐熟悉自行车_天气回暖_聚餐.md",
+    "posts/2023/01/20230122_维生素c对口腔溃疡的妙用_快乐的年假_然后又上班了.md",
     "posts/2023/02/20230212_阅读基于shell的代码实现_打算买自行车_奇怪的开销不对帐.md",
     "posts/2023/02/20230205_J4125_PVE_漏电跳电闸_新室友.md",
     "posts/2023/01/20230130_熟悉自己做饭_体验armbian_整理目前所学_体验hdmi采集卡.md",
-    "posts/2023/01/20230122_维生素c对口腔溃疡的妙用_快乐的年假_然后又上班了.md",
     "posts/2023/01/20230115_内存泄漏_回家过年.md",
     "posts/2023/01/20230115_最近的日常.md",
     "posts/2023/2023_有趣的工具.md",
