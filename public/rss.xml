@@ -23,10 +23,169 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 14 May 2023 22:10:28 &#43;0800</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 00:37:37 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://niantoudeyisi.github.io/rss.xml" />
         
+        
+            <item>
+                <title>20230521_搭建基于ubus框架的项目_使用chatgpt-key_骑行19公里_电火锅做菜_规划饮食_轨迹球鼠标</title>
+                <link>https://niantoudeyisi.github.io/posts/2023/05/20230521_%E6%90%AD%E5%BB%BA%E5%9F%BA%E4%BA%8Eubus%E6%A1%86%E6%9E%B6%E7%9A%84%E9%A1%B9%E7%9B%AE_%E4%BD%BF%E7%94%A8chatgpt-key_%E9%AA%91%E8%A1%8C19%E5%85%AC%E9%87%8C_%E7%94%B5%E7%81%AB%E9%94%85%E5%81%9A%E8%8F%9C_%E8%A7%84%E5%88%92%E9%A5%AE%E9%A3%9F_%E8%BD%A8%E8%BF%B9%E7%90%83%E9%BC%A0%E6%A0%87/</link>
+                <guid isPermaLink="true">https://niantoudeyisi.github.io/posts/2023/05/20230521_%E6%90%AD%E5%BB%BA%E5%9F%BA%E4%BA%8Eubus%E6%A1%86%E6%9E%B6%E7%9A%84%E9%A1%B9%E7%9B%AE_%E4%BD%BF%E7%94%A8chatgpt-key_%E9%AA%91%E8%A1%8C19%E5%85%AC%E9%87%8C_%E7%94%B5%E7%81%AB%E9%94%85%E5%81%9A%E8%8F%9C_%E8%A7%84%E5%88%92%E9%A5%AE%E9%A3%9F_%E8%BD%A8%E8%BF%B9%E7%90%83%E9%BC%A0%E6%A0%87/</guid>
+                <pubDate>Sun, 14 May 2023 22:12:06 &#43;0800</pubDate>
+                
+                    <author>niantoudeyisi@gmail.com (汪先雨)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/5/PXL_20230517_103740314.jpg&#34; alt=&#34;雨后的苏州&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;又要痛苦的做ubus框架的实现了。。。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;又看到好多有意思的开源项目。。。好快。。。看到好多rust的东西。&lt;/p&gt;
+&lt;p&gt;红胡萝卜生吃还挺好吃的。。。&lt;/p&gt;
+&lt;p&gt;买的口红型号的随身wifi到了感觉还行。&lt;/p&gt;
+&lt;p&gt;晚上听到楼下有报警的了。。。听声音像男女吵架。。。&lt;/p&gt;
+&lt;p&gt;感觉手机的全景拍照挺有意思的&lt;/p&gt;
+&lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;docker run -itd --name chatgpt-web --restart&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;always &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt; -e &lt;span class=&#34;nv&#34;&gt;APIKEY&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;sk- &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt; -e &lt;span class=&#34;nv&#34;&gt;APIURL&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt; -e &lt;span class=&#34;nv&#34;&gt;MODEL&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;gpt-3.5-turbo &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt; -e &lt;span class=&#34;nv&#34;&gt;BOT_DESC&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;你是一个AI助手,我需要你模拟一名经验丰富的程序员来回答我的问题. &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt; -e &lt;span class=&#34;nv&#34;&gt;MAX_TOKENS&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;512&lt;/span&gt; &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt; -e &lt;span class=&#34;nv&#34;&gt;TEMPREATURE&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;0.9 &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt; -e &lt;span class=&#34;nv&#34;&gt;TOP_P&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt; -e &lt;span class=&#34;nv&#34;&gt;FREQ&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;0.0 &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt; -e &lt;span class=&#34;nv&#34;&gt;PRES&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;0.6 &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt; -e &lt;span class=&#34;nv&#34;&gt;PROXY&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt; -e &lt;span class=&#34;nv&#34;&gt;AUTH_USER&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt; -e &lt;span class=&#34;nv&#34;&gt;AUTH_PASSWORD&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt; -p 宿主机端口:8080 &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt; --add-host&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;host.docker.internal:host-gateway&amp;#34;&lt;/span&gt; &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt; qingshui869413421/chatgpt-web:latest
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;请求出错，Post &lt;span class=&#34;s2&#34;&gt;&amp;#34;https://api.openai.com/v1/chat/completions&amp;#34;&lt;/span&gt;: proxyconnect tcp: dial tcp 172.31.0.1:10809: connect: connection refused
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;自己尝试理发一下。下次就有最小的4cm 整理除了头顶的所有。&lt;/p&gt;
+&lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;买了个镊子，用来喂龟真不错，感觉等他熟悉了，可以让他陆养。&lt;/p&gt;
+&lt;p&gt;新买的洗衣凝珠，封面和以前买的都不太一样。画风不一样。然后里面的凝珠也是个小衣服一样。。。真卡通。&lt;/p&gt;
+&lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;楼下经常可以看到有老人在叠 金元宝，祭祖用的那种。。不知道是卖钱还是有什么用途。。&lt;/p&gt;
+&lt;p&gt;打dota，碰到的东北老哥还挺有意思的，说话好好玩。&lt;/p&gt;
+&lt;p&gt;雨停后，看到有个骑电动车的大妈在拍照，我也跟着拍了一张。苏州这边雨后，天还挺美。&lt;/p&gt;
+&lt;p&gt;买了个自行车的座位小包。md不能放锁了。。。吐了。。总感觉有点不太安全。&lt;/p&gt;
+&lt;p&gt;裤子有拉链口袋真方便。&lt;/p&gt;
+&lt;p&gt;试了一下bitwarden。感觉挺好用的。似乎可以一用。&lt;/p&gt;
+&lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;买了五双薄袜子。。还是第一次见到这种每个都一模一样的。都是长方形。&lt;/p&gt;
+&lt;p&gt;买了个手机支架，下次理发可能可以看到自己后面了。。直播搞好了。下次可以看自己的后脑壳了。。。&lt;/p&gt;
+&lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;咸鱼上看到了一个不错的东西，来回十九公里去拿。 。。感觉自己真的是差点累死了。&lt;/p&gt;
+&lt;p&gt;中途有一个桥。骑死我了。回来的时候路过都是推上去的。。。但是放坡的时候真爽。 看了手机。几乎到了40km/h&lt;/p&gt;
+&lt;p&gt;咸鱼上买了个锅 20块。原价大概七八十。看日期还是今年二月份的东西。&lt;/p&gt;
+&lt;p&gt;莫名想起吃泡面，整了两包，加上自己的鸡蛋生菜胡萝卜，撑的不行。。。&lt;/p&gt;
+&lt;p&gt;电火锅感觉不如电煮锅好用。洗太麻烦了。。。不过用起来真的大。用的时候很方便，洗的时候比较麻烦。&lt;/p&gt;
+&lt;p&gt;想去携号转网联通。但是被告知最近联通都无法携号转网。奇怪。&lt;/p&gt;
+&lt;p&gt;骑车的时候看路上有的电动车，脚踏板也会自己动的。感觉还挺好玩的。&lt;/p&gt;
+&lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;轨迹球鼠标到了，真不错 。&lt;/p&gt;
+&lt;p&gt;买了点鸡胸肉 ，中午吃得好饱。&lt;/p&gt;
+&lt;p&gt;计算了一下 ，一天大概需要吃半斤到一斤的肉&lt;/p&gt;
+&lt;p&gt;如果只吃鸡胸肉，会缺少其他肉的一些营养。&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;猪肉比鸡胸肉 多 硒，维生素b1
+牛肉比鸡胸肉 多 铁 锌 肌酸 
+鱼肉比鸡胸肉 多 Omega-3脂肪酸  维生素D 钙
+
+硒 ，一天两个鸡蛋可以满足
+维生素b1，吃b族维生素片就可以了 。水溶性的维生素，稍微过多无影响，会随着代谢排出体外
+铁元素 ，吃硫酸亚铁片，预防补充；需要尝试鸭胸肉口感或者猪肉牛肉；可以尝试摄入一些红枣
+锌，吃维生素片，水溶性的，不超大量摄入不会有太大问题
+肌酸，牛肉含量最高，似乎需要整点牛肉吃；或者兔肉吃，但是人体每天自然生成的，足够日常使用了。除非高强度锻炼否则不需要过多摄入。
+维生素d，夏天晒十分钟就可以满足每日所需了。。。可以食用维生素d片
+钙，喝奶粉就完事了
+Omega-3脂肪酸，吃鱼油胶囊
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;总结现有的饮食结构需要添加，维生素钙+d片，维生素b族，硫酸亚铁片，锌维生素，鱼油胶囊，尝试牛肉兔肉猪肉，添加红枣零食，以及尝试清蒸韭菜。&lt;/p&gt;
+&lt;p&gt;感觉如果有机会可以买些海鲜蒸着吃。&lt;/p&gt;
+&lt;p&gt;发现有一种可以定量盐的瓶子。真不戳。&lt;/p&gt;
+&lt;p&gt;感觉自己做饭还挺好玩的。一步步把新鲜的食材加热成可以食用的。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/categories/2023%E6%97%A5%E5%B8%B8/">2023日常</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/tags/2023%E6%97%A5%E5%B8%B8/">2023日常</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/tags/bitwarden/">Bitwarden</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/tags/%E8%A1%A3%E9%A3%9F%E4%BD%8F%E8%A1%8C/">衣食住行</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>衣食住行</title>
@@ -43,6 +202,7 @@
 &lt;h2 id=&#34;住&#34;&gt;住&lt;/h2&gt;
 &lt;p&gt;锋利的水果刀以及剥皮刀。日常切割保鲜膜，水果皮，很好用。&lt;/p&gt;
 &lt;h2 id=&#34;行&#34;&gt;行&lt;/h2&gt;
+&lt;p&gt;出门的话感觉。带好手机身份证，做好防晒就可以了。。。&lt;/p&gt;
 </description>
                 
                 
@@ -131,8 +291,8 @@
 &lt;p&gt;走之前称了下体重71&lt;/p&gt;
 &lt;p&gt;床的真舒服。躺着躺着就睡着了。&lt;/p&gt;
 &lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;
-去看了明清宫苑。逛了下各种宫，最后登上城墙。挺大的。对面的山挺好看的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;去看了明清宫苑。逛了下各种宫，最后登上城墙。挺大的。对面的山挺好看的。&lt;/p&gt;
 &lt;p&gt;回来的时候服务区好多人。男厕所都满了。几乎没有空间。一人出来一人进去。站着尿尿都满了。。。满震惊的。&lt;/p&gt;
 &lt;p&gt;然后还有k歌的地方。想去来着。没好意思去。&lt;/p&gt;
 &lt;p&gt;买了个健身器材。。。不知道后面能不能坚持下来。感觉好不稳。&lt;/p&gt;
@@ -2662,6 +2822,14 @@ march=native
 &lt;li&gt;日落的云
 &lt;ul&gt;
 &lt;li&gt;好听。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;05&#34;&gt;05&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;离人赋
+&lt;ul&gt;
+&lt;li&gt;挺好听的。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;

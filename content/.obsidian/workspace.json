@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2023/05/20230507_五一回趟老家_坐卧铺_资本论_料理包的钠含量_整理桌子.md",
+                "file": "posts/2023/05/20230521_搭建基于ubus框架的项目_使用chatgpt-key_骑行19公里_电火锅做菜_规划饮食_轨迹球鼠标.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Git",
+                "query": "经验",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2023/05/20230507_五一回趟老家_坐卧铺_资本论_料理包的钠含量_整理桌子.md",
+                "file": "posts/2023/05/20230521_搭建基于ubus框架的项目_使用chatgpt-key_骑行19公里_电火锅做菜_规划饮食_轨迹球鼠标.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2023/05/20230507_五一回趟老家_坐卧铺_资本论_料理包的钠含量_整理桌子.md",
+                "file": "posts/2023/05/20230521_搭建基于ubus框架的项目_使用chatgpt-key_骑行19公里_电火锅做菜_规划饮食_轨迹球鼠标.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2023/05/20230507_五一回趟老家_坐卧铺_资本论_料理包的钠含量_整理桌子.md"
+                "file": "posts/2023/05/20230521_搭建基于ubus框架的项目_使用chatgpt-key_骑行19公里_电火锅做菜_规划饮食_轨迹球鼠标.md"
               }
             }
           }
@@ -170,6 +170,9 @@
   "active": "b31245120297638a",
   "lastOpenFiles": [
     "posts/2023/05/20230514_更换带盖的垃圾桶_周末团建横店_走了一只龟_看轻小说.md",
+    "posts/2023/05/20230521_搭建基于ubus框架的项目_使用chatgpt-key_骑行19公里_电火锅做菜_规划饮食_轨迹球鼠标.md",
+    "posts/2023/2023_衣食住行.md",
+    "posts/2023/2023_有趣的歌.md",
     "posts/2023/05/20230507_五一回趟老家_坐卧铺_资本论_料理包的钠含量_整理桌子.md",
     "posts/2022/07/20220717_最近的日常.md",
     "posts/2023/2023_有趣的工具.md",
@@ -178,10 +181,8 @@
     "posts/2022/07/关于我所知道的Android刷机方案.md",
     "posts/2022/07/20220710_今天的低效率工作.md",
     "posts/2022/08/20220814_最近的日常.md",
-    "posts/2023/2023_有趣的歌.md",
     "posts/2023/04/20230402_共享单车_橄榄油_生菜_臭干子_硬件加速_clip4_镂空蒸盘_pixel6_充错话费.md",
     "posts/2022/有趣的博客.md",
-    "posts/2023/2023_衣食住行.md",
     "posts/2023/04/20230423_基于ctcapd的pon-ubus框架_草龟过滤系统_dota2更新换7735hs_循环扇_清理卧室.md",
     "posts/2023/04/20230409_苏州虎丘湿地公园_粘锅因素_生菜优化.md",
     "posts/2022/09/20220904_最近的日常.md",
@@ -193,7 +194,6 @@
     "posts/2023/02/20230212_阅读基于shell的代码实现_打算买自行车_奇怪的开销不对帐.md",
     "posts/2023/02/20230205_J4125_PVE_漏电跳电闸_新室友.md",
     "posts/2023/01/20230130_熟悉自己做饭_体验armbian_整理目前所学_体验hdmi采集卡.md",
-    "posts/2023/01/20230115_内存泄漏_回家过年.md",
-    "posts/2023/01/20230115_最近的日常.md"
+    "posts/2023/01/20230115_内存泄漏_回家过年.md"
   ]
 }
