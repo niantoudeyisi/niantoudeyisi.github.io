@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2023/06/20230604_新冠恢复中_加班_尝试生蚝_四川香肠真不错.md",
+                "file": "posts/2023/06/20230611_最近的日常.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2023/06/20230604_新冠恢复中_加班_尝试生蚝_四川香肠真不错.md",
+                "file": "posts/2023/06/20230611_最近的日常.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2023/06/20230604_新冠恢复中_加班_尝试生蚝_四川香肠真不错.md",
+                "file": "posts/2023/06/20230611_最近的日常.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2023/06/20230604_新冠恢复中_加班_尝试生蚝_四川香肠真不错.md"
+                "file": "posts/2023/06/20230611_最近的日常.md"
               }
             }
           }
@@ -169,8 +169,9 @@
   },
   "active": "b31245120297638a",
   "lastOpenFiles": [
-    "posts/2023/2023_有趣的歌.md",
     "posts/2023/06/20230604_新冠恢复中_加班_尝试生蚝_四川香肠真不错.md",
+    "posts/2023/06/20230611_最近的日常.md",
+    "posts/2023/2023_有趣的歌.md",
     "posts/2023/05/20230514_更换带盖的垃圾桶_周末团建横店_走了一只龟_看轻小说.md",
     "posts/2023/05/20230521_搭建基于ubus框架的项目_使用chatgpt-key_骑行19公里_电火锅做菜_规划饮食_轨迹球鼠标.md",
     "posts/2023/05/20230507_五一回趟老家_坐卧铺_资本论_料理包的钠含量_整理桌子.md",
@@ -194,7 +195,6 @@
     "posts/2023/04/20230430_20230430_绿皮火车硬座_amd7735hs_edge-s30-14G拍照_archlinux主机.md",
     "posts/2023/04/20230416_基于自研框架的ubus接口_落水跳蛛_通宵dota_随身wifi.md",
     "posts/2023/2023_有趣的网站.md",
-    "posts/2023/02/20230227_加班干活_逐渐熟悉自行车_天气回暖_聚餐.md",
-    "posts/2023/01/20230122_维生素c对口腔溃疡的妙用_快乐的年假_然后又上班了.md"
+    "posts/2023/02/20230227_加班干活_逐渐熟悉自行车_天气回暖_聚餐.md"
   ]
 }
