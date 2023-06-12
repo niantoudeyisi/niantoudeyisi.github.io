@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023/06/20230611_最近的日常.md",
+                "file": "content/posts/2023/06/20230611_2T固态_WSL_黑苹果失败_gentoo失败.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023/06/20230611_最近的日常.md",
+                "file": "content/posts/2023/06/20230611_2T固态_WSL_黑苹果失败_gentoo失败.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2023/06/20230611_最近的日常.md",
+                "file": "content/posts/2023/06/20230611_2T固态_WSL_黑苹果失败_gentoo失败.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2023/06/20230611_最近的日常.md"
+                "file": "content/posts/2023/06/20230611_2T固态_WSL_黑苹果失败_gentoo失败.md"
               }
             }
           }
@@ -156,6 +156,12 @@
   },
   "active": "55c6c12e5533bc47",
   "lastOpenFiles": [
+    "public/tags/wsl/index.html",
+    "public/tags/wsl",
+    "public/posts/2023/06/20230611_2t固态_wsl_黑苹果失败_gentoo失败/index.html",
+    "public/posts/2023/06/20230611_2t固态_wsl_黑苹果失败_gentoo失败",
+    "content/posts/2023/06/20230604_新冠恢复中_加班_尝试生蚝_四川香肠真不错.md",
+    "content/posts/2023/06/20230611_2T固态_WSL_黑苹果失败_gentoo失败.md",
     "public/posts/2023/06/20230611_最近的日常/index.html",
     "public/posts/2023/06/20230611_最近的日常",
     "content/posts/2023/04/20230423_基于ctcapd的pon-ubus框架_草龟过滤系统_dota2更新换7735hs_循环扇_清理卧室.md",
@@ -169,13 +175,9 @@
     "content/posts/2023/02/20230219_rework_war3_网购自行车拉的不行.md",
     "content/posts/2023/04/20230409_苏州虎丘湿地公园_粘锅因素_生菜优化.md",
     "public/tags/随身wifi/index.html",
-    "public/tags/随身wifi",
-    "public/posts/2023/04/20230416_基于自研框架的ubus接口_落水跳蛛_通宵dota_随身wifi/index.html",
-    "public/posts/2023/04/20230416_基于自研框架的ubus接口_落水跳蛛_通宵dota_随身wifi",
     "425B31DC.png",
     "content/posts/2023/2023_有趣的博客.md",
     "content/posts/2023/04/20230402_共享单车_橄榄油_生菜_臭干子_硬件加速_clip4_镂空蒸盘_pixel6_充错话费.md",
-    "public/posts/2023/04/20230409_苏州虎丘湿地公园_粘锅因素_生菜优化/index.html",
     "content/posts/2023/2023_有趣的歌.md",
     "content/posts/2023/04/20230402_最近的日常.md",
     "content/posts/2023/01/20230115_内存泄漏_回家过年.md",
@@ -193,8 +195,6 @@
     "content/posts/2023/03/20230306_加班_花枝鼠_温度_春天.md",
     "content/posts/2023/02/20230227_加班干活_逐渐熟悉自行车_天气回暖_聚餐.md",
     "content/posts/2023/02/20230205_J4125_PVE_漏电跳电闸_新室友.md",
-    "content/posts/2023/01/20230130_熟悉自己做饭_体验armbian_整理目前所学_体验hdmi采集卡.md",
-    "content/posts/2023/01/20230122_维生素c对口腔溃疡的妙用_快乐的年假_然后又上班了.md",
     "IMG_20230226_215910422_HDR.jpg"
   ]
 }
