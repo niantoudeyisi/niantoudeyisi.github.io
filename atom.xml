@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">汪先雨的博客</title>
     <subtitle type="html">汪先雨的博客</subtitle>
-    <updated>2023-06-04T22:54:51&#43;08:00</updated>
+    <updated>2023-06-13T00:14:32&#43;08:00</updated>
     <id>https://niantoudeyisi.github.io/</id>
     <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://niantoudeyisi.github.io/atom.xml" />
@@ -15,7 +15,103 @@
                 <email>niantoudeyisi@gmail.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
-    <generator uri="https://gohugo.io/" version="0.111.3">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.113.0">Hugo</generator>
+        <entry>
+            <title type="text">20230611_2T固态_WSL_黑苹果失败_gentoo失败</title>
+            <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/06/20230611_2t%E5%9B%BA%E6%80%81_wsl_%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%A4%B1%E8%B4%A5_gentoo%E5%A4%B1%E8%B4%A5/" />
+            <id>https://niantoudeyisi.github.io/posts/2023/06/20230611_2t%E5%9B%BA%E6%80%81_wsl_%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%A4%B1%E8%B4%A5_gentoo%E5%A4%B1%E8%B4%A5/</id>
+            <updated>2023-06-13T00:13:48&#43;08:00</updated>
+            <published>2023-06-04T22:55:30&#43;08:00</published>
+            <author>
+                    <name>汪先雨</name>
+                    <uri>https://niantoudeyisi.github.io</uri>
+                    <email>niantoudeyisi@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/06/PXL_20230611_095121450.jpg&#34; alt=&#34;小青&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;买了一块2t的 m2固态。。。不知道这个时间点算不算抄底。&lt;/p&gt;
+&lt;p&gt;老初号机 m2只支持pcie3 。本来还打算把这块硬盘给初号机。。。一般都跑不到。。。
+网上看了一下性能。前段时间2k买的小主机比我上大学那会8k的笔记本性能好了好几倍。。。&lt;/p&gt;
+&lt;p&gt;折腾了一会wsl。最终放弃wsl2 。IP弄不好&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-vbs&#34; data-lang=&#34;vbs&#34;&gt;CreateObject(&amp;#34;Wscript.Shell&amp;#34;).run &amp;#34;wsl&amp;#34;, vbhide
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;会了一手 dd命令格式化和刷openwrt的方法。真有意思&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;dd &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;/xxx文件 &lt;span class=&#34;nv&#34;&gt;of&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;/dev/sdx
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;dd &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;/dev/zero &lt;span class=&#34;nv&#34;&gt;of&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;/dev/xxx
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;发现以前做过的事情，再做一遍。会有不一样的体验。 。。感觉像反复读一本书一样。常读常新。。。&lt;/p&gt;
+&lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;冰箱冷藏 3档位最适合保存生菜。再高就会冻烂。&lt;/p&gt;
+&lt;p&gt;dell的笔记本开机选择引导似乎都是f12 。。 昨天清灰换硅脂，风扇线忘记装了。开机一会就关机。我还以为坏掉了。。。&lt;/p&gt;
+&lt;p&gt;填了一下公司的调薪申请表，发现好像可以去别的项目组。。。想试试写写别的。&lt;/p&gt;
+&lt;p&gt;这段时间折腾了一下黑苹果和gentoo。。。都以失败告终。自己还真是没什么才能。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/categories/2023%E6%97%A5%E5%B8%B8/" term="2023日常" label="2023日常" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/2023%E6%97%A5%E5%B8%B8/" term="2023日常" label="2023日常" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/wsl/" term="WSL" label="WSL" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">20230604_新冠恢复中_加班_尝试生蚝_四川香肠真不错</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/06/20230604_%E6%96%B0%E5%86%A0%E6%81%A2%E5%A4%8D%E4%B8%AD_%E5%8A%A0%E7%8F%AD_%E5%B0%9D%E8%AF%95%E7%94%9F%E8%9A%9D_%E5%9B%9B%E5%B7%9D%E9%A6%99%E8%82%A0%E7%9C%9F%E4%B8%8D%E9%94%99/" />
