@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023/06/20230618_干活_xerolinux_archcraft_尝试羊肝_苏州11号线试运行_主机风扇异响.md",
+                "file": "content/posts/2023/07/20230702_寄修主机_团建烧烤_骑行20公里_龋齿_自提公草龟.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023/06/20230618_干活_xerolinux_archcraft_尝试羊肝_苏州11号线试运行_主机风扇异响.md",
+                "file": "content/posts/2023/07/20230702_寄修主机_团建烧烤_骑行20公里_龋齿_自提公草龟.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2023/06/20230618_干活_xerolinux_archcraft_尝试羊肝_苏州11号线试运行_主机风扇异响.md",
+                "file": "content/posts/2023/07/20230702_寄修主机_团建烧烤_骑行20公里_龋齿_自提公草龟.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2023/06/20230618_干活_xerolinux_archcraft_尝试羊肝_苏州11号线试运行_主机风扇异响.md"
+                "file": "content/posts/2023/07/20230702_寄修主机_团建烧烤_骑行20公里_龋齿_自提公草龟.md"
               }
             }
           }
@@ -156,26 +156,31 @@
   },
   "active": "55c6c12e5533bc47",
   "lastOpenFiles": [
-    "content/posts/2023/06/20230611_2T固态_WSL_黑苹果失败_gentoo失败.md",
+    "public/page/15/index.html",
+    "public/page/15",
+    "public/posts/2023/07/20230702_寄修主机_团建烧烤_骑行20公里_龋齿_自提公草龟/index.html",
+    "public/posts/2023/07/20230702_寄修主机_团建烧烤_骑行20公里_龋齿_自提公草龟",
+    "public/posts/2023/07",
+    "content/posts/2023/06/20230625_小主机返厂送修_新入手草龟_端午节_冷冻面食_再次忘带钥匙_zlib盗版网站_ibus输入法.md",
+    "content/posts/2023/07/20230702_寄修主机_团建烧烤_骑行20公里_龋齿_自提公草龟.md",
     "content/posts/2023/06/20230618_干活_xerolinux_archcraft_尝试羊肝_苏州11号线试运行_主机风扇异响.md",
+    "content/posts/2023/07",
+    "public/tags/zlibrary/index.html",
+    "public/tags/zlibrary",
+    "public/posts/2023/06/20230625_小主机返厂送修_新入手草龟_端午节_冷冻面食_再次忘带钥匙_zlib盗版网站_ibus输入法/index.html",
+    "public/posts/2023/06/20230625_小主机返厂送修_新入手草龟_端午节_冷冻面食_再次忘带钥匙_zlib盗版网站_ibus输入法",
+    "content/posts/2023/02/20230227_加班干活_逐渐熟悉自行车_天气回暖_聚餐.md",
+    "content/posts/2023/2023_衣食住行.md",
+    "content/posts/2023/02/20230205_J4125_PVE_漏电跳电闸_新室友.md",
+    "content/posts/2023/06/20230611_2T固态_WSL_黑苹果失败_gentoo失败.md",
+    "content/posts/2023/06/20230604_新冠恢复中_加班_尝试生蚝_四川香肠真不错.md",
+    "content/posts/2023/2023_有趣的歌.md",
     "Pasted image 20230619213819.png",
     "public/posts/2023/06/20230618_干活_xerolinux_archcraft_尝试羊肝_苏州11号线试运行_主机风扇异响/index.html",
-    "public/posts/2023/06/20230618_干活_xerolinux_archcraft_尝试羊肝_苏州11号线试运行_主机风扇异响",
-    "content/posts/2023/2023_有趣的歌.md",
-    "content/posts/2023/2023_衣食住行.md",
     "content/posts/2023/01/20230130_熟悉自己做饭_体验armbian_整理目前所学_体验hdmi采集卡.md",
     "content/posts/2023/2023_有趣的博客.md",
-    "public/tags/wsl/index.html",
-    "public/tags/wsl",
-    "public/posts/2023/06/20230611_2t固态_wsl_黑苹果失败_gentoo失败/index.html",
-    "public/posts/2023/06/20230611_2t固态_wsl_黑苹果失败_gentoo失败",
-    "content/posts/2023/06/20230604_新冠恢复中_加班_尝试生蚝_四川香肠真不错.md",
-    "public/posts/2023/06/20230611_最近的日常/index.html",
-    "public/posts/2023/06/20230611_最近的日常",
     "content/posts/2023/04/20230423_基于ctcapd的pon-ubus框架_草龟过滤系统_dota2更新换7735hs_循环扇_清理卧室.md",
     "content/posts/2023/04/20230430_最近的日常.md",
-    "public/posts/2023/04/20230423_基于ctcapd的pon-ubus框架_草龟过滤系统_dota2更新换7735hs_循环扇_清理卧室/index.html",
-    "public/posts/2023/04/20230423_基于ctcapd的pon-ubus框架_草龟过滤系统_dota2更新换7735hs_循环扇_清理卧室",
     "content/posts/2023/04/20230416_基于自研框架的ubus接口_落水跳蛛_通宵dota_随身wifi.md",
     "content/posts/2023/03/20230319_鸡蛋横放的作用_抛弃花枝鼠_山地车后拨前拨调试更加熟悉_安装山地车链条_大佬一句话点拨_两位老人不同人生.md",
     "content/posts/2023/02/20230219_rework_war3_网购自行车拉的不行.md",
@@ -189,10 +194,6 @@
     "content/posts/2023/01/20230115_最近的日常.md",
     "content/posts/2023/01/20230108_最近的日常.md",
     "content/posts/2023/02/20230212_阅读基于shell的代码实现_打算买自行车_奇怪的开销不对帐.md",
-    "content/posts/2022/12/20221204_最近的日常.md",
-    "content/postst/2023/04/20230402_最近的日常.md",
-    "content/posts/2022/07/20220731_最近的日常.md",
-    "content/posts/2022/07/20220724_最近的日常.md",
     "361E0565.png",
     "31ED9311.png",
     "IMG_20230226_215910422_HDR.jpg"
