@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">汪先雨的博客</title>
     <subtitle type="html">汪先雨的博客</subtitle>
-    <updated>2023-08-14T22:25:16&#43;08:00</updated>
+    <updated>2023-08-22T01:31:46&#43;08:00</updated>
     <id>https://niantoudeyisi.github.io/</id>
     <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://niantoudeyisi.github.io/atom.xml" />
@@ -16,6 +16,91 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.113.0">Hugo</generator>
+        <entry>
+            <title type="text">20230820_uboot_高踏频_鸡小胸_香蕉催熟_被拉爆</title>
+            <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/08/20230820_20230820_uboot_%E9%AB%98%E8%B8%8F%E9%A2%91_%E9%B8%A1%E5%B0%8F%E8%83%B8_%E9%A6%99%E8%95%89%E5%82%AC%E7%86%9F_%E8%A2%AB%E6%8B%89%E7%88%86/" />
+            <id>https://niantoudeyisi.github.io/posts/2023/08/20230820_20230820_uboot_%E9%AB%98%E8%B8%8F%E9%A2%91_%E9%B8%A1%E5%B0%8F%E8%83%B8_%E9%A6%99%E8%95%89%E5%82%AC%E7%86%9F_%E8%A2%AB%E6%8B%89%E7%88%86/</id>
+            <updated>2023-08-22T01:12:49&#43;08:00</updated>
+            <published>2023-08-14T22:26:50&#43;08:00</published>
+            <author>
+                    <name>汪先雨</name>
+                    <uri>https://niantoudeyisi.github.io</uri>
+                    <email>niantoudeyisi@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">周一 新工作 工作</summary>
+            
+                <content type="html">&lt;h2 id=&#34;周一-新工作&#34;&gt;周一 新工作&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;nessus的问题理完了。让我做uboot的问题。。。。新东西。脑壳疼。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;换了个运动鞋踏频可以上80了。踏频搞了确实很舒服。 感觉锁鞋白买了。。。血亏。。&lt;/p&gt;
+&lt;h2 id=&#34;周二-高踏频&#34;&gt;周二 高踏频&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;uboot dts dtb 感觉好像不是很难。。。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;syncthing完美解决obsidian同步问题。太棒了。&lt;/p&gt;
+&lt;p&gt;mxplayer播放本地视频太棒了。&lt;/p&gt;
+&lt;p&gt;从开始得知到骑车需要90左右的踏频。是较好的数值。我是很吃惊的。。。然后花了一两天去尝试保持高踏频。。。发现确实膝盖不难受了。。。整体事后也没有以前低踏频的难受。。真神奇。&lt;/p&gt;
+&lt;p&gt;今天感觉整体金鸡湖段 都能保持高踏频了。。。蛮有成就感的。。花了三天时间。&lt;/p&gt;
+&lt;p&gt;感觉锻炼的事情还真是简单。。只要花时间去做。就一定会得到好的结果。。。学习的话。感觉花的时间多，见效也慢。。。&lt;/p&gt;
+&lt;p&gt;鸡胸肉快吃完了。好像也不太好买了。想着以后要不要点外卖算了。。&lt;/p&gt;
+&lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;uboot搞吐了。。。就是不编译dts。。预计未来还得加班，md。。。&lt;/p&gt;
+&lt;p&gt;串口软件不同的传输模式，居然会导致电脑死机。。。wtm。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;每天都好充实。&lt;/p&gt;
+&lt;p&gt;好几天没喂乌龟，，小鱼少了一条。。。&lt;/p&gt;
+&lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;新人好强，弄出来了。将dts编译成dtb&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;感觉后面又要开始研究 iptables研究怎么防御攻击了。。。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;看着温度计，天气越来越冷了。每天冷零点几度。。。&lt;/p&gt;
+&lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;将生香蕉用袋子装着放在客厅，一两天就熟了。神奇&lt;/p&gt;
+&lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;周六一天打dota2 10周年活动，周日白天也在打。没出去运动。&lt;/p&gt;
+&lt;p&gt;周日晚上出去溜达，被路上一个大佬拉爆了。。。踏频一百都跟不上大佬慢蹬。。。感觉还要是练。。。&lt;/p&gt;
+&lt;p&gt;win11 的 win键+上下左右 有点 平铺式桌面的味道了。。。 真不戳&lt;/p&gt;
+&lt;p&gt;晚上爷爷给我打电话了。。我在打游戏。只能一边分神回复他一边分神打游戏。。。。感觉爷爷不是很开心。。。晚上洗澡的时候有点内疚。。。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/categories/2023%E6%97%A5%E5%B8%B8/" term="2023日常" label="2023日常" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/2023%E6%97%A5%E5%B8%B8/" term="2023日常" label="2023日常" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">20230813_青鳉鱼_尺神经压迫_根管_ser6pro异响维修_vim作者挂了_80踏频</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/08/20230813_%E9%9D%92%E9%B3%89%E9%B1%BC_%E5%B0%BA%E7%A5%9E%E7%BB%8F%E5%8E%8B%E8%BF%AB_%E6%A0%B9%E7%AE%A1_ser6pro%E5%BC%82%E5%93%8D%E7%BB%B4%E4%BF%AE_vim%E4%BD%9C%E8%80%85%E6%8C%82%E4%BA%86_80%E8%B8%8F%E9%A2%91/" />

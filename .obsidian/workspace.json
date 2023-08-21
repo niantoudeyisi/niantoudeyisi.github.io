@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023/08/20230813_青鳉鱼_尺神经压迫_根管_ser6pro异响维修_vim作者挂了_80踏频.md",
+                "file": "content/posts/2023/08/20230820_20230820_uboot_高踏频_鸡小胸_香蕉催熟_被拉爆.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023/08/20230813_青鳉鱼_尺神经压迫_根管_ser6pro异响维修_vim作者挂了_80踏频.md",
+                "file": "content/posts/2023/08/20230820_20230820_uboot_高踏频_鸡小胸_香蕉催熟_被拉爆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2023/08/20230813_青鳉鱼_尺神经压迫_根管_ser6pro异响维修_vim作者挂了_80踏频.md",
+                "file": "content/posts/2023/08/20230820_20230820_uboot_高踏频_鸡小胸_香蕉催熟_被拉爆.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2023/08/20230813_青鳉鱼_尺神经压迫_根管_ser6pro异响维修_vim作者挂了_80踏频.md"
+                "file": "content/posts/2023/08/20230820_20230820_uboot_高踏频_鸡小胸_香蕉催熟_被拉爆.md"
               }
             }
           }
@@ -156,10 +156,13 @@
   },
   "active": "55c6c12e5533bc47",
   "lastOpenFiles": [
+    "public/posts/2023/08/20230820_20230820_uboot_高踏频_鸡小胸_香蕉催熟_被拉爆/index.html",
+    "public/posts/2023/08/20230820_20230820_uboot_高踏频_鸡小胸_香蕉催熟_被拉爆",
+    "content/posts/2023/08/20230813_青鳉鱼_尺神经压迫_根管_ser6pro异响维修_vim作者挂了_80踏频.md",
+    "content/posts/2023/08/20230820_20230820_uboot_高踏频_鸡小胸_香蕉催熟_被拉爆.md",
+    "content/posts/2023/08/20230806_铝罐头放大信号_火腿族同事_哈斯卡不朽很帅_小音箱立体感_97公里骑行.md",
     "public/posts/2023/08/20230813_青鳉鱼_尺神经压迫_根管_ser6pro异响维修_vim作者挂了_80踏频/index.html",
     "public/posts/2023/08/20230813_青鳉鱼_尺神经压迫_根管_ser6pro异响维修_vim作者挂了_80踏频",
-    "content/posts/2023/08/20230806_铝罐头放大信号_火腿族同事_哈斯卡不朽很帅_小音箱立体感_97公里骑行.md",
-    "content/posts/2023/08/20230813_青鳉鱼_尺神经压迫_根管_ser6pro异响维修_vim作者挂了_80踏频.md",
     "content/posts/2023/07/20230716_硬盘丢失_尝试红花油_尝试高踏频_尝试运动相机c300_过生日_尝试理财_雨中骑行.md",
     "content/posts/2023/07/20230723_检查bug_换新项目_尝试锁鞋_零速摔_筋膜枪.md",
     "content/posts/2023/07/20230730_黑玉米_生脉饮_腹部痛_生菜_中兴远航10_大腿抽筋_黄喉二次越狱.md",
@@ -173,11 +176,9 @@
     "content/posts/2023/2023_衣食住行.md",
     "content/posts/2023/08",
     "public/posts/2023/07/20230730_黑玉米_生脉饮_腹部痛_生菜_中兴远航10_大腿抽筋_黄喉二次越狱/index.html",
-    "public/posts/2023/07/20230730_黑玉米_生脉饮_腹部痛_生菜_中兴远航10_大腿抽筋_黄喉二次越狱",
     "content/posts/2023/2023_有趣的工具.md",
     "content/posts/2023/2023_有趣的博客.md",
     "content/posts/2023/2023_有趣的歌.md",
-    "public/posts/2023/07/20230723_检查bug_换新项目_尝试锁鞋_零速摔_筋膜枪/index.html",
     "content/posts/2023/07/20230709_绕金鸡湖-独墅湖-阳澄湖的美人腿_放生草龟_体验早起的生活方式_周六加班.md",
     "content/about/_index.md",
     "content/posts/2023/05/20230521_搭建基于ubus框架的项目_使用chatgpt-key_骑行19公里_电火锅做菜_规划饮食_轨迹球鼠标.md",
@@ -192,7 +193,6 @@
     "content/posts/2023/01/20230130_熟悉自己做饭_体验armbian_整理目前所学_体验hdmi采集卡.md",
     "content/posts/2023/04/20230423_基于ctcapd的pon-ubus框架_草龟过滤系统_dota2更新换7735hs_循环扇_清理卧室.md",
     "content/posts/2023/04/20230430_最近的日常.md",
-    "content/posts/2023/04/20230416_基于自研框架的ubus接口_落水跳蛛_通宵dota_随身wifi.md",
     "425B31DC.png",
     "361E0565.png",
     "31ED9311.png",
