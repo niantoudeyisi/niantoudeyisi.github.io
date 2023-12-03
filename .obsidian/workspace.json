@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023/11/20231126_最近的日常.md",
+                "file": "content/posts/2023/12/20231203_最近的日常.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023/11/20231126_最近的日常.md",
+                "file": "content/posts/2023/12/20231203_最近的日常.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2023/11/20231126_最近的日常.md",
+                "file": "content/posts/2023/12/20231203_最近的日常.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2023/11/20231126_最近的日常.md"
+                "file": "content/posts/2023/12/20231203_最近的日常.md"
               }
             }
           },
@@ -166,42 +166,42 @@
   },
   "active": "55c6c12e5533bc47",
   "lastOpenFiles": [
+    "public/posts/2023/12/20231203_最近的日常/index.html",
+    "public/posts/2023/12/20231203_最近的日常",
+    "public/posts/2023/12",
+    "content/posts/2023/11/20231126_最近的日常.md",
+    "content/posts/2023/12/20231203_最近的日常.md",
+    "content/posts/2023/2023_有趣的网站.md",
+    "content/posts/2023/2023_有趣的歌.md",
+    "content/posts/2023/2023_有趣的博客.md",
+    "content/posts/2023/10/20231015_win命令并行_红胡萝卜_公路车车祸_奇怪的梦_动感单车_giffgaff转esim.md",
+    "content/posts/2023/11/20231105_最近的日常.md",
+    "content/posts/2023/09/20230917_新项目_京阿尼纵火案_搜图神器_京东夺宝岛_kms_遇到埋头蹲着的妹子_平路40码.md",
+    "content/posts/2023/09/20230910_梦到赤链蛇_三十多的外卖_金银花_sd2小电视_上海龟展.md",
+    "content/posts/2023/09/20230903_九月份了_call trace_16+8_迪卡侬双箭头_qq消息丢失_组队骑行_索尼xp.md",
+    "content/posts/2023/08/20230827_氨糖软骨素钙片_路过车祸现场_印度人_骑行伙伴_发现蟑螂_尺神经压迫复发.md",
+    "content/posts/2023/08/20230820_uboot_高踏频_鸡小胸_香蕉催熟_被拉爆.md",
+    "content/posts/2023/08/20230813_青鳉鱼_尺神经压迫_根管_ser6pro异响维修_vim作者挂了_80踏频.md",
+    "content/posts/2023/08/20230806_铝罐头放大信号_火腿族同事_哈斯卡不朽很帅_小音箱立体感_97公里骑行.md",
+    "content/posts/2023/07/20230723_检查bug_换新项目_尝试锁鞋_零速摔_筋膜枪.md",
+    "content/posts/2023/07/20230709_绕金鸡湖-独墅湖-阳澄湖的美人腿_放生草龟_体验早起的生活方式_周六加班.md",
+    "content/posts/2023/07/20230702_寄修主机_团建烧烤_骑行20公里_龋齿_自提公草龟.md",
+    "content/posts/2023/06/20230604_新冠恢复中_加班_尝试生蚝_四川香肠真不错.md",
+    "content/posts/2023/05/20230521_搭建基于ubus框架的项目_使用chatgpt-key_骑行19公里_电火锅做菜_规划饮食_轨迹球鼠标.md",
+    "content/posts/2023/05/20230514_更换带盖的垃圾桶_周末团建横店_走了一只龟_看轻小说.md",
+    "content/posts/2023/05/20230507_五一回趟老家_坐卧铺_资本论_料理包的钠含量_整理桌子.md",
+    "content/posts/2023/04/20230430_20230430_绿皮火车硬座_amd7735hs_edge-s30-14G拍照_archlinux主机.md",
+    "content/posts/2023/04/20230423_基于ctcapd的pon-ubus框架_草龟过滤系统_dota2更新换7735hs_循环扇_清理卧室.md",
+    "content/posts/2023/04/20230416_基于自研框架的ubus接口_落水跳蛛_通宵dota_随身wifi.md",
+    "content/posts/2023/04/20230409_苏州虎丘湿地公园_粘锅因素_生菜优化.md",
+    "content/posts/2023/12",
     "public/posts/2023/11/20231126_最近的日常/index.html",
     "public/posts/2023/11/20231126_最近的日常",
-    "content/posts/2023/2023_有趣的歌.md",
-    "content/posts/2023/2023_有趣的工具.md",
-    "content/posts/2023/11/20231126_最近的日常.md",
-    "content/posts/2023/2023_衣食住行.md",
-    "content/posts/2023/11/20231119_最近的日常.md",
     "public/page/19/index.html",
     "public/page/19",
     "public/posts/2023/11/20231119_最近的日常/index.html",
     "public/posts/2023/11/20231119_最近的日常",
-    "content/posts/2023/11/20231112_最近的日常.md",
-    "content/posts/2023/11/20231105_最近的日常.md",
     "public/posts/2023/11/20231112_最近的日常/index.html",
-    "public/posts/2023/11/20231112_最近的日常",
-    "content/posts/2023/10/20231029_最近的日常.md",
-    "public/posts/2023/11/20231105_最近的日常/index.html",
-    "public/posts/2023/11/20231105_最近的日常",
-    "public/posts/2023/11",
-    "content/posts/2023/10/20231022_天气_责任_戴维斯双杀_烧烤_雨伞.md",
-    "content/posts/2023/2023_有趣的博客.md",
-    "content/posts/2023/2023_有趣的网站.md",
-    "content/posts/2023/10/20231015_win命令并行_红胡萝卜_公路车车祸_奇怪的梦_动感单车_giffgaff转esim.md",
-    "content/posts/2023/10/20231008_喜酒_补番命运石之门_老家附近的路_极度想家_更深入理解变速器原理.md",
-    "content/posts/2023/10/20231001_香氛_导航不走高速_梦想_惭愧_骑行回家失败_wsl支持镜像网络_没电脑的痛苦.md",
-    "content/posts/2023/09/20230924_sata硬盘掉盘_支付宝英国手机bug_乌龟划水_第一次破外胎.md",
-    "content/posts/2023/09/20230917_新项目_京阿尼纵火案_搜图神器_京东夺宝岛_kms_遇到埋头蹲着的妹子_平路40码.md",
-    "content/posts/2023/09/20230910_梦到赤链蛇_三十多的外卖_金银花_sd2小电视_上海龟展.md",
-    "content/posts/2023/08/20230827_氨糖软骨素钙片_路过车祸现场_印度人_骑行伙伴_发现蟑螂_尺神经压迫复发.md",
-    "content/posts/2023/09/20230903_九月份了_call trace_16+8_迪卡侬双箭头_qq消息丢失_组队骑行_索尼xp.md",
-    "content/posts/2023/07/20230709_绕金鸡湖-独墅湖-阳澄湖的美人腿_放生草龟_体验早起的生活方式_周六加班.md",
-    "content/posts/2023/06/20230618_干活_xerolinux_archcraft_尝试羊肝_苏州11号线试运行_主机风扇异响.md",
-    "content/posts/2023/08/20230820_uboot_高踏频_鸡小胸_香蕉催熟_被拉爆.md",
-    "content/posts/2023/08/20230813_青鳉鱼_尺神经压迫_根管_ser6pro异响维修_vim作者挂了_80踏频.md",
-    "content/posts/2023/08/20230806_铝罐头放大信号_火腿族同事_哈斯卡不朽很帅_小音箱立体感_97公里骑行.md",
-    "content/posts/2023/07/20230716_硬盘丢失_尝试红花油_尝试高踏频_尝试运动相机c300_过生日_尝试理财_雨中骑行.md",
     "Pasted image 20230619213819.png",
     "425B31DC.png",
     "361E0565.png",
