@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023/2023_有趣的歌.md",
+                "file": "content/posts/2023/12/20231217_最近的日常.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023/2023_有趣的歌.md",
+                "file": "content/posts/2023/12/20231217_最近的日常.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2023/2023_有趣的歌.md",
+                "file": "content/posts/2023/12/20231217_最近的日常.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2023/2023_有趣的歌.md"
+                "file": "content/posts/2023/12/20231217_最近的日常.md"
               }
             }
           },
@@ -166,18 +166,21 @@
   },
   "active": "55c6c12e5533bc47",
   "lastOpenFiles": [
+    "public/posts/2023/12/20231217_最近的日常/index.html",
+    "public/posts/2023/12/20231217_最近的日常",
+    "content/posts/2023/2023_有趣的博客.md",
+    "content/posts/2023/12/20231217_最近的日常.md",
+    "content/posts/2023/2023_有趣的歌.md",
+    "content/posts/2023/12/20231210_最近的日常.md",
     "public/posts/2023/12/20231210_最近的日常/index.html",
     "public/posts/2023/12/20231210_最近的日常",
     "content/posts/2023/2023_有趣的工具.md",
-    "content/posts/2023/12/20231210_最近的日常.md",
     "content/posts/2023/12/20231203_最近的日常.md",
     "public/posts/2023/12/20231203_最近的日常/index.html",
     "public/posts/2023/12/20231203_最近的日常",
     "public/posts/2023/12",
     "content/posts/2023/11/20231126_最近的日常.md",
     "content/posts/2023/2023_有趣的网站.md",
-    "content/posts/2023/2023_有趣的歌.md",
-    "content/posts/2023/2023_有趣的博客.md",
     "content/posts/2023/10/20231015_win命令并行_红胡萝卜_公路车车祸_奇怪的梦_动感单车_giffgaff转esim.md",
     "content/posts/2023/11/20231105_最近的日常.md",
     "content/posts/2023/09/20230917_新项目_京阿尼纵火案_搜图神器_京东夺宝岛_kms_遇到埋头蹲着的妹子_平路40码.md",
@@ -195,13 +198,10 @@
     "content/posts/2023/05/20230514_更换带盖的垃圾桶_周末团建横店_走了一只龟_看轻小说.md",
     "content/posts/2023/05/20230507_五一回趟老家_坐卧铺_资本论_料理包的钠含量_整理桌子.md",
     "content/posts/2023/04/20230430_20230430_绿皮火车硬座_amd7735hs_edge-s30-14G拍照_archlinux主机.md",
-    "content/posts/2023/04/20230423_基于ctcapd的pon-ubus框架_草龟过滤系统_dota2更新换7735hs_循环扇_清理卧室.md",
     "content/posts/2023/12",
     "public/posts/2023/11/20231126_最近的日常/index.html",
     "public/posts/2023/11/20231126_最近的日常",
     "public/page/19/index.html",
-    "public/page/19",
-    "public/posts/2023/11/20231119_最近的日常/index.html",
     "Pasted image 20230619213819.png",
     "425B31DC.png",
     "361E0565.png",
