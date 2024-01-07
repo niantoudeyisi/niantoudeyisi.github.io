@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023/12/20231231_最近的日常.md",
+                "file": "content/posts/2024/01/20240107_最近的日常.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023/12/20231231_最近的日常.md",
+                "file": "content/posts/2024/01/20240107_最近的日常.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2023/12/20231231_最近的日常.md",
+                "file": "content/posts/2024/01/20240107_最近的日常.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2023/12/20231231_最近的日常.md"
+                "file": "content/posts/2024/01/20240107_最近的日常.md"
               }
             }
           },
@@ -166,42 +166,42 @@
   },
   "active": "55c6c12e5533bc47",
   "lastOpenFiles": [
-    "public/posts/2023/12/20231231_最近的日常/index.html",
-    "public/posts/2023/12/20231231_最近的日常",
-    "content/posts/2023/2023_有趣的工具.md",
+    "public/page/21/index.html",
+    "public/page/21",
+    "public/posts/2024/01/20240107_最近的日常/index.html",
+    "public/posts/2024/2024_有趣的网站/index.html",
+    "public/posts/2024/2024_有趣的歌/index.html",
+    "public/posts/2024/2024_有趣的工具/index.html",
+    "public/posts/2024/2024_有趣的博客/index.html",
+    "public/posts/2024/01/20240107_最近的日常",
+    "public/posts/2024/2024_有趣的网站",
+    "public/posts/2024/2024_有趣的歌",
+    "public/posts/2024/2024_有趣的工具",
+    "content/posts/2024/2024_有趣的工具.md",
+    "content/posts/2024/2024_有趣的网站.md",
+    "content/posts/2024/2024_有趣的歌.md",
+    "content/posts/2024/2024_有趣的博客.md",
+    "content/posts/2024/01/20240107_最近的日常.md",
+    "content/posts/2023/2023_衣食住行.md",
     "content/posts/2023/12/20231231_最近的日常.md",
+    "content/posts/2023/2023_有趣的工具.md",
     "content/posts/hello-world.md",
     "content/posts/2022/有趣的工具.md",
     "content/posts/2022/有趣的博客.md",
     "content/posts/2022/有趣的网站.md",
     "content/posts/2023/2023_有趣的网站.md",
     "content/posts/2023/12/20231224_最近的日常.md",
-    "public/page/20/index.html",
-    "public/page/20",
-    "public/posts/2023/12/20231224_最近的日常/index.html",
-    "public/posts/2023/12/20231224_最近的日常",
     "content/posts/2023/2023_有趣的歌.md",
     "content/posts/2023/12/20231217_最近的日常.md",
-    "public/posts/2023/12/20231217_最近的日常/index.html",
-    "public/posts/2023/12/20231217_最近的日常",
     "content/posts/2023/2023_有趣的博客.md",
     "content/posts/2023/12/20231210_最近的日常.md",
-    "public/posts/2023/12/20231210_最近的日常/index.html",
-    "public/posts/2023/12/20231210_最近的日常",
     "content/posts/2023/12/20231203_最近的日常.md",
-    "public/posts/2023/12/20231203_最近的日常/index.html",
     "content/posts/2023/11/20231126_最近的日常.md",
     "content/posts/2023/10/20231015_win命令并行_红胡萝卜_公路车车祸_奇怪的梦_动感单车_giffgaff转esim.md",
     "content/posts/2023/11/20231105_最近的日常.md",
     "content/posts/2023/09/20230917_新项目_京阿尼纵火案_搜图神器_京东夺宝岛_kms_遇到埋头蹲着的妹子_平路40码.md",
     "content/posts/2023/09/20230910_梦到赤链蛇_三十多的外卖_金银花_sd2小电视_上海龟展.md",
     "content/posts/2023/09/20230903_九月份了_call trace_16+8_迪卡侬双箭头_qq消息丢失_组队骑行_索尼xp.md",
-    "content/posts/2023/08/20230827_氨糖软骨素钙片_路过车祸现场_印度人_骑行伙伴_发现蟑螂_尺神经压迫复发.md",
-    "content/posts/2023/08/20230820_uboot_高踏频_鸡小胸_香蕉催熟_被拉爆.md",
-    "content/posts/2023/08/20230813_青鳉鱼_尺神经压迫_根管_ser6pro异响维修_vim作者挂了_80踏频.md",
-    "content/posts/2023/08/20230806_铝罐头放大信号_火腿族同事_哈斯卡不朽很帅_小音箱立体感_97公里骑行.md",
-    "content/posts/2023/07/20230723_检查bug_换新项目_尝试锁鞋_零速摔_筋膜枪.md",
-    "content/posts/2023/07/20230709_绕金鸡湖-独墅湖-阳澄湖的美人腿_放生草龟_体验早起的生活方式_周六加班.md",
     "Pasted image 20230619213819.png",
     "425B31DC.png",
     "361E0565.png",
