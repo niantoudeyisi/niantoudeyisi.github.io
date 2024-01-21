@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024/01/20240114_最近的日常.md",
+                "file": "content/posts/2024/2024_有趣的网站.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "服务器",
+                "query": "resume",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024/01/20240114_最近的日常.md",
+                "file": "content/posts/2024/2024_有趣的网站.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2024/01/20240114_最近的日常.md",
+                "file": "content/posts/2024/2024_有趣的网站.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2024/01/20240114_最近的日常.md"
+                "file": "content/posts/2024/2024_有趣的网站.md"
               }
             }
           },
@@ -168,25 +168,26 @@
   },
   "active": "55c6c12e5533bc47",
   "lastOpenFiles": [
+    "public/posts/2024/01/20240121_最近的日常/index.html",
+    "public/posts/2024/01/20240121_最近的日常",
+    "content/posts/2024/2024_有趣的工具.md",
+    "content/posts/2024/01/20240121_最近的日常.md",
+    "content/posts/2024/2024_有趣的网站.md",
+    "content/posts/2024/01/20240114_最近的日常.md",
+    "content/posts/2024/01/20240107_最近的日常.md",
     "public/posts/2024/01/20240114_最近的日常/index.html",
     "public/posts/2024/01/20240114_最近的日常",
     "content/posts/2024/2024_有趣的歌.md",
-    "content/posts/2024/01/20240114_最近的日常.md",
-    "content/posts/2024/2024_有趣的网站.md",
-    "content/posts/2024/2024_有趣的工具.md",
     "static/未命名.canvas",
     "static/日常/Welcome.md",
     "static/日常",
     "static/2024.md",
     "static/新建 文本文档.txt",
-    "content/posts/2024/01/20240107_最近的日常.md",
     "public/page/21/index.html",
     "public/page/21",
     "public/posts/2024/01/20240107_最近的日常/index.html",
     "public/posts/2024/2024_有趣的网站/index.html",
     "public/posts/2024/2024_有趣的歌/index.html",
-    "public/posts/2024/2024_有趣的工具/index.html",
-    "public/posts/2024/2024_有趣的博客/index.html",
     "content/posts/2024/2024_有趣的博客.md",
     "content/posts/2023/2023_衣食住行.md",
     "content/posts/2023/12/20231231_最近的日常.md",
@@ -204,7 +205,6 @@
     "content/posts/2023/12/20231203_最近的日常.md",
     "content/posts/2023/11/20231126_最近的日常.md",
     "content/posts/2023/10/20231015_win命令并行_红胡萝卜_公路车车祸_奇怪的梦_动感单车_giffgaff转esim.md",
-    "content/posts/2023/11/20231105_最近的日常.md",
     "Pasted image 20230619213819.png",
     "425B31DC.png",
     "361E0565.png",
