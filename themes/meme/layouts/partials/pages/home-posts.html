@@ -9,9 +9,9 @@
                 {{ if $.Site.Params.enablePostMetaInHome }}
                     {{ partial "components/post-meta.html" (dict "$" . "isHome" true) }}
                 {{ end }}
-                <summary class="summary p-summary">
+                <!-- <summary class="summary p-summary">
                     {{ partial "utils/summary.html" . }}
-                </summary>
+                </summary> -->
                 {{ if or .Truncated .Params.summary }}
                     <div class="read-more-container">
                         <a href="{{ .RelPermalink }}" class="read-more-link">{{ i18n "readMore" }} »</a>

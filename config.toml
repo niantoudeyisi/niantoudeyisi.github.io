@@ -4,7 +4,7 @@
 baseURL = "https://niantoudeyisi.github.io/"
 title = "汪先雨的博客"
 languageCode = "zh-CN"
-hasCJKLanguage = false
+hasCJKLanguage = true
 # 版权信息（支持 Markdown）
 copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)"
 
@@ -22,7 +22,7 @@ defaultContentLanguageInSubdir = false
 pluralizeListTitles = false
 
 # 摘要的字数限制
-summaryLength = 0
+summaryLength = 1
 
 # 是否开启 GitHub 风格的 Emoji 书写方式
 enableEmoji = false
@@ -805,7 +805,7 @@ uglyURLs = false
     # 文章目录
 
     # 是否开启（全局设置）
-    enableTOC = true
+    enableTOC = false
     # 说明：文章的 Front Matter 中的 `toc`
     #      的优先级高于此处
 

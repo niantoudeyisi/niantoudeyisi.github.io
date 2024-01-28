@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024/2024_有趣的网站.md",
+                "file": "content/posts/2024/01/20240128_最近的日常.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024/2024_有趣的网站.md",
+                "file": "content/posts/2024/01/20240128_最近的日常.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2024/2024_有趣的网站.md",
+                "file": "content/posts/2024/01/20240128_最近的日常.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2024/2024_有趣的网站.md"
+                "file": "content/posts/2024/01/20240128_最近的日常.md"
               }
             }
           },
@@ -168,13 +168,18 @@
   },
   "active": "55c6c12e5533bc47",
   "lastOpenFiles": [
+    "content/posts/2024/01/20240121_最近的日常.md",
+    "content/posts/2024/01/20240128_最近的日常.md",
+    "content/posts/2024/01/20240107_最近的日常.md",
+    "public/tags/2024日常/index.html",
+    "public/tags/2024日常",
+    "public/categories/2024日常/index.html",
+    "public/categories/2024日常",
+    "content/posts/2024/2024_有趣的网站.md",
     "public/posts/2024/01/20240121_最近的日常/index.html",
     "public/posts/2024/01/20240121_最近的日常",
     "content/posts/2024/2024_有趣的工具.md",
-    "content/posts/2024/01/20240121_最近的日常.md",
-    "content/posts/2024/2024_有趣的网站.md",
     "content/posts/2024/01/20240114_最近的日常.md",
-    "content/posts/2024/01/20240107_最近的日常.md",
     "public/posts/2024/01/20240114_最近的日常/index.html",
     "public/posts/2024/01/20240114_最近的日常",
     "content/posts/2024/2024_有趣的歌.md",
@@ -183,11 +188,6 @@
     "static/日常",
     "static/2024.md",
     "static/新建 文本文档.txt",
-    "public/page/21/index.html",
-    "public/page/21",
-    "public/posts/2024/01/20240107_最近的日常/index.html",
-    "public/posts/2024/2024_有趣的网站/index.html",
-    "public/posts/2024/2024_有趣的歌/index.html",
     "content/posts/2024/2024_有趣的博客.md",
     "content/posts/2023/2023_衣食住行.md",
     "content/posts/2023/12/20231231_最近的日常.md",
