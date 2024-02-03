@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sat, 03 Feb 2024 20:16:03 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 20:38:31 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://niantoudeyisi.github.io/rss.xml" />
         
@@ -57,6 +57,9 @@
 &lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;git 如果验证私钥出现 可以修改密钥权限为0600可以解决&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;It is required that your private key files are NOT accessible by others.
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;git 现在push都是用token做密码了。。。&lt;/p&gt;
 &lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
