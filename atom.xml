@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">汪先雨的博客</title>
     <subtitle type="html">汪先雨的博客</subtitle>
-    <updated>2024-01-28T23:10:19&#43;08:00</updated>
+    <updated>2024-02-03T20:38:31&#43;08:00</updated>
     <id>https://niantoudeyisi.github.io/</id>
     <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://niantoudeyisi.github.io/atom.xml" />
@@ -15,12 +15,80 @@
                 <email>niantoudeyisi@gmail.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
-    <generator uri="https://gohugo.io/" version="0.113.0">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.122.0">Hugo</generator>
+        <entry>
+            <title type="text">20240207_最近的日常</title>
+            <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2024/02/20240207_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
+            <id>https://niantoudeyisi.github.io/posts/2024/02/20240207_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
+            <updated>2024-02-03T20:31:44&#43;08:00</updated>
+            <published>2024-01-29T20:33:37&#43;08:00</published>
+            <author>
+                    <name>汪先雨</name>
+                    <uri>https://niantoudeyisi.github.io</uri>
+                    <email>niantoudeyisi@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">周……</summary>
+            
+                <content type="html">&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;电脑被onedriver 搞烂了。。。吐了。。。。&lt;/p&gt;
+&lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;git 如果验证私钥出现 可以修改密钥权限为0600可以解决&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;It is required that your private key files are NOT accessible by others.
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;git 现在push都是用token做密码了。。。&lt;/p&gt;
+&lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/categories/2024%E6%97%A5%E5%B8%B8/" term="2024日常" label="2024日常" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/2024%E6%97%A5%E5%B8%B8/" term="2024日常" label="2024日常" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">20240128_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2024/01/20240128_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2024/01/20240128_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2024-01-28T23:02:40&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2024-01-28T21:35:25&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -116,7 +184,7 @@
             <title type="text">20240121_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2024/01/20240121_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2024/01/20240121_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2024-01-23T20:03:49&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2024-01-16T20:47:08&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -204,7 +272,7 @@
             <title type="text">20240114_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2024/01/20240114_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2024/01/20240114_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2024-01-23T20:03:45&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2024-01-14T23:29:35&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -291,7 +359,7 @@
             <title type="text">2024_有趣的歌</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2024/2024_%E6%9C%89%E8%B6%A3%E7%9A%84%E6%AD%8C/" />
             <id>https://niantoudeyisi.github.io/posts/2024/2024_%E6%9C%89%E8%B6%A3%E7%9A%84%E6%AD%8C/</id>
-            <updated>2024-01-23T20:03:10&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2024-01-02T23:24:59&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -302,9 +370,16 @@
             
                 <content type="html">&lt;h2 id=&#34;01&#34;&gt;01&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;知我
+&lt;li&gt;
+&lt;p&gt;知我&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;挺好听的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;惊鸿雨&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;挺好听&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -342,7 +417,7 @@
             <title type="text">2024_有趣的博客</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2024/2024_%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8D%9A%E5%AE%A2/" />
             <id>https://niantoudeyisi.github.io/posts/2024/2024_%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
-            <updated>2024-01-23T20:02:53&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2024-01-02T23:24:51&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -385,7 +460,7 @@
             <title type="text">2024_有趣的网站</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2024/2024_%E6%9C%89%E8%B6%A3%E7%9A%84%E7%BD%91%E7%AB%99/" />
             <id>https://niantoudeyisi.github.io/posts/2024/2024_%E6%9C%89%E8%B6%A3%E7%9A%84%E7%BD%91%E7%AB%99/</id>
-            <updated>2024-01-23T20:03:22&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2024-01-02T23:24:46&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -456,7 +531,7 @@
             <title type="text">2024_有趣的工具</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2024/2024_%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B7%A5%E5%85%B7/" />
             <id>https://niantoudeyisi.github.io/posts/2024/2024_%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B7%A5%E5%85%B7/</id>
-            <updated>2024-01-23T20:03:17&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2024-01-02T23:24:41&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -527,7 +602,7 @@
             <title type="text">20240107_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2024/01/20240107_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2024/01/20240107_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2024-01-23T20:08:00&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2024-01-02T23:21:44&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -614,7 +689,7 @@
             <title type="text">20231231_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/12/20231231_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2023/12/20231231_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2024-01-02T23:20:26&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-12-24T19:05:49&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -704,7 +779,7 @@
             <title type="text">20231224_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/12/20231224_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2023/12/20231224_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2023-12-24T19:05:06&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-12-18T22:39:24&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -787,7 +862,7 @@
             <title type="text">20231217_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/12/20231217_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2023/12/20231217_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2023-12-18T22:37:54&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-12-11T21:35:24&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -863,7 +938,7 @@
             <title type="text">20231210_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/12/20231210_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2023/12/20231210_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2023-12-11T21:37:08&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-12-03T23:18:32&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -941,7 +1016,7 @@
             <title type="text">20231203_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/12/20231203_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2023/12/20231203_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2023-12-03T23:17:39&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-11-26T20:48:08&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -1017,7 +1092,7 @@
             <title type="text">20231126_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/11/20231126_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2023/11/20231126_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2023-11-26T20:46:20&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-11-21T21:37:19&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -1101,7 +1176,7 @@
             <title type="text">20231119_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/11/20231119_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2023/11/20231119_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2023-11-21T21:32:54&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-11-14T07:42:30&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -1175,7 +1250,7 @@
             <title type="text">20231112_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/11/20231112_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2023/11/20231112_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2023-11-14T07:39:11&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-11-05T22:01:51&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -1261,7 +1336,7 @@
             <title type="text">20231105_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/11/20231105_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2023/11/20231105_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2023-11-05T22:00:50&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-10-29T23:05:45&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -1340,7 +1415,7 @@
             <title type="text">20231029_</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/10/20231029_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2023/10/20231029_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2023-10-29T23:04:32&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-10-22T20:58:07&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -1419,7 +1494,7 @@
             <title type="text">20231022_天气_责任_戴维斯双杀_烧烤_雨伞</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/10/20231022_%E5%A4%A9%E6%B0%94_%E8%B4%A3%E4%BB%BB_%E6%88%B4%E7%BB%B4%E6%96%AF%E5%8F%8C%E6%9D%80_%E7%83%A7%E7%83%A4_%E9%9B%A8%E4%BC%9E/" />
             <id>https://niantoudeyisi.github.io/posts/2023/10/20231022_%E5%A4%A9%E6%B0%94_%E8%B4%A3%E4%BB%BB_%E6%88%B4%E7%BB%B4%E6%96%AF%E5%8F%8C%E6%9D%80_%E7%83%A7%E7%83%A4_%E9%9B%A8%E4%BC%9E/</id>
-            <updated>2023-10-22T20:56:45&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-10-15T20:14:59&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -1500,7 +1575,7 @@
             <title type="text">20231015_win命令并行_红胡萝卜_公路车车祸_奇怪的梦_动感单车_giffgaff转esim</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/10/20231015_win%E5%91%BD%E4%BB%A4%E5%B9%B6%E8%A1%8C_%E7%BA%A2%E8%83%A1%E8%90%9D%E5%8D%9C_%E5%85%AC%E8%B7%AF%E8%BD%A6%E8%BD%A6%E7%A5%B8_%E5%A5%87%E6%80%AA%E7%9A%84%E6%A2%A6_%E5%8A%A8%E6%84%9F%E5%8D%95%E8%BD%A6_giffgaff%E8%BD%ACesim/" />
             <id>https://niantoudeyisi.github.io/posts/2023/10/20231015_win%E5%91%BD%E4%BB%A4%E5%B9%B6%E8%A1%8C_%E7%BA%A2%E8%83%A1%E8%90%9D%E5%8D%9C_%E5%85%AC%E8%B7%AF%E8%BD%A6%E8%BD%A6%E7%A5%B8_%E5%A5%87%E6%80%AA%E7%9A%84%E6%A2%A6_%E5%8A%A8%E6%84%9F%E5%8D%95%E8%BD%A6_giffgaff%E8%BD%ACesim/</id>
-            <updated>2023-10-15T20:12:39&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-10-09T23:23:41&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -1578,7 +1653,7 @@
             <title type="text">20231008_喜酒_补番命运石之门_老家附近的路_极度想家_更深入理解变速器原理</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/10/20231008_%E5%96%9C%E9%85%92_%E8%A1%A5%E7%95%AA%E5%91%BD%E8%BF%90%E7%9F%B3%E4%B9%8B%E9%97%A8_%E8%80%81%E5%AE%B6%E9%99%84%E8%BF%91%E7%9A%84%E8%B7%AF_%E6%9E%81%E5%BA%A6%E6%83%B3%E5%AE%B6_%E6%9B%B4%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E5%8F%98%E9%80%9F%E5%99%A8%E5%8E%9F%E7%90%86/" />
             <id>https://niantoudeyisi.github.io/posts/2023/10/20231008_%E5%96%9C%E9%85%92_%E8%A1%A5%E7%95%AA%E5%91%BD%E8%BF%90%E7%9F%B3%E4%B9%8B%E9%97%A8_%E8%80%81%E5%AE%B6%E9%99%84%E8%BF%91%E7%9A%84%E8%B7%AF_%E6%9E%81%E5%BA%A6%E6%83%B3%E5%AE%B6_%E6%9B%B4%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E5%8F%98%E9%80%9F%E5%99%A8%E5%8E%9F%E7%90%86/</id>
-            <updated>2023-10-09T23:21:12&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-10-07T22:39:40&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -1673,7 +1748,7 @@
             <title type="text">20231001_香氛_导航不走高速_梦想_惭愧_骑行回家失败_wsl支持镜像网络_没电脑的痛苦</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/10/20231001_%E9%A6%99%E6%B0%9B_%E5%AF%BC%E8%88%AA%E4%B8%8D%E8%B5%B0%E9%AB%98%E9%80%9F_%E6%A2%A6%E6%83%B3_%E6%83%AD%E6%84%A7_%E9%AA%91%E8%A1%8C%E5%9B%9E%E5%AE%B6%E5%A4%B1%E8%B4%A5_wsl%E6%94%AF%E6%8C%81%E9%95%9C%E5%83%8F%E7%BD%91%E7%BB%9C_%E6%B2%A1%E7%94%B5%E8%84%91%E7%9A%84%E7%97%9B%E8%8B%A6/" />
             <id>https://niantoudeyisi.github.io/posts/2023/10/20231001_%E9%A6%99%E6%B0%9B_%E5%AF%BC%E8%88%AA%E4%B8%8D%E8%B5%B0%E9%AB%98%E9%80%9F_%E6%A2%A6%E6%83%B3_%E6%83%AD%E6%84%A7_%E9%AA%91%E8%A1%8C%E5%9B%9E%E5%AE%B6%E5%A4%B1%E8%B4%A5_wsl%E6%94%AF%E6%8C%81%E9%95%9C%E5%83%8F%E7%BD%91%E7%BB%9C_%E6%B2%A1%E7%94%B5%E8%84%91%E7%9A%84%E7%97%9B%E8%8B%A6/</id>
-            <updated>2023-10-08T00:27:38&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-09-24T22:34:56&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -1785,7 +1860,7 @@
             <title type="text">20230924_sata硬盘掉盘_支付宝英国手机bug_乌龟划水_第一次破外胎</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/09/20230924_sata%E7%A1%AC%E7%9B%98%E6%8E%89%E7%9B%98_%E6%94%AF%E4%BB%98%E5%AE%9D%E8%8B%B1%E5%9B%BD%E6%89%8B%E6%9C%BAbug_%E4%B9%8C%E9%BE%9F%E5%88%92%E6%B0%B4_%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%A0%B4%E5%A4%96%E8%83%8E/" />
             <id>https://niantoudeyisi.github.io/posts/2023/09/20230924_sata%E7%A1%AC%E7%9B%98%E6%8E%89%E7%9B%98_%E6%94%AF%E4%BB%98%E5%AE%9D%E8%8B%B1%E5%9B%BD%E6%89%8B%E6%9C%BAbug_%E4%B9%8C%E9%BE%9F%E5%88%92%E6%B0%B4_%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%A0%B4%E5%A4%96%E8%83%8E/</id>
-            <updated>2023-09-24T22:31:55&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-09-18T00:14:47&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -1869,7 +1944,7 @@
             <title type="text">20230917_新项目_京阿尼纵火案_搜图神器_京东夺宝岛_kms_遇到埋头蹲着的妹子_平路40码</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/09/20230917_%E6%96%B0%E9%A1%B9%E7%9B%AE_%E4%BA%AC%E9%98%BF%E5%B0%BC%E7%BA%B5%E7%81%AB%E6%A1%88_%E6%90%9C%E5%9B%BE%E7%A5%9E%E5%99%A8_%E4%BA%AC%E4%B8%9C%E5%A4%BA%E5%AE%9D%E5%B2%9B_kms_%E9%81%87%E5%88%B0%E5%9F%8B%E5%A4%B4%E8%B9%B2%E7%9D%80%E7%9A%84%E5%A6%B9%E5%AD%90_%E5%B9%B3%E8%B7%AF40%E7%A0%81/" />
             <id>https://niantoudeyisi.github.io/posts/2023/09/20230917_%E6%96%B0%E9%A1%B9%E7%9B%AE_%E4%BA%AC%E9%98%BF%E5%B0%BC%E7%BA%B5%E7%81%AB%E6%A1%88_%E6%90%9C%E5%9B%BE%E7%A5%9E%E5%99%A8_%E4%BA%AC%E4%B8%9C%E5%A4%BA%E5%AE%9D%E5%B2%9B_kms_%E9%81%87%E5%88%B0%E5%9F%8B%E5%A4%B4%E8%B9%B2%E7%9D%80%E7%9A%84%E5%A6%B9%E5%AD%90_%E5%B9%B3%E8%B7%AF40%E7%A0%81/</id>
-            <updated>2023-09-18T00:12:02&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-09-10T22:16:39&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -1963,7 +2038,7 @@
             <title type="text">20230910_梦到赤链蛇_三十多的外卖_金银花_sd2小电视_上海龟展</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/09/20230910_%E6%A2%A6%E5%88%B0%E8%B5%A4%E9%93%BE%E8%9B%87_%E4%B8%89%E5%8D%81%E5%A4%9A%E7%9A%84%E5%A4%96%E5%8D%96_%E9%87%91%E9%93%B6%E8%8A%B1_sd2%E5%B0%8F%E7%94%B5%E8%A7%86_%E4%B8%8A%E6%B5%B7%E9%BE%9F%E5%B1%95/" />
             <id>https://niantoudeyisi.github.io/posts/2023/09/20230910_%E6%A2%A6%E5%88%B0%E8%B5%A4%E9%93%BE%E8%9B%87_%E4%B8%89%E5%8D%81%E5%A4%9A%E7%9A%84%E5%A4%96%E5%8D%96_%E9%87%91%E9%93%B6%E8%8A%B1_sd2%E5%B0%8F%E7%94%B5%E8%A7%86_%E4%B8%8A%E6%B5%B7%E9%BE%9F%E5%B1%95/</id>
-            <updated>2023-09-10T22:13:53&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-09-05T01:10:17&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -2057,7 +2132,7 @@
             <title type="text">20230903_九月份了_call trace_16&#43;8_迪卡侬双箭头_qq消息丢失_组队骑行_索尼xp</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/09/20230903_%E4%B9%9D%E6%9C%88%E4%BB%BD%E4%BA%86_call-trace_16&#43;8_%E8%BF%AA%E5%8D%A1%E4%BE%AC%E5%8F%8C%E7%AE%AD%E5%A4%B4_qq%E6%B6%88%E6%81%AF%E4%B8%A2%E5%A4%B1_%E7%BB%84%E9%98%9F%E9%AA%91%E8%A1%8C_%E7%B4%A2%E5%B0%BCxp/" />
             <id>https://niantoudeyisi.github.io/posts/2023/09/20230903_%E4%B9%9D%E6%9C%88%E4%BB%BD%E4%BA%86_call-trace_16&#43;8_%E8%BF%AA%E5%8D%A1%E4%BE%AC%E5%8F%8C%E7%AE%AD%E5%A4%B4_qq%E6%B6%88%E6%81%AF%E4%B8%A2%E5%A4%B1_%E7%BB%84%E9%98%9F%E9%AA%91%E8%A1%8C_%E7%B4%A2%E5%B0%BCxp/</id>
-            <updated>2023-09-10T22:09:33&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-08-27T21:04:14&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -2148,7 +2223,7 @@
             <title type="text">20230827_氨糖软骨素钙片_路过车祸现场_印度人_骑行伙伴_发现蟑螂_尺神经压迫复发</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/08/20230827_%E6%B0%A8%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0%E9%92%99%E7%89%87_%E8%B7%AF%E8%BF%87%E8%BD%A6%E7%A5%B8%E7%8E%B0%E5%9C%BA_%E5%8D%B0%E5%BA%A6%E4%BA%BA_%E9%AA%91%E8%A1%8C%E4%BC%99%E4%BC%B4_%E5%8F%91%E7%8E%B0%E8%9F%91%E8%9E%82_%E5%B0%BA%E7%A5%9E%E7%BB%8F%E5%8E%8B%E8%BF%AB%E5%A4%8D%E5%8F%91/" />
             <id>https://niantoudeyisi.github.io/posts/2023/08/20230827_%E6%B0%A8%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0%E9%92%99%E7%89%87_%E8%B7%AF%E8%BF%87%E8%BD%A6%E7%A5%B8%E7%8E%B0%E5%9C%BA_%E5%8D%B0%E5%BA%A6%E4%BA%BA_%E9%AA%91%E8%A1%8C%E4%BC%99%E4%BC%B4_%E5%8F%91%E7%8E%B0%E8%9F%91%E8%9E%82_%E5%B0%BA%E7%A5%9E%E7%BB%8F%E5%8E%8B%E8%BF%AB%E5%A4%8D%E5%8F%91/</id>
-            <updated>2023-08-27T21:01:46&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-08-22T01:34:01&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -2237,7 +2312,7 @@
             <title type="text">20230820_uboot_高踏频_鸡小胸_香蕉催熟_被拉爆</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/08/20230820_uboot_%E9%AB%98%E8%B8%8F%E9%A2%91_%E9%B8%A1%E5%B0%8F%E8%83%B8_%E9%A6%99%E8%95%89%E5%82%AC%E7%86%9F_%E8%A2%AB%E6%8B%89%E7%88%86/" />
             <id>https://niantoudeyisi.github.io/posts/2023/08/20230820_uboot_%E9%AB%98%E8%B8%8F%E9%A2%91_%E9%B8%A1%E5%B0%8F%E8%83%B8_%E9%A6%99%E8%95%89%E5%82%AC%E7%86%9F_%E8%A2%AB%E6%8B%89%E7%88%86/</id>
-            <updated>2023-08-22T01:12:49&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-08-14T22:26:50&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -2322,7 +2397,7 @@
             <title type="text">20230813_青鳉鱼_尺神经压迫_根管_ser6pro异响维修_vim作者挂了_80踏频</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/08/20230813_%E9%9D%92%E9%B3%89%E9%B1%BC_%E5%B0%BA%E7%A5%9E%E7%BB%8F%E5%8E%8B%E8%BF%AB_%E6%A0%B9%E7%AE%A1_ser6pro%E5%BC%82%E5%93%8D%E7%BB%B4%E4%BF%AE_vim%E4%BD%9C%E8%80%85%E6%8C%82%E4%BA%86_80%E8%B8%8F%E9%A2%91/" />
             <id>https://niantoudeyisi.github.io/posts/2023/08/20230813_%E9%9D%92%E9%B3%89%E9%B1%BC_%E5%B0%BA%E7%A5%9E%E7%BB%8F%E5%8E%8B%E8%BF%AB_%E6%A0%B9%E7%AE%A1_ser6pro%E5%BC%82%E5%93%8D%E7%BB%B4%E4%BF%AE_vim%E4%BD%9C%E8%80%85%E6%8C%82%E4%BA%86_80%E8%B8%8F%E9%A2%91/</id>
-            <updated>2023-08-14T22:24:47&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-08-07T22:26:26&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -2417,7 +2492,7 @@
             <title type="text">20230806_铝罐头放大信号_火腿族同事_哈斯卡不朽很帅_小音箱立体感_97公里骑行</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/08/20230806_%E9%93%9D%E7%BD%90%E5%A4%B4%E6%94%BE%E5%A4%A7%E4%BF%A1%E5%8F%B7_%E7%81%AB%E8%85%BF%E6%97%8F%E5%90%8C%E4%BA%8B_%E5%93%88%E6%96%AF%E5%8D%A1%E4%B8%8D%E6%9C%BD%E5%BE%88%E5%B8%85_%E5%B0%8F%E9%9F%B3%E7%AE%B1%E7%AB%8B%E4%BD%93%E6%84%9F_97%E5%85%AC%E9%87%8C%E9%AA%91%E8%A1%8C/" />
             <id>https://niantoudeyisi.github.io/posts/2023/08/20230806_%E9%93%9D%E7%BD%90%E5%A4%B4%E6%94%BE%E5%A4%A7%E4%BF%A1%E5%8F%B7_%E7%81%AB%E8%85%BF%E6%97%8F%E5%90%8C%E4%BA%8B_%E5%93%88%E6%96%AF%E5%8D%A1%E4%B8%8D%E6%9C%BD%E5%BE%88%E5%B8%85_%E5%B0%8F%E9%9F%B3%E7%AE%B1%E7%AB%8B%E4%BD%93%E6%84%9F_97%E5%85%AC%E9%87%8C%E9%AA%91%E8%A1%8C/</id>
-            <updated>2023-08-07T22:24:37&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-07-30T21:52:36&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -2515,7 +2590,7 @@
             <title type="text">20230730_黑玉米_生脉饮_腹部痛_生菜_中兴远航10_大腿抽筋_黄喉二次越狱</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/07/20230730_%E9%BB%91%E7%8E%89%E7%B1%B3_%E7%94%9F%E8%84%89%E9%A5%AE_%E8%85%B9%E9%83%A8%E7%97%9B_%E7%94%9F%E8%8F%9C_%E4%B8%AD%E5%85%B4%E8%BF%9C%E8%88%AA10_%E5%A4%A7%E8%85%BF%E6%8A%BD%E7%AD%8B_%E9%BB%84%E5%96%89%E4%BA%8C%E6%AC%A1%E8%B6%8A%E7%8B%B1/" />
             <id>https://niantoudeyisi.github.io/posts/2023/07/20230730_%E9%BB%91%E7%8E%89%E7%B1%B3_%E7%94%9F%E8%84%89%E9%A5%AE_%E8%85%B9%E9%83%A8%E7%97%9B_%E7%94%9F%E8%8F%9C_%E4%B8%AD%E5%85%B4%E8%BF%9C%E8%88%AA10_%E5%A4%A7%E8%85%BF%E6%8A%BD%E7%AD%8B_%E9%BB%84%E5%96%89%E4%BA%8C%E6%AC%A1%E8%B6%8A%E7%8B%B1/</id>
-            <updated>2023-07-30T21:46:31&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-07-23T21:13:54&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -2604,7 +2679,7 @@
             <title type="text">20230723_检查bug_换新项目_尝试锁鞋_零速摔_筋膜枪</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/07/20230723_%E6%A3%80%E6%9F%A5bug_%E6%8D%A2%E6%96%B0%E9%A1%B9%E7%9B%AE_%E5%B0%9D%E8%AF%95%E9%94%81%E9%9E%8B_%E9%9B%B6%E9%80%9F%E6%91%94_%E7%AD%8B%E8%86%9C%E6%9E%AA/" />
             <id>https://niantoudeyisi.github.io/posts/2023/07/20230723_%E6%A3%80%E6%9F%A5bug_%E6%8D%A2%E6%96%B0%E9%A1%B9%E7%9B%AE_%E5%B0%9D%E8%AF%95%E9%94%81%E9%9E%8B_%E9%9B%B6%E9%80%9F%E6%91%94_%E7%AD%8B%E8%86%9C%E6%9E%AA/</id>
-            <updated>2023-07-23T21:16:28&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-07-18T22:47:23&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -2693,7 +2768,7 @@
             <title type="text">20230716_硬盘丢失_尝试红花油_尝试高踏频_尝试运动相机c300_过生日_尝试理财_雨中骑行</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/07/20230716_%E7%A1%AC%E7%9B%98%E4%B8%A2%E5%A4%B1_%E5%B0%9D%E8%AF%95%E7%BA%A2%E8%8A%B1%E6%B2%B9_%E5%B0%9D%E8%AF%95%E9%AB%98%E8%B8%8F%E9%A2%91_%E5%B0%9D%E8%AF%95%E8%BF%90%E5%8A%A8%E7%9B%B8%E6%9C%BAc300_%E8%BF%87%E7%94%9F%E6%97%A5_%E5%B0%9D%E8%AF%95%E7%90%86%E8%B4%A2_%E9%9B%A8%E4%B8%AD%E9%AA%91%E8%A1%8C/" />
             <id>https://niantoudeyisi.github.io/posts/2023/07/20230716_%E7%A1%AC%E7%9B%98%E4%B8%A2%E5%A4%B1_%E5%B0%9D%E8%AF%95%E7%BA%A2%E8%8A%B1%E6%B2%B9_%E5%B0%9D%E8%AF%95%E9%AB%98%E8%B8%8F%E9%A2%91_%E5%B0%9D%E8%AF%95%E8%BF%90%E5%8A%A8%E7%9B%B8%E6%9C%BAc300_%E8%BF%87%E7%94%9F%E6%97%A5_%E5%B0%9D%E8%AF%95%E7%90%86%E8%B4%A2_%E9%9B%A8%E4%B8%AD%E9%AA%91%E8%A1%8C/</id>
-            <updated>2023-07-16T22:59:51&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-07-09T21:50:55&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -2780,7 +2855,7 @@
             <title type="text">20230709_绕金鸡湖-独墅湖-阳澄湖的美人腿_放生草龟_体验早起的生活方式_周六加班</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/07/20230709_%E7%BB%95%E9%87%91%E9%B8%A1%E6%B9%96-%E7%8B%AC%E5%A2%85%E6%B9%96-%E9%98%B3%E6%BE%84%E6%B9%96%E7%9A%84%E7%BE%8E%E4%BA%BA%E8%85%BF_%E6%94%BE%E7%94%9F%E8%8D%89%E9%BE%9F_%E4%BD%93%E9%AA%8C%E6%97%A9%E8%B5%B7%E7%9A%84%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F_%E5%91%A8%E5%85%AD%E5%8A%A0%E7%8F%AD/" />
             <id>https://niantoudeyisi.github.io/posts/2023/07/20230709_%E7%BB%95%E9%87%91%E9%B8%A1%E6%B9%96-%E7%8B%AC%E5%A2%85%E6%B9%96-%E9%98%B3%E6%BE%84%E6%B9%96%E7%9A%84%E7%BE%8E%E4%BA%BA%E8%85%BF_%E6%94%BE%E7%94%9F%E8%8D%89%E9%BE%9F_%E4%BD%93%E9%AA%8C%E6%97%A9%E8%B5%B7%E7%9A%84%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F_%E5%91%A8%E5%85%AD%E5%8A%A0%E7%8F%AD/</id>
-            <updated>2023-07-09T21:49:31&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-07-02T23:20:29&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -2871,7 +2946,7 @@
             <title type="text">20230702_寄修主机_团建烧烤_骑行20公里_龋齿_自提公草龟</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/07/20230702_%E5%AF%84%E4%BF%AE%E4%B8%BB%E6%9C%BA_%E5%9B%A2%E5%BB%BA%E7%83%A7%E7%83%A4_%E9%AA%91%E8%A1%8C20%E5%85%AC%E9%87%8C_%E9%BE%8B%E9%BD%BF_%E8%87%AA%E6%8F%90%E5%85%AC%E8%8D%89%E9%BE%9F/" />
             <id>https://niantoudeyisi.github.io/posts/2023/07/20230702_%E5%AF%84%E4%BF%AE%E4%B8%BB%E6%9C%BA_%E5%9B%A2%E5%BB%BA%E7%83%A7%E7%83%A4_%E9%AA%91%E8%A1%8C20%E5%85%AC%E9%87%8C_%E9%BE%8B%E9%BD%BF_%E8%87%AA%E6%8F%90%E5%85%AC%E8%8D%89%E9%BE%9F/</id>
-            <updated>2023-07-02T23:19:12&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-07-02T23:07:14&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -2962,7 +3037,7 @@
             <title type="text">20230625_小主机返厂送修_新入手草龟_端午节_冷冻面食_再次忘带钥匙_zlib盗版网站_ibus输入法</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/06/20230625_%E5%B0%8F%E4%B8%BB%E6%9C%BA%E8%BF%94%E5%8E%82%E9%80%81%E4%BF%AE_%E6%96%B0%E5%85%A5%E6%89%8B%E8%8D%89%E9%BE%9F_%E7%AB%AF%E5%8D%88%E8%8A%82_%E5%86%B7%E5%86%BB%E9%9D%A2%E9%A3%9F_%E5%86%8D%E6%AC%A1%E5%BF%98%E5%B8%A6%E9%92%A5%E5%8C%99_zlib%E7%9B%97%E7%89%88%E7%BD%91%E7%AB%99_ibus%E8%BE%93%E5%85%A5%E6%B3%95/" />
             <id>https://niantoudeyisi.github.io/posts/2023/06/20230625_%E5%B0%8F%E4%B8%BB%E6%9C%BA%E8%BF%94%E5%8E%82%E9%80%81%E4%BF%AE_%E6%96%B0%E5%85%A5%E6%89%8B%E8%8D%89%E9%BE%9F_%E7%AB%AF%E5%8D%88%E8%8A%82_%E5%86%B7%E5%86%BB%E9%9D%A2%E9%A3%9F_%E5%86%8D%E6%AC%A1%E5%BF%98%E5%B8%A6%E9%92%A5%E5%8C%99_zlib%E7%9B%97%E7%89%88%E7%BD%91%E7%AB%99_ibus%E8%BE%93%E5%85%A5%E6%B3%95/</id>
-            <updated>2023-07-02T23:09:31&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-06-19T21:42:49&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -3063,7 +3138,7 @@
             <title type="text">20230618_干活_xerolinux_archcraft_尝试羊肝_苏州11号线试运行_主机风扇异响</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/06/20230618_%E5%B9%B2%E6%B4%BB_xerolinux_archcraft_%E5%B0%9D%E8%AF%95%E7%BE%8A%E8%82%9D_%E8%8B%8F%E5%B7%9E11%E5%8F%B7%E7%BA%BF%E8%AF%95%E8%BF%90%E8%A1%8C_%E4%B8%BB%E6%9C%BA%E9%A3%8E%E6%89%87%E5%BC%82%E5%93%8D/" />
             <id>https://niantoudeyisi.github.io/posts/2023/06/20230618_%E5%B9%B2%E6%B4%BB_xerolinux_archcraft_%E5%B0%9D%E8%AF%95%E7%BE%8A%E8%82%9D_%E8%8B%8F%E5%B7%9E11%E5%8F%B7%E7%BA%BF%E8%AF%95%E8%BF%90%E8%A1%8C_%E4%B8%BB%E6%9C%BA%E9%A3%8E%E6%89%87%E5%BC%82%E5%93%8D/</id>
-            <updated>2023-06-19T21:41:16&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-06-13T00:16:32&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -3136,7 +3211,7 @@
             <title type="text">20230611_2T固态_WSL_黑苹果失败_gentoo失败</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/06/20230611_2t%E5%9B%BA%E6%80%81_wsl_%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%A4%B1%E8%B4%A5_gentoo%E5%A4%B1%E8%B4%A5/" />
             <id>https://niantoudeyisi.github.io/posts/2023/06/20230611_2t%E5%9B%BA%E6%80%81_wsl_%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%A4%B1%E8%B4%A5_gentoo%E5%A4%B1%E8%B4%A5/</id>
-            <updated>2023-06-13T00:13:48&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-06-04T22:55:30&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -3232,7 +3307,7 @@
             <title type="text">20230604_新冠恢复中_加班_尝试生蚝_四川香肠真不错</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/06/20230604_%E6%96%B0%E5%86%A0%E6%81%A2%E5%A4%8D%E4%B8%AD_%E5%8A%A0%E7%8F%AD_%E5%B0%9D%E8%AF%95%E7%94%9F%E8%9A%9D_%E5%9B%9B%E5%B7%9D%E9%A6%99%E8%82%A0%E7%9C%9F%E4%B8%8D%E9%94%99/" />
             <id>https://niantoudeyisi.github.io/posts/2023/06/20230604_%E6%96%B0%E5%86%A0%E6%81%A2%E5%A4%8D%E4%B8%AD_%E5%8A%A0%E7%8F%AD_%E5%B0%9D%E8%AF%95%E7%94%9F%E8%9A%9D_%E5%9B%9B%E5%B7%9D%E9%A6%99%E8%82%A0%E7%9C%9F%E4%B8%8D%E9%94%99/</id>
-            <updated>2023-06-04T22:54:31&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-05-30T20:39:39&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -3324,7 +3399,7 @@
             <title type="text">20230528_阳了_学会鸡胸肉主菜_料酒吹爆_维生素c有助于伤口愈合_c语言真恐怖_糟糕的周末</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/05/20230528_%E9%98%B3%E4%BA%86_%E5%AD%A6%E4%BC%9A%E9%B8%A1%E8%83%B8%E8%82%89%E4%B8%BB%E8%8F%9C_%E6%96%99%E9%85%92%E5%90%B9%E7%88%86_%E7%BB%B4%E7%94%9F%E7%B4%A0c%E6%9C%89%E5%8A%A9%E4%BA%8E%E4%BC%A4%E5%8F%A3%E6%84%88%E5%90%88_c%E8%AF%AD%E8%A8%80%E7%9C%9F%E6%81%90%E6%80%96_%E7%B3%9F%E7%B3%95%E7%9A%84%E5%91%A8%E6%9C%AB/" />
             <id>https://niantoudeyisi.github.io/posts/2023/05/20230528_%E9%98%B3%E4%BA%86_%E5%AD%A6%E4%BC%9A%E9%B8%A1%E8%83%B8%E8%82%89%E4%B8%BB%E8%8F%9C_%E6%96%99%E9%85%92%E5%90%B9%E7%88%86_%E7%BB%B4%E7%94%9F%E7%B4%A0c%E6%9C%89%E5%8A%A9%E4%BA%8E%E4%BC%A4%E5%8F%A3%E6%84%88%E5%90%88_c%E8%AF%AD%E8%A8%80%E7%9C%9F%E6%81%90%E6%80%96_%E7%B3%9F%E7%B3%95%E7%9A%84%E5%91%A8%E6%9C%AB/</id>
-            <updated>2023-05-30T20:45:41&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-05-22T23:32:57&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -3411,7 +3486,7 @@
             <title type="text">20230521_搭建基于ubus框架的项目_使用chatgpt-key_骑行19公里_电火锅做菜_规划饮食_轨迹球鼠标</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/05/20230521_%E6%90%AD%E5%BB%BA%E5%9F%BA%E4%BA%8Eubus%E6%A1%86%E6%9E%B6%E7%9A%84%E9%A1%B9%E7%9B%AE_%E4%BD%BF%E7%94%A8chatgpt-key_%E9%AA%91%E8%A1%8C19%E5%85%AC%E9%87%8C_%E7%94%B5%E7%81%AB%E9%94%85%E5%81%9A%E8%8F%9C_%E8%A7%84%E5%88%92%E9%A5%AE%E9%A3%9F_%E8%BD%A8%E8%BF%B9%E7%90%83%E9%BC%A0%E6%A0%87/" />
             <id>https://niantoudeyisi.github.io/posts/2023/05/20230521_%E6%90%AD%E5%BB%BA%E5%9F%BA%E4%BA%8Eubus%E6%A1%86%E6%9E%B6%E7%9A%84%E9%A1%B9%E7%9B%AE_%E4%BD%BF%E7%94%A8chatgpt-key_%E9%AA%91%E8%A1%8C19%E5%85%AC%E9%87%8C_%E7%94%B5%E7%81%AB%E9%94%85%E5%81%9A%E8%8F%9C_%E8%A7%84%E5%88%92%E9%A5%AE%E9%A3%9F_%E8%BD%A8%E8%BF%B9%E7%90%83%E9%BC%A0%E6%A0%87/</id>
-            <updated>2023-05-30T20:37:51&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-05-14T22:12:06&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -3573,7 +3648,7 @@ Omega-3脂肪酸，吃鱼油胶囊
             <title type="text">衣食住行</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/2023_%E8%A1%A3%E9%A3%9F%E4%BD%8F%E8%A1%8C/" />
             <id>https://niantoudeyisi.github.io/posts/2023/2023_%E8%A1%A3%E9%A3%9F%E4%BD%8F%E8%A1%8C/</id>
-            <updated>2024-01-02T23:24:24&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-05-10T01:40:09&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -3634,7 +3709,7 @@ Omega-3脂肪酸，吃鱼油胶囊
             <title type="text">20230514_更换带盖的垃圾桶_周末团建横店_走了一只龟_看轻小说</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/05/20230514_%E6%9B%B4%E6%8D%A2%E5%B8%A6%E7%9B%96%E7%9A%84%E5%9E%83%E5%9C%BE%E6%A1%B6_%E5%91%A8%E6%9C%AB%E5%9B%A2%E5%BB%BA%E6%A8%AA%E5%BA%97_%E8%B5%B0%E4%BA%86%E4%B8%80%E5%8F%AA%E9%BE%9F_%E7%9C%8B%E8%BD%BB%E5%B0%8F%E8%AF%B4/" />
             <id>https://niantoudeyisi.github.io/posts/2023/05/20230514_%E6%9B%B4%E6%8D%A2%E5%B8%A6%E7%9B%96%E7%9A%84%E5%9E%83%E5%9C%BE%E6%A1%B6_%E5%91%A8%E6%9C%AB%E5%9B%A2%E5%BB%BA%E6%A8%AA%E5%BA%97_%E8%B5%B0%E4%BA%86%E4%B8%80%E5%8F%AA%E9%BE%9F_%E7%9C%8B%E8%BD%BB%E5%B0%8F%E8%AF%B4/</id>
-            <updated>2023-05-30T20:49:13&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-05-08T20:53:23&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -3734,7 +3809,7 @@ Omega-3脂肪酸，吃鱼油胶囊
             <title type="text">20230507_五一回趟老家_坐卧铺_资本论_料理包的钠含量_整理桌子</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/05/20230507_%E4%BA%94%E4%B8%80%E5%9B%9E%E8%B6%9F%E8%80%81%E5%AE%B6_%E5%9D%90%E5%8D%A7%E9%93%BA_%E8%B5%84%E6%9C%AC%E8%AE%BA_%E6%96%99%E7%90%86%E5%8C%85%E7%9A%84%E9%92%A0%E5%90%AB%E9%87%8F_%E6%95%B4%E7%90%86%E6%A1%8C%E5%AD%90/" />
             <id>https://niantoudeyisi.github.io/posts/2023/05/20230507_%E4%BA%94%E4%B8%80%E5%9B%9E%E8%B6%9F%E8%80%81%E5%AE%B6_%E5%9D%90%E5%8D%A7%E9%93%BA_%E8%B5%84%E6%9C%AC%E8%AE%BA_%E6%96%99%E7%90%86%E5%8C%85%E7%9A%84%E9%92%A0%E5%90%AB%E9%87%8F_%E6%95%B4%E7%90%86%E6%A1%8C%E5%AD%90/</id>
-            <updated>2023-05-14T22:10:25&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-04-30T23:29:18&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -3818,7 +3893,7 @@ Omega-3脂肪酸，吃鱼油胶囊
             <title type="text">20230430_绿皮火车硬座_amd7735hs_edge-s30-14G拍照_archlinux主机</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/04/20230430_20230430_%E7%BB%BF%E7%9A%AE%E7%81%AB%E8%BD%A6%E7%A1%AC%E5%BA%A7_amd7735hs_edge-s30-14g%E6%8B%8D%E7%85%A7_archlinux%E4%B8%BB%E6%9C%BA/" />
             <id>https://niantoudeyisi.github.io/posts/2023/04/20230430_20230430_%E7%BB%BF%E7%9A%AE%E7%81%AB%E8%BD%A6%E7%A1%AC%E5%BA%A7_amd7735hs_edge-s30-14g%E6%8B%8D%E7%85%A7_archlinux%E4%B8%BB%E6%9C%BA/</id>
-            <updated>2023-04-30T23:35:47&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-04-24T00:45:28&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -3909,7 +3984,7 @@ Omega-3脂肪酸，吃鱼油胶囊
             <title type="text">20230423_基于ctcapd的pon-ubus框架_草龟过滤系统_dota2更新换7735hs_循环扇_清理卧室</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/04/20230423_%E5%9F%BA%E4%BA%8Ectcapd%E7%9A%84pon-ubus%E6%A1%86%E6%9E%B6_%E8%8D%89%E9%BE%9F%E8%BF%87%E6%BB%A4%E7%B3%BB%E7%BB%9F_dota2%E6%9B%B4%E6%96%B0%E6%8D%A27735hs_%E5%BE%AA%E7%8E%AF%E6%89%87_%E6%B8%85%E7%90%86%E5%8D%A7%E5%AE%A4/" />
             <id>https://niantoudeyisi.github.io/posts/2023/04/20230423_%E5%9F%BA%E4%BA%8Ectcapd%E7%9A%84pon-ubus%E6%A1%86%E6%9E%B6_%E8%8D%89%E9%BE%9F%E8%BF%87%E6%BB%A4%E7%B3%BB%E7%BB%9F_dota2%E6%9B%B4%E6%96%B0%E6%8D%A27735hs_%E5%BE%AA%E7%8E%AF%E6%89%87_%E6%B8%85%E7%90%86%E5%8D%A7%E5%AE%A4/</id>
-            <updated>2023-04-24T00:44:10&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-04-16T21:37:16&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -4006,7 +4081,7 @@ Omega-3脂肪酸，吃鱼油胶囊
             <title type="text">20230416_基于自研框架的ubus接口_落水跳蛛_通宵dota_随身wifi</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/04/20230416_%E5%9F%BA%E4%BA%8E%E8%87%AA%E7%A0%94%E6%A1%86%E6%9E%B6%E7%9A%84ubus%E6%8E%A5%E5%8F%A3_%E8%90%BD%E6%B0%B4%E8%B7%B3%E8%9B%9B_%E9%80%9A%E5%AE%B5dota_%E9%9A%8F%E8%BA%ABwifi/" />
             <id>https://niantoudeyisi.github.io/posts/2023/04/20230416_%E5%9F%BA%E4%BA%8E%E8%87%AA%E7%A0%94%E6%A1%86%E6%9E%B6%E7%9A%84ubus%E6%8E%A5%E5%8F%A3_%E8%90%BD%E6%B0%B4%E8%B7%B3%E8%9B%9B_%E9%80%9A%E5%AE%B5dota_%E9%9A%8F%E8%BA%ABwifi/</id>
-            <updated>2023-04-16T21:36:08&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-04-09T21:25:07&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -4110,7 +4185,7 @@ Omega-3脂肪酸，吃鱼油胶囊
             <title type="text">20230409_苏州虎丘湿地公园_粘锅因素_生菜优化</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/04/20230409_%E8%8B%8F%E5%B7%9E%E8%99%8E%E4%B8%98%E6%B9%BF%E5%9C%B0%E5%85%AC%E5%9B%AD_%E7%B2%98%E9%94%85%E5%9B%A0%E7%B4%A0_%E7%94%9F%E8%8F%9C%E4%BC%98%E5%8C%96/" />
             <id>https://niantoudeyisi.github.io/posts/2023/04/20230409_%E8%8B%8F%E5%B7%9E%E8%99%8E%E4%B8%98%E6%B9%BF%E5%9C%B0%E5%85%AC%E5%9B%AD_%E7%B2%98%E9%94%85%E5%9B%A0%E7%B4%A0_%E7%94%9F%E8%8F%9C%E4%BC%98%E5%8C%96/</id>
-            <updated>2023-04-09T21:23:52&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-04-02T21:45:48&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -4222,7 +4297,7 @@ Omega-3脂肪酸，吃鱼油胶囊
             <title type="text">20230402_共享单车_橄榄油_生菜_臭干子_硬件加速_clip4_镂空蒸盘_pixel6_充错话费</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/04/20230402_%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6_%E6%A9%84%E6%A6%84%E6%B2%B9_%E7%94%9F%E8%8F%9C_%E8%87%AD%E5%B9%B2%E5%AD%90_%E7%A1%AC%E4%BB%B6%E5%8A%A0%E9%80%9F_clip4_%E9%95%82%E7%A9%BA%E8%92%B8%E7%9B%98_pixel6_%E5%85%85%E9%94%99%E8%AF%9D%E8%B4%B9/" />
             <id>https://niantoudeyisi.github.io/posts/2023/04/20230402_%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6_%E6%A9%84%E6%A6%84%E6%B2%B9_%E7%94%9F%E8%8F%9C_%E8%87%AD%E5%B9%B2%E5%AD%90_%E7%A1%AC%E4%BB%B6%E5%8A%A0%E9%80%9F_clip4_%E9%95%82%E7%A9%BA%E8%92%B8%E7%9B%98_pixel6_%E5%85%85%E9%94%99%E8%AF%9D%E8%B4%B9/</id>
-            <updated>2023-04-02T21:42:13&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-03-26T22:59:02&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -4371,7 +4446,7 @@ Omega-3脂肪酸，吃鱼油胶囊
             <title type="text">20230319_鸡蛋横放的作用_抛弃花枝鼠_山地车后拨前拨调试更加熟悉_安装山地车链条_大佬一句话点拨_两位老人不同人生</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/03/20230319_%E9%B8%A1%E8%9B%8B%E6%A8%AA%E6%94%BE%E7%9A%84%E4%BD%9C%E7%94%A8_%E6%8A%9B%E5%BC%83%E8%8A%B1%E6%9E%9D%E9%BC%A0_%E5%B1%B1%E5%9C%B0%E8%BD%A6%E5%90%8E%E6%8B%A8%E5%89%8D%E6%8B%A8%E8%B0%83%E8%AF%95%E6%9B%B4%E5%8A%A0%E7%86%9F%E6%82%89_%E5%AE%89%E8%A3%85%E5%B1%B1%E5%9C%B0%E8%BD%A6%E9%93%BE%E6%9D%A1_%E5%A4%A7%E4%BD%AC%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%82%B9%E6%8B%A8_%E4%B8%A4%E4%BD%8D%E8%80%81%E4%BA%BA%E4%B8%8D%E5%90%8C%E4%BA%BA%E7%94%9F/" />
             <id>https://niantoudeyisi.github.io/posts/2023/03/20230319_%E9%B8%A1%E8%9B%8B%E6%A8%AA%E6%94%BE%E7%9A%84%E4%BD%9C%E7%94%A8_%E6%8A%9B%E5%BC%83%E8%8A%B1%E6%9E%9D%E9%BC%A0_%E5%B1%B1%E5%9C%B0%E8%BD%A6%E5%90%8E%E6%8B%A8%E5%89%8D%E6%8B%A8%E8%B0%83%E8%AF%95%E6%9B%B4%E5%8A%A0%E7%86%9F%E6%82%89_%E5%AE%89%E8%A3%85%E5%B1%B1%E5%9C%B0%E8%BD%A6%E9%93%BE%E6%9D%A1_%E5%A4%A7%E4%BD%AC%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%82%B9%E6%8B%A8_%E4%B8%A4%E4%BD%8D%E8%80%81%E4%BA%BA%E4%B8%8D%E5%90%8C%E4%BA%BA%E7%94%9F/</id>
-            <updated>2023-03-26T22:56:51&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-03-19T22:22:25&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -4520,7 +4595,7 @@ Omega-3脂肪酸，吃鱼油胶囊
             <title type="text">20230312_干活_白色的鸡蛋_花枝鼠上手_山地车后拨故障_更换伙食</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/03/20230312_%E5%B9%B2%E6%B4%BB_%E7%99%BD%E8%89%B2%E7%9A%84%E9%B8%A1%E8%9B%8B_%E8%8A%B1%E6%9E%9D%E9%BC%A0%E4%B8%8A%E6%89%8B_%E5%B1%B1%E5%9C%B0%E8%BD%A6%E5%90%8E%E6%8B%A8%E6%95%85%E9%9A%9C_%E6%9B%B4%E6%8D%A2%E4%BC%99%E9%A3%9F/" />
             <id>https://niantoudeyisi.github.io/posts/2023/03/20230312_%E5%B9%B2%E6%B4%BB_%E7%99%BD%E8%89%B2%E7%9A%84%E9%B8%A1%E8%9B%8B_%E8%8A%B1%E6%9E%9D%E9%BC%A0%E4%B8%8A%E6%89%8B_%E5%B1%B1%E5%9C%B0%E8%BD%A6%E5%90%8E%E6%8B%A8%E6%95%85%E9%9A%9C_%E6%9B%B4%E6%8D%A2%E4%BC%99%E9%A3%9F/</id>
-            <updated>2023-03-19T22:20:28&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-03-12T21:49:46&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -4622,7 +4697,7 @@ Omega-3脂肪酸，吃鱼油胶囊
             <title type="text">20230306_加班_花枝鼠_温度_春天</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/03/20230306_%E5%8A%A0%E7%8F%AD_%E8%8A%B1%E6%9E%9D%E9%BC%A0_%E6%B8%A9%E5%BA%A6_%E6%98%A5%E5%A4%A9/" />
             <id>https://niantoudeyisi.github.io/posts/2023/03/20230306_%E5%8A%A0%E7%8F%AD_%E8%8A%B1%E6%9E%9D%E9%BC%A0_%E6%B8%A9%E5%BA%A6_%E6%98%A5%E5%A4%A9/</id>
-            <updated>2023-03-13T23:12:58&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-03-06T21:59:14&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -4761,7 +4836,7 @@ Omega-3脂肪酸，吃鱼油胶囊
             <title type="text">20230227_加班干活_逐渐熟悉自行车_天气回暖_聚餐</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/02/20230227_%E5%8A%A0%E7%8F%AD%E5%B9%B2%E6%B4%BB_%E9%80%90%E6%B8%90%E7%86%9F%E6%82%89%E8%87%AA%E8%A1%8C%E8%BD%A6_%E5%A4%A9%E6%B0%94%E5%9B%9E%E6%9A%96_%E8%81%9A%E9%A4%90/" />
             <id>https://niantoudeyisi.github.io/posts/2023/02/20230227_%E5%8A%A0%E7%8F%AD%E5%B9%B2%E6%B4%BB_%E9%80%90%E6%B8%90%E7%86%9F%E6%82%89%E8%87%AA%E8%A1%8C%E8%BD%A6_%E5%A4%A9%E6%B0%94%E5%9B%9E%E6%9A%96_%E8%81%9A%E9%A4%90/</id>
-            <updated>2023-03-13T23:12:47&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-02-26T21:17:01&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -4883,7 +4958,7 @@ Omega-3脂肪酸，吃鱼油胶囊
             <title type="text">20230219_rework_war3_网购自行车拉的不行</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/02/20230219_rework_war3_%E7%BD%91%E8%B4%AD%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%8B%89%E7%9A%84%E4%B8%8D%E8%A1%8C/" />
             <id>https://niantoudeyisi.github.io/posts/2023/02/20230219_rework_war3_%E7%BD%91%E8%B4%AD%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%8B%89%E7%9A%84%E4%B8%8D%E8%A1%8C/</id>
-            <updated>2023-03-13T23:12:41&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-02-19T23:27:39&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -4984,7 +5059,7 @@ Omega-3脂肪酸，吃鱼油胶囊
             <title type="text">20230212_阅读基于shell的代码实现_打算买自行车_奇怪的开销不对帐</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/02/20230212_%E9%98%85%E8%AF%BB%E5%9F%BA%E4%BA%8Eshell%E7%9A%84%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0_%E6%89%93%E7%AE%97%E4%B9%B0%E8%87%AA%E8%A1%8C%E8%BD%A6_%E5%A5%87%E6%80%AA%E7%9A%84%E5%BC%80%E9%94%80%E4%B8%8D%E5%AF%B9%E5%B8%90/" />
             <id>https://niantoudeyisi.github.io/posts/2023/02/20230212_%E9%98%85%E8%AF%BB%E5%9F%BA%E4%BA%8Eshell%E7%9A%84%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0_%E6%89%93%E7%AE%97%E4%B9%B0%E8%87%AA%E8%A1%8C%E8%BD%A6_%E5%A5%87%E6%80%AA%E7%9A%84%E5%BC%80%E9%94%80%E4%B8%8D%E5%AF%B9%E5%B8%90/</id>
-            <updated>2023-03-13T23:12:36&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-02-12T21:42:44&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -5097,7 +5172,7 @@ march=native
             <title type="text">20230205_J4125_PVE_漏电跳电闸_新室友</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/02/20230205_j4125_pve_%E6%BC%8F%E7%94%B5%E8%B7%B3%E7%94%B5%E9%97%B8_%E6%96%B0%E5%AE%A4%E5%8F%8B/" />
             <id>https://niantoudeyisi.github.io/posts/2023/02/20230205_j4125_pve_%E6%BC%8F%E7%94%B5%E8%B7%B3%E7%94%B5%E9%97%B8_%E6%96%B0%E5%AE%A4%E5%8F%8B/</id>
-            <updated>2023-03-13T23:12:30&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-02-05T20:05:54&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -5207,7 +5282,7 @@ march=native
             <title type="text">20230130_熟悉自己做饭_体验armbian_整理目前所学_体验hdmi采集卡</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/01/20230130_%E7%86%9F%E6%82%89%E8%87%AA%E5%B7%B1%E5%81%9A%E9%A5%AD_%E4%BD%93%E9%AA%8Carmbian_%E6%95%B4%E7%90%86%E7%9B%AE%E5%89%8D%E6%89%80%E5%AD%A6_%E4%BD%93%E9%AA%8Chdmi%E9%87%87%E9%9B%86%E5%8D%A1/" />
             <id>https://niantoudeyisi.github.io/posts/2023/01/20230130_%E7%86%9F%E6%82%89%E8%87%AA%E5%B7%B1%E5%81%9A%E9%A5%AD_%E4%BD%93%E9%AA%8Carmbian_%E6%95%B4%E7%90%86%E7%9B%AE%E5%89%8D%E6%89%80%E5%AD%A6_%E4%BD%93%E9%AA%8Chdmi%E9%87%87%E9%9B%86%E5%8D%A1/</id>
-            <updated>2023-02-05T20:02:46&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-01-30T20:49:16&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -5418,7 +5493,7 @@ march=native
             <title type="text">20230129_维生素c对口腔溃疡的妙用_快乐的年假_然后又上班了</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/01/20230122_%E7%BB%B4%E7%94%9F%E7%B4%A0c%E5%AF%B9%E5%8F%A3%E8%85%94%E6%BA%83%E7%96%A1%E7%9A%84%E5%A6%99%E7%94%A8_%E5%BF%AB%E4%B9%90%E7%9A%84%E5%B9%B4%E5%81%87_%E7%84%B6%E5%90%8E%E5%8F%88%E4%B8%8A%E7%8F%AD%E4%BA%86/" />
             <id>https://niantoudeyisi.github.io/posts/2023/01/20230122_%E7%BB%B4%E7%94%9F%E7%B4%A0c%E5%AF%B9%E5%8F%A3%E8%85%94%E6%BA%83%E7%96%A1%E7%9A%84%E5%A6%99%E7%94%A8_%E5%BF%AB%E4%B9%90%E7%9A%84%E5%B9%B4%E5%81%87_%E7%84%B6%E5%90%8E%E5%8F%88%E4%B8%8A%E7%8F%AD%E4%BA%86/</id>
-            <updated>2023-01-30T20:44:58&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-01-22T23:15:36&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -5526,7 +5601,7 @@ march=native
             <title type="text">20230122_内存泄漏_回家过年</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/01/20230115_%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F_%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4/" />
             <id>https://niantoudeyisi.github.io/posts/2023/01/20230115_%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F_%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4/</id>
-            <updated>2023-01-30T20:43:57&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-01-15T19:54:09&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -5674,7 +5749,7 @@ march=native
             <title type="text">20230115_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/01/20230115_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2023/01/20230115_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2023-01-15T19:53:41&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-01-09T20:22:22&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -5810,7 +5885,7 @@ march=native
             <title type="text">20230108_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/01/20230108_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2023/01/20230108_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2023-01-08T22:20:14&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-01-08T21:01:07&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -5908,7 +5983,7 @@ march=native
             <title type="text">20230101_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/01/20230101_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2023/01/20230101_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2023-01-08T22:19:54&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2023-01-01T01:30:11&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -6008,7 +6083,7 @@ march=native
             <title type="text">2023_有趣的网站</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E7%BD%91%E7%AB%99/" />
             <id>https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E7%BD%91%E7%AB%99/</id>
-            <updated>2023-12-03T23:08:50&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-12-26T19:44:50&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -6142,7 +6217,7 @@ march=native
             <title type="text">2023_有趣的博客</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8D%9A%E5%AE%A2/" />
             <id>https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
-            <updated>2023-12-18T22:37:29&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-12-26T19:44:39&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -6280,7 +6355,7 @@ march=native
             <title type="text">2023_有趣的歌</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E6%AD%8C/" />
             <id>https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E6%AD%8C/</id>
-            <updated>2023-12-24T18:56:59&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-12-26T19:44:33&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -6579,7 +6654,7 @@ march=native
             <title type="text">2023_有趣的工具</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B7%A5%E5%85%B7/" />
             <id>https://niantoudeyisi.github.io/posts/2023/2023_%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B7%A5%E5%85%B7/</id>
-            <updated>2024-01-02T23:01:20&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-12-26T19:44:26&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -6708,7 +6783,7 @@ march=native
             <title type="text">20221225_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/12/20221225_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/12/20221225_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-12-25T20:37:14&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-12-19T20:48:31&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -6856,7 +6931,7 @@ march=native
             <title type="text">20221218_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/12/20221218_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/12/20221218_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-12-18T20:56:55&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-12-11T18:52:38&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -6947,7 +7022,7 @@ march=native
             <title type="text">20221211_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/12/20221211_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/12/20221211_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-12-17T13:15:03&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-12-11T17:42:51&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -7034,7 +7109,7 @@ march=native
             <title type="text">20221204_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/12/20221204_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/12/20221204_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-12-11T18:51:51&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-12-04T18:30:27&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -7211,7 +7286,7 @@ march=native
             <title type="text">20221127_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/11/20221127_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/11/20221127_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-12-04T21:14:50&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-11-27T19:21:34&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -7320,7 +7395,7 @@ march=native
             <title type="text">20221120_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/11/20221120_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/11/20221120_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-11-21T19:00:35&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-11-20T18:23:36&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -7450,7 +7525,7 @@ march=native
             <title type="text">20221113_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/11/20221113_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/11/20221113_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-11-13T23:40:34&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-11-13T17:28:00&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -7578,7 +7653,7 @@ march=native
             <title type="text">电脑重做系统后的环境</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/11/%E7%94%B5%E8%84%91%E9%87%8D%E5%81%9A%E7%B3%BB%E7%BB%9F%E5%90%8E%E7%9A%84%E7%8E%AF%E5%A2%83/" />
             <id>https://niantoudeyisi.github.io/posts/2022/11/%E7%94%B5%E8%84%91%E9%87%8D%E5%81%9A%E7%B3%BB%E7%BB%9F%E5%90%8E%E7%9A%84%E7%8E%AF%E5%A2%83/</id>
-            <updated>2023-01-08T16:56:59&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-11-06T20:41:59&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -7849,7 +7924,7 @@ zlib &lt;a href=&#34;http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6
             <title type="text">20221106_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/11/20221106_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/11/20221106_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-11-06T22:16:40&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-11-06T19:19:03&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -7985,7 +8060,7 @@ zlib &lt;a href=&#34;http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6
             <title type="text">20221030_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/10/20221030_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/10/20221030_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-11-06T19:43:40&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-10-30T21:40:40&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -8088,7 +8163,7 @@ opkg remove
             <title type="text">20221023_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/10/20221023_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/10/20221023_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-11-06T19:19:31&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-10-23T20:34:47&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -8176,7 +8251,7 @@ opkg remove
             <title type="text">Debian禁用ipv6</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/10/debian%E7%A6%81%E7%94%A8ipv6/" />
             <id>https://niantoudeyisi.github.io/posts/2022/10/debian%E7%A6%81%E7%94%A8ipv6/</id>
-            <updated>2022-11-22T21:58:33&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-10-16T20:44:28&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -8248,7 +8323,7 @@ net.ipv6.conf.lo.disable_ipv6 = 1
             <title type="text">20221016_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/10/20221016_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/10/20221016_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-11-06T18:30:30&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-10-16T20:42:10&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -8401,7 +8476,7 @@ AI洛天依也比以前音色好听好多。AI猫雷也是new bee。&lt;/p&gt;
             <title type="text">判断端口是否被封掉</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/10/%E5%88%A4%E6%96%AD%E7%AB%AF%E5%8F%A3%E6%98%AF%E5%90%A6%E8%A2%AB%E5%B0%81%E6%8E%89/" />
             <id>https://niantoudeyisi.github.io/posts/2022/10/%E5%88%A4%E6%96%AD%E7%AB%AF%E5%8F%A3%E6%98%AF%E5%90%A6%E8%A2%AB%E5%B0%81%E6%8E%89/</id>
-            <updated>2022-11-06T18:35:59&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-10-07T21:39:10&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -8474,7 +8549,7 @@ AI洛天依也比以前音色好听好多。AI猫雷也是new bee。&lt;/p&gt;
             <title type="text">20221007_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/10/20221007_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/10/20221007_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-11-06T22:22:53&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-10-07T21:38:42&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -8549,7 +8624,7 @@ drone感觉r2s带不起来。没弄了。&lt;/p&gt;
             <title type="text">20221002_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/10/20221002_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/10/20221002_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-11-06T18:29:44&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-10-02T23:34:52&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -8647,7 +8722,7 @@ drone感觉r2s带不起来。没弄了。&lt;/p&gt;
             <title type="text">20220925_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/09/20220925_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/09/20220925_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-12-22T20:28:50&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-09-25T21:12:30&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -8765,7 +8840,7 @@ ci/cd挺有意思 。&lt;/p&gt;
             <title type="text">20220918_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/09/20220918_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/09/20220918_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-12-22T20:28:17&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-09-18T20:02:33&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -8870,7 +8945,7 @@ ci/cd挺有意思 。&lt;/p&gt;
             <title type="text">20220911_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/09/20220911_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/09/20220911_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-12-22T20:26:33&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-09-11T20:17:19&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -8971,7 +9046,7 @@ r2s 微调了一下pwm风扇脚本 不然一会跑一会停好吵&lt;/p&gt;
             <title type="text">20220904_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/09/20220904_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/09/20220904_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-12-22T20:26:07&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-09-04T23:21:35&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -9068,7 +9143,7 @@ r2s 微调了一下pwm风扇脚本 不然一会跑一会停好吵&lt;/p&gt;
             <title type="text">20220828_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/08/20220828_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/08/20220828_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-12-22T20:25:49&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-08-28T20:48:37&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -9219,7 +9294,7 @@ r2s 微调了一下pwm风扇脚本 不然一会跑一会停好吵&lt;/p&gt;
             <title type="text">20220821_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/08/20220821_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/08/20220821_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-11-13T19:43:06&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-08-21T20:12:23&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -9303,7 +9378,7 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
             <title type="text">20220814_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/08/20220814_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/08/20220814_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-12-22T20:25:03&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-08-14T23:44:14&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -9369,7 +9444,7 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
             <title type="text">20220807_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/08/20220807_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/08/20220807_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-12-22T20:24:54&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-08-07T23:47:54&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -9442,7 +9517,7 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
             <title type="text">20220731_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/07/20220731_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/07/20220731_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-12-19T20:49:09&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-07-31T23:30:17&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -9519,7 +9594,7 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
             <title type="text">有趣的博客</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8D%9A%E5%AE%A2/" />
             <id>https://niantoudeyisi.github.io/posts/2022/%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
-            <updated>2022-12-25T20:24:47&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-07-25T23:24:29&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -9675,7 +9750,7 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
             <title type="text">有趣的网站</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/%E6%9C%89%E8%B6%A3%E7%9A%84%E7%BD%91%E7%AB%99/" />
             <id>https://niantoudeyisi.github.io/posts/2022/%E6%9C%89%E8%B6%A3%E7%9A%84%E7%BD%91%E7%AB%99/</id>
-            <updated>2022-12-04T20:24:26&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-07-24T22:59:05&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -9797,7 +9872,7 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
             <title type="text">有趣的工具</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B7%A5%E5%85%B7/" />
             <id>https://niantoudeyisi.github.io/posts/2022/%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B7%A5%E5%85%B7/</id>
-            <updated>2022-12-29T21:58:01&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-07-24T22:58:56&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -9946,7 +10021,7 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
             <title type="text">20220724_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/07/20220724_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/07/20220724_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-12-19T20:49:03&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-07-24T22:09:10&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -10015,7 +10090,7 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
             <title type="text">20220717_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/07/20220717_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/07/20220717_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2022-12-19T20:48:56&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-07-17T22:08:15&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -10116,7 +10191,7 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
             <title type="text">20220710_今天的低效率工作</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/07/20220710_%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%BD%8E%E6%95%88%E7%8E%87%E5%B7%A5%E4%BD%9C/" />
             <id>https://niantoudeyisi.github.io/posts/2022/07/20220710_%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%BD%8E%E6%95%88%E7%8E%87%E5%B7%A5%E4%BD%9C/</id>
-            <updated>2022-12-19T20:48:52&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-07-10T23:16:55&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -10169,7 +10244,7 @@ traceroute 可以看服务器线路是不是cn2的 (出现多个59.43 .xx.xx)&lt
             <title type="text">树莓派的wifi,超频,ssh</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/07/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9A%84wifi%E8%B6%85%E9%A2%91ssh/" />
             <id>https://niantoudeyisi.github.io/posts/2022/07/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9A%84wifi%E8%B6%85%E9%A2%91ssh/</id>
-            <updated>2023-05-14T22:03:58&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-07-10T23:12:44&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -10231,7 +10306,7 @@ over_voltage=6
             <title type="text">关于我所知道的Android刷机方案</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/07/%E5%85%B3%E4%BA%8E%E6%88%91%E6%89%80%E7%9F%A5%E9%81%93%E7%9A%84android%E5%88%B7%E6%9C%BA%E6%96%B9%E6%A1%88/" />
             <id>https://niantoudeyisi.github.io/posts/2022/07/%E5%85%B3%E4%BA%8E%E6%88%91%E6%89%80%E7%9F%A5%E9%81%93%E7%9A%84android%E5%88%B7%E6%9C%BA%E6%96%B9%E6%A1%88/</id>
-            <updated>2023-05-14T22:03:52&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-07-10T22:59:48&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -10327,7 +10402,7 @@ over_voltage=6
             <title type="text">关于docker版的openwrt使用</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/07/%E5%85%B3%E4%BA%8Edocker%E7%89%88%E7%9A%84openwrt%E4%BD%BF%E7%94%A8/" />
             <id>https://niantoudeyisi.github.io/posts/2022/07/%E5%85%B3%E4%BA%8Edocker%E7%89%88%E7%9A%84openwrt%E4%BD%BF%E7%94%A8/</id>
-            <updated>2022-11-05T18:00:11&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-07-10T22:48:26&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -10443,7 +10518,7 @@ config interface &amp;#39;lan&amp;#39;
             <title type="text">树莓派用JMS578硬盘盒的坑</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/06/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%94%A8jms578%E7%A1%AC%E7%9B%98%E7%9B%92%E7%9A%84%E5%9D%91/" />
             <id>https://niantoudeyisi.github.io/posts/2022/06/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%94%A8jms578%E7%A1%AC%E7%9B%98%E7%9B%92%E7%9A%84%E5%9D%91/</id>
-            <updated>2022-12-22T20:21:56&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-06-26T23:06:38&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -10518,7 +10593,7 @@ usb-storage.quirks=152d:0578:u
             <title type="text">有趣的歌</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/%E6%9C%89%E8%B6%A3%E7%9A%84%E6%AD%8C/" />
             <id>https://niantoudeyisi.github.io/posts/2022/%E6%9C%89%E8%B6%A3%E7%9A%84%E6%AD%8C/</id>
-            <updated>2023-01-15T18:46:18&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-06-26T22:13:58&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -10833,7 +10908,7 @@ usb-storage.quirks=152d:0578:u
             <title type="text">关于hugo使用git分支管理的命令</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/06/%E5%85%B3%E4%BA%8Ehugo%E4%BD%BF%E7%94%A8git%E5%88%86%E6%94%AF%E7%AE%A1%E7%90%86%E7%9A%84%E5%91%BD%E4%BB%A4/" />
             <id>https://niantoudeyisi.github.io/posts/2022/06/%E5%85%B3%E4%BA%8Ehugo%E4%BD%BF%E7%94%A8git%E5%88%86%E6%94%AF%E7%AE%A1%E7%90%86%E7%9A%84%E5%91%BD%E4%BB%A4/</id>
-            <updated>2022-11-06T18:30:11&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-06-18T21:53:38&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -10950,7 +11025,7 @@ usb-storage.quirks=152d:0578:u
             <title type="text">关于docker镜像加速</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2022/06/%E5%85%B3%E4%BA%8Edocker%E9%95%9C%E5%83%8F%E5%8A%A0%E9%80%9F/" />
             <id>https://niantoudeyisi.github.io/posts/2022/06/%E5%85%B3%E4%BA%8Edocker%E9%95%9C%E5%83%8F%E5%8A%A0%E9%80%9F/</id>
-            <updated>2022-12-22T20:21:55&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-06-18T17:37:01&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -10994,7 +11069,7 @@ usb-storage.quirks=152d:0578:u
             <title type="text">Hello World</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/hello-world/" />
             <id>https://niantoudeyisi.github.io/posts/hello-world/</id>
-            <updated>2023-02-04T17:11:14&#43;08:00</updated>
+            <updated>2024-02-03T19:41:30&#43;08:00</updated>
             <published>2022-06-18T11:34:00&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
