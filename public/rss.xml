@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 04 Feb 2024 20:13:31 &#43;0800</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 21:36:17 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://niantoudeyisi.github.io/rss.xml" />
         
@@ -42,30 +42,49 @@
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;电脑被onedriver 搞烂了。。。吐了。。。。&lt;/p&gt;
+&lt;p&gt;在想要不要换轮胎。 想提提速&lt;/p&gt;
 &lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;kde 汉化一半的问题 因为kde环境变量没有正确读取zh_CN.UTF-8&lt;/p&gt;
+&lt;p&gt;今天手机欠费了。。。本来月底流量用完了。 就冲了花费。然后去做饭。结果做晚饭发现又欠了100 。。。 简直了。。 然后打电话给客户 给我退了一次。。他和我说仅此一次。&lt;/p&gt;
+&lt;p&gt;发现pixel 使用省电模式 会禁用所有app 续航瞬间就翻倍了。。。感觉是不是手机app越多掉电越快。 。。这些东西好像都是动态加载进内存的。。&lt;/p&gt;
+&lt;p&gt;突然知道电解质和盐丸是一类东西。。。以前两个一起吃。。。真哈人。&lt;/p&gt;
 &lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;常买的预制菜的店家。这次发货换了个包装。。感觉瞬间不一样了。。。&lt;/p&gt;
+&lt;p&gt;感觉最近买的快递似乎包装都越来越整洁了。&lt;/p&gt;
 &lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;老板今天发了个零食。。。md 山楂罐头。。好难吃。。。。已经很久没吃到这么难吃的食物了。。。。&lt;/p&gt;
 &lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;很奇怪 今天早上如厕。 感觉莫名舒服。。。不知道是昨天晚上最后吃了香蕉还是最后吃了素毛肚 导致。。。&lt;/p&gt;
+&lt;p&gt;小区买水果的老人 好像不见了。。。估计回家过年了。。。&lt;/p&gt;
 &lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;b站 以前看到一个 虚拟主播 唱的 挪威的森林 。今天一看 注销了。。。真是令人莫名感叹。&lt;/p&gt;
 &lt;p&gt;git 如果验证私钥出现 可以修改密钥权限为0600可以解决&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;It is required that your private key files are NOT accessible by others.
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;git 现在push都是用token做密码了。。。&lt;/p&gt;
-&lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
+&lt;p&gt;早上差点和车子撞了。。。哈人。。。&lt;/p&gt;
+&lt;p&gt;kde x11 切换wayland  注销就可以在sddm选择了。&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;arch的话
+sudo pacman -S plasma-wayland-session
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;git 每次push都需要输入密码好像强制走443就可以不用每次输入了 。&lt;/p&gt;
 &lt;p&gt;国内服务器都好小水管。。。md。。。&lt;/p&gt;
 &lt;p&gt;换了个轻量化鼠标。确实舒服。。。主要是之前的鼠标linux下 打游戏卡顿。不然没必要更换。&lt;/p&gt;
+&lt;p&gt;kde 今天登陆发现会画面撕裂。md 。。&lt;/p&gt;
+&lt;p&gt;解决kde 登陆sddm 汉化不完全问题 &lt;a href=&#34;https://github.com/sddm/sddm/issues/703&#34;&gt;https://github.com/sddm/sddm/issues/703&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;解决sddm登陆时候画面撕裂。。。。 就是切换x11为wayland。。。&lt;/p&gt;
+&lt;p&gt;好奇怪感觉切换wayland之后 显示器的画面都变得很舒服了。。。不知道是不是错觉。 &lt;a href=&#34;https://zhuanlan.zhihu.com/p/637159270&#34;&gt;https://zhuanlan.zhihu.com/p/637159270&lt;/a&gt;&lt;/p&gt;
 </description>
                 
                 
