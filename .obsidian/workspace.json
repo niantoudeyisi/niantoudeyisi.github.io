@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024/02/20240207_最近的日常.md",
+                "file": "content/posts/2024/02/20240218_最近的日常.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "resume",
+                "query": "书",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024/02/20240207_最近的日常.md",
+                "file": "content/posts/2024/02/20240218_最近的日常.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2024/02/20240207_最近的日常.md",
+                "file": "content/posts/2024/02/20240218_最近的日常.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2024/02/20240207_最近的日常.md"
+                "file": "content/posts/2024/02/20240218_最近的日常.md"
               }
             }
           },
@@ -168,29 +168,31 @@
   },
   "active": "55c6c12e5533bc47",
   "lastOpenFiles": [
+    "public/posts/2024/02/20240218_最近的日常/index.html",
+    "public/posts/2024/02/20240218_最近的日常",
+    "content/posts/2024/02/20240211_最近的日常.md",
+    "content/posts/2024/02/20240218_最近的日常.md",
+    "public/posts/2024/02/20240204_最近的日常/index.html",
+    "public/posts/2024/02/20240204_最近的日常",
+    "public/posts/2024/02/20240211_最近的日常/index.html",
+    "public/posts/2024/02/20240211_最近的日常",
+    "content/posts/2024/02/20240204_最近的日常.md",
+    "content/posts/2024/2024_有趣的歌.md",
+    "content/posts/2024/2024_有趣的工具.md",
     "public/page/22/index.html",
     "public/page/22",
     "public/posts/2024/02/20240207_最近的日常/index.html",
     "public/posts/2024/02/20240207_最近的日常",
     "public/posts/2024/02",
-    "public/css/meme.min.1ce32a41067af092d1ceaba6d268dc5acdd8c7d1837acba78fc9c935751623de.css",
-    "public/tags/骑行/index.html",
-    "public/tags/随身wifi/index.html",
-    "public/tags/防晒/index.html",
-    "public/tags/过年/index.html",
-    "public/tags/踩坑/index.html",
     "public/icons/safari-pinned-tab.svg",
     "public/icons/mstile-150x150.png",
     "public/icons/apple-touch-icon.png",
     "public/icons/android-chrome-512x512.png",
     "content/posts/2024/01/20240128_最近的日常.md",
-    "content/posts/2024/02/20240207_最近的日常.md",
     "content/posts/2024/01/20240121_最近的日常.md",
     "content/posts/2024/01/20240107_最近的日常.md",
     "content/posts/2024/2024_有趣的网站.md",
-    "content/posts/2024/2024_有趣的工具.md",
     "content/posts/2024/01/20240114_最近的日常.md",
-    "content/posts/2024/2024_有趣的歌.md",
     "static/未命名.canvas",
     "static/日常/Welcome.md",
     "static/2024.md",
@@ -207,8 +209,6 @@
     "content/posts/2023/2023_有趣的歌.md",
     "content/posts/2023/12/20231217_最近的日常.md",
     "content/posts/2023/2023_有趣的博客.md",
-    "content/posts/2023/12/20231210_最近的日常.md",
-    "content/posts/2023/12/20231203_最近的日常.md",
     "Pasted image 20230619213819.png",
     "425B31DC.png",
     "361E0565.png",
