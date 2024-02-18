@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2023/06/20230611_最近的日常.md",
+                "file": "posts/2024/2024_有趣的歌.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2023/06/20230611_最近的日常.md",
+                "file": "posts/2024/2024_有趣的歌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2023/06/20230611_最近的日常.md",
+                "file": "posts/2024/2024_有趣的歌.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2023/06/20230611_最近的日常.md"
+                "file": "posts/2024/2024_有趣的歌.md"
               }
             }
           }
@@ -169,6 +169,7 @@
   },
   "active": "b31245120297638a",
   "lastOpenFiles": [
+    "links/_index.md",
     "posts/2023/06/20230604_新冠恢复中_加班_尝试生蚝_四川香肠真不错.md",
     "posts/2023/06/20230611_最近的日常.md",
     "posts/2023/2023_有趣的歌.md",
@@ -194,7 +195,6 @@
     "posts/2022/09/20220904_最近的日常.md",
     "posts/2023/04/20230430_20230430_绿皮火车硬座_amd7735hs_edge-s30-14G拍照_archlinux主机.md",
     "posts/2023/04/20230416_基于自研框架的ubus接口_落水跳蛛_通宵dota_随身wifi.md",
-    "posts/2023/2023_有趣的网站.md",
-    "posts/2023/02/20230227_加班干活_逐渐熟悉自行车_天气回暖_聚餐.md"
+    "posts/2023/2023_有趣的网站.md"
   ]
 }
