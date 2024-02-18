@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "72bdc36d6d46aef5",
+        "id": "a4bb49a56c1acf2d",
         "type": "tabs",
         "children": [
           {
-            "id": "55c6c12e5533bc47",
+            "id": "920be7d8fb56ce87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024/02/20240218_最近的日常.md",
+                "file": "content/posts/2024/02/20240211_最近的日常.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024/02/20240218_最近的日常.md",
+                "file": "content/posts/2024/02/20240211_最近的日常.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2024/02/20240218_最近的日常.md",
+                "file": "content/posts/2024/02/20240211_最近的日常.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2024/02/20240218_最近的日常.md"
+                "file": "content/posts/2024/02/20240211_最近的日常.md"
               }
             }
           },
@@ -166,24 +166,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "55c6c12e5533bc47",
+  "active": "920be7d8fb56ce87",
   "lastOpenFiles": [
+    "content/posts/2024/02/20240218_最近的日常.md",
+    "content/posts/2024/2024_有趣的网站.md",
+    "content/posts/2024/02/20240211_最近的日常.md",
+    "content/posts/2024/2024_有趣的歌.md",
+    "content/posts/2024/2024_有趣的工具.md",
+    "content/posts/2023/2023_有趣的歌.md",
     "public/posts/2024/02/20240218_最近的日常/index.html",
     "public/posts/2024/02/20240218_最近的日常",
-    "content/posts/2024/02/20240211_最近的日常.md",
-    "content/posts/2024/02/20240218_最近的日常.md",
     "public/posts/2024/02/20240204_最近的日常/index.html",
     "public/posts/2024/02/20240204_最近的日常",
     "public/posts/2024/02/20240211_最近的日常/index.html",
     "public/posts/2024/02/20240211_最近的日常",
     "content/posts/2024/02/20240204_最近的日常.md",
-    "content/posts/2024/2024_有趣的歌.md",
-    "content/posts/2024/2024_有趣的工具.md",
     "public/page/22/index.html",
     "public/page/22",
     "public/posts/2024/02/20240207_最近的日常/index.html",
     "public/posts/2024/02/20240207_最近的日常",
-    "public/posts/2024/02",
     "public/icons/safari-pinned-tab.svg",
     "public/icons/mstile-150x150.png",
     "public/icons/apple-touch-icon.png",
@@ -191,7 +192,6 @@
     "content/posts/2024/01/20240128_最近的日常.md",
     "content/posts/2024/01/20240121_最近的日常.md",
     "content/posts/2024/01/20240107_最近的日常.md",
-    "content/posts/2024/2024_有趣的网站.md",
     "content/posts/2024/01/20240114_最近的日常.md",
     "static/未命名.canvas",
     "static/日常/Welcome.md",
@@ -206,7 +206,6 @@
     "content/posts/2022/有趣的网站.md",
     "content/posts/2023/2023_有趣的网站.md",
     "content/posts/2023/12/20231224_最近的日常.md",
-    "content/posts/2023/2023_有趣的歌.md",
     "content/posts/2023/12/20231217_最近的日常.md",
     "content/posts/2023/2023_有趣的博客.md",
     "Pasted image 20230619213819.png",
