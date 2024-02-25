@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">汪先雨的博客</title>
     <subtitle type="html">汪先雨的博客</subtitle>
-    <updated>2024-02-18T23:31:48&#43;08:00</updated>
+    <updated>2024-02-25T21:08:21&#43;08:00</updated>
     <id>https://niantoudeyisi.github.io/</id>
     <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://niantoudeyisi.github.io/atom.xml" />
@@ -16,6 +16,102 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.122.0">Hugo</generator>
+        <entry>
+            <title type="text">20240225_最近的日常</title>
+            <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2024/02/20240225_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
+            <id>https://niantoudeyisi.github.io/posts/2024/02/20240225_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
+            <updated>2024-02-25T21:08:10&#43;08:00</updated>
+            <published>2024-02-18T23:32:17&#43;08:00</published>
+            <author>
+                    <name>汪先雨</name>
+                    <uri>https://niantoudeyisi.github.io</uri>
+                    <email>niantoudeyisi@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">周……</summary>
+            
+                <content type="html">&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;目前来看 git hugo 对于我而言的最佳实践就是 。clone 一份 main的repo 。然后在这个仓库中clone一份main2的repo 名字叫public即可。 这样push就是默认各自的branch。&lt;/p&gt;
+&lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;整理床单。&lt;/p&gt;
+&lt;p&gt;早上感觉没睡醒记不住的东西。。。&lt;/p&gt;
+&lt;p&gt;感觉相亲失败了。。。。唉。。。&lt;/p&gt;
+&lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;心好痛。好难过。。。&lt;/p&gt;
+&lt;p&gt;在想要不要去绕绕太湖。。。。是不是没去过的太湖才是最好的太湖。。。&lt;/p&gt;
+&lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;翻了一下以前赶来苏州拍的照片。。。有点记不清。这是地方我居然去过。。。&lt;/p&gt;
+&lt;p&gt;中午回家拿快递。撞到老板了。。。。哈人。。。真是被快递员害死了。。明明预约的周末。。。居然周四给我送过来了。。。&lt;/p&gt;
+&lt;p&gt;莫名想去看看日出。金鸡湖 似乎事业听开阔。。。。&lt;/p&gt;
+&lt;p&gt;自己似乎没办法，让女方喜欢自己。。。。真是失败的人生啊。。。&lt;/p&gt;
+&lt;p&gt;1kg香蕉大概六个左右&lt;/p&gt;
+&lt;p&gt;晚上骑车差点被人撞倒。。。也差点撞到人。。。忽然感觉骑车真不安全。。。。&lt;/p&gt;
+&lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今天苏州车祸好严重。。。。早上刷牙还看到楼下车子撞了电动车。&lt;/p&gt;
+&lt;p&gt;一个新同事离职了。。。&lt;/p&gt;
+&lt;p&gt;买奶粉送了一个摇摇杯。。。还怪不错的。很适合泡燕麦。&lt;/p&gt;
+&lt;p&gt;看完强风吹拂了。。。。想要跑起来了。。。感觉以前我是不是看完过这个。记不清了。。。&lt;/p&gt;
+&lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;b站搞直播的人真辛苦。。。。晚上开了个直播黑屏睡觉。。。md第二天早上我醒了还在播。我的天呐。。。。。以前还看过直播dota2的生病了也得天天播。。。&lt;/p&gt;
+&lt;p&gt;今天好冷。但是出去那个菜。那个快递上下四楼两次。感觉身上都暖和起来了。。。。如果是骑车的话 估计这会还是很很冷。。。感觉跑步之类得运动还是比骑车更适合冷天一点。&lt;/p&gt;
+&lt;p&gt;冲了一个chatgpt4 5刀 目前来看大概可以用一千六百多次。 感觉还行。&lt;/p&gt;
+&lt;p&gt;晚上骑车差点被逆行的电动车撞了。。。。离谱 。。。&lt;/p&gt;
+&lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;似乎每天都能看到小区里面的同一位老人。。。在四处拾荒收废纸。。。。真是愧疚。。。但自己什么也做不了。。。。什么也不能改变。。。。&lt;/p&gt;
+&lt;p&gt;昨天晚上睡不着。。。有点饿。就猪瘾犯了。。。吃完非常后悔。。。&lt;/p&gt;
+&lt;p&gt;买了一个平板。。感觉还行。很多年以前好几千的东西现在几百就能买到相媲美且全新的了。。。&lt;/p&gt;
+&lt;p&gt;感觉追人好麻烦。。。。上学时候没谈过恋爱。。。现在真是一点也不会。。。唉。。。患得患失的。。。&lt;/p&gt;
+&lt;p&gt;晚上洗澡发现食指和大拇指 开了一点浅浅的口子。。。离谱。我都不知道什么时候弄得。。。倒也没流血。&lt;/p&gt;
+&lt;p&gt;后面几个月似乎可以快活的骑车了。。。冬天骑车太折磨了。。。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/categories/2024%E6%97%A5%E5%B8%B8/" term="2024日常" label="2024日常" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/2024%E6%97%A5%E5%B8%B8/" term="2024日常" label="2024日常" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/git/" term="Git" label="Git" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">20240218_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2024/02/20240218_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
@@ -293,7 +389,7 @@ sudo pacman -S plasma-wayland-session
             <title type="text">20240128_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2024/01/20240128_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2024/01/20240128_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2024-02-17T00:00:16&#43;08:00</updated>
+            <updated>2024-02-18T23:32:29&#43;08:00</updated>
             <published>2024-01-28T21:35:25&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -389,7 +485,7 @@ sudo pacman -S plasma-wayland-session
             <title type="text">20240121_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2024/01/20240121_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2024/01/20240121_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2024-02-17T00:00:16&#43;08:00</updated>
+            <updated>2024-02-18T23:32:21&#43;08:00</updated>
             <published>2024-01-16T20:47:08&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -564,7 +660,7 @@ sudo pacman -S plasma-wayland-session
             <title type="text">2024_有趣的歌</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2024/2024_%E6%9C%89%E8%B6%A3%E7%9A%84%E6%AD%8C/" />
             <id>https://niantoudeyisi.github.io/posts/2024/2024_%E6%9C%89%E8%B6%A3%E7%9A%84%E6%AD%8C/</id>
-            <updated>2024-02-18T23:06:54&#43;08:00</updated>
+            <updated>2024-02-25T21:00:13&#43;08:00</updated>
             <published>2024-01-02T23:24:59&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -615,6 +711,24 @@ sudo pacman -S plasma-wayland-session
 &lt;li&gt;真好听啊&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;佛前祈&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;挺好听嘞。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;离开服务区 Out Of Service&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;真好听啊 。开头很惊艳&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;where memory had stopped&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;好听啊&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </content>
             
@@ -650,16 +764,24 @@ sudo pacman -S plasma-wayland-session
             <title type="text">2024_有趣的博客</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2024/2024_%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8D%9A%E5%AE%A2/" />
             <id>https://niantoudeyisi.github.io/posts/2024/2024_%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
-            <updated>2024-02-17T00:00:16&#43;08:00</updated>
+            <updated>2024-02-25T20:44:42&#43;08:00</updated>
             <published>2024-01-02T23:24:51&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
                     <uri>https://niantoudeyisi.github.io</uri>
                     <email>niantoudeyisi@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">02……</summary>
             
-                <content type="html"></content>
+                <content type="html">&lt;h2 id=&#34;02&#34;&gt;02&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kale1d0.space/about/&#34;&gt;https://kale1d0.space/about/&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;大佬的博客。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
             
             
             
