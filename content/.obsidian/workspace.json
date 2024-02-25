@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2024/2024_有趣的歌.md",
+                "file": "posts/2024/02/20240225_最近的日常.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2024/2024_有趣的歌.md",
+                "file": "posts/2024/02/20240225_最近的日常.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2024/2024_有趣的歌.md",
+                "file": "posts/2024/02/20240225_最近的日常.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2024/2024_有趣的歌.md"
+                "file": "posts/2024/02/20240225_最近的日常.md"
               }
             }
           }
@@ -169,6 +169,13 @@
   },
   "active": "b31245120297638a",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "posts/2024/2024_有趣的歌.md",
+    "posts/2024/02/20240225_最近的日常.md",
+    "posts/2024/2024_有趣的博客.md",
+    "posts/2024/02/20240218_最近的日常.md",
+    "posts/2024/01/20240128_最近的日常.md",
+    "posts/2024/01/20240121_最近的日常.md",
     "links/_index.md",
     "posts/2023/06/20230604_新冠恢复中_加班_尝试生蚝_四川香肠真不错.md",
     "posts/2023/06/20230611_最近的日常.md",
@@ -188,13 +195,6 @@
     "posts/2023/2023_有趣的博客.md",
     "posts/2022/07/树莓派的wifi,超频,ssh.md",
     "posts/2022/07/关于我所知道的Android刷机方案.md",
-    "posts/2022/07/20220710_今天的低效率工作.md",
-    "posts/2022/08/20220814_最近的日常.md",
-    "posts/2022/有趣的博客.md",
-    "posts/2023/04/20230409_苏州虎丘湿地公园_粘锅因素_生菜优化.md",
-    "posts/2022/09/20220904_最近的日常.md",
-    "posts/2023/04/20230430_20230430_绿皮火车硬座_amd7735hs_edge-s30-14G拍照_archlinux主机.md",
-    "posts/2023/04/20230416_基于自研框架的ubus接口_落水跳蛛_通宵dota_随身wifi.md",
-    "posts/2023/2023_有趣的网站.md"
+    "posts/2022/07/20220710_今天的低效率工作.md"
   ]
 }
