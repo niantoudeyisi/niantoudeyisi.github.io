@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2024/03/20240303_最近的日常.md",
+                "file": "posts/2024/03/20240310_最近的日常.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2024/03/20240303_最近的日常.md",
+                "file": "posts/2024/03/20240310_最近的日常.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2024/03/20240303_最近的日常.md",
+                "file": "posts/2024/03/20240310_最近的日常.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2024/03/20240303_最近的日常.md"
+                "file": "posts/2024/03/20240310_最近的日常.md"
               }
             }
           }
@@ -169,10 +169,11 @@
   },
   "active": "b31245120297638a",
   "lastOpenFiles": [
+    "posts/2024/03/20240303_最近的日常.md",
+    "posts/2024/03/20240310_最近的日常.md",
     "posts/2024/2024_有趣的网站.md",
     "posts/2024/2024_有趣的工具.md",
     "posts/2024/2024_有趣的博客.md",
-    "posts/2024/03/20240303_最近的日常.md",
     "posts/2024/02/20240225_最近的日常.md",
     "posts/2024/02/20240218_最近的日常.md",
     "posts/2024/2024_有趣的歌.md",
@@ -196,7 +197,6 @@
     "posts/2023/06",
     "posts/2023/2023_衣食住行.md",
     "posts/2023/2023_有趣的工具.md",
-    "posts/2023/2023_有趣的博客.md",
-    "posts/2022/07/树莓派的wifi,超频,ssh.md"
+    "posts/2023/2023_有趣的博客.md"
   ]
 }
