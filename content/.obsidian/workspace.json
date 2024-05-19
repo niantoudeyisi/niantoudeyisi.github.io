@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "83dccf16d0209e31",
+        "id": "4bb97364807bea1e",
         "type": "tabs",
         "children": [
           {
-            "id": "f74a032f7441adfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/2023/2023_衣食住行.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b31245120297638a",
+            "id": "3e7d51f9aaedb0eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "posts/2024/05/20240519_最近的日常.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "死",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,17 +154,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b31245120297638a",
+  "active": "3e7d51f9aaedb0eb",
   "lastOpenFiles": [
-    "posts/2024/05/20240512_最近的日常.md",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "posts/2023/2023_有趣的歌.md",
+    "posts/2024/2024_有趣的歌.md",
     "posts/2024/05/20240519_最近的日常.md",
+    "posts/2024/05/20240512_最近的日常.md",
     "posts/2024/05/20240505_最近的日常.md",
     "posts/2024/04/20240428_最近的日常.md",
     "posts/2024/2024_有趣的工具.md",
     "posts/2024/04/20240421_最近的日常.md",
     "posts/2024/05",
     "posts/2024/04/20240407_最近的日常.md",
-    "posts/2024/2024_有趣的歌.md",
     "posts/2024/2024_有趣的博客.md",
     "posts/2024/04/20240414_最近的日常.md",
     "posts/2024/03/20240331_最近的日常.md",
@@ -195,8 +185,6 @@
     "posts/2022/12/20221225_最近的日常.md",
     "posts/2022/12/20221218_最近的日常.md",
     "posts/2022/11/20221120_最近的日常.md",
-    "posts/2022/11/20221106_最近的日常.md",
-    "posts/2022/10/20221007_最近的日常.md",
     "posts/2024/03",
     "未命名.canvas",
     "posts/2023/06"
