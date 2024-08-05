@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2024/07/20240728_最近的日常.md",
+                "file": "posts/2024/08/20240804_最近的日常.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2024/07/20240728_最近的日常.md",
+                "file": "posts/2024/08/20240804_最近的日常.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2024/07/20240728_最近的日常.md",
+                "file": "posts/2024/08/20240804_最近的日常.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2024/07/20240728_最近的日常.md"
+                "file": "posts/2024/08/20240804_最近的日常.md"
               }
             }
           }
@@ -156,8 +156,10 @@
   },
   "active": "3e7d51f9aaedb0eb",
   "lastOpenFiles": [
-    "posts/2024/07/20240721_最近的日常.md",
     "posts/2024/07/20240728_最近的日常.md",
+    "posts/2024/08/20240804_最近的日常.md",
+    "posts/2024/08",
+    "posts/2024/07/20240721_最近的日常.md",
     "posts/2024/07/20240714_最近的日常.md",
     "posts/2024/06/20240630_最近的日常.md",
     "posts/2024/2024_有趣的工具.md",
@@ -187,7 +189,6 @@
     "posts/2024/03/20240331_最近的日常.md",
     "posts/2024/04",
     "posts/2024/03/20240324_最近的日常.md",
-    "posts/2023/03/20230319_鸡蛋横放的作用_抛弃花枝鼠_山地车后拨前拨调试更加熟悉_安装山地车链条_大佬一句话点拨_两位老人不同人生.md",
     "posts/2024/03",
     "未命名.canvas",
     "posts/2023/06"
