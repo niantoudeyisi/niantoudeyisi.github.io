@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>内存泄漏 on </title>
+    <link>//localhost:1313/tags/%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F/</link>
+    <description>Recent content in 内存泄漏 on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Jan 2023 19:54:09 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20230122_内存泄漏_回家过年</title>
+      <link>//localhost:1313/posts/2023/01/20230115_%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F_%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4/</link>
+      <pubDate>Sun, 15 Jan 2023 19:54:09 +0800</pubDate>
+      <guid>//localhost:1313/posts/2023/01/20230115_%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F_%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/1/IMG_20230120_091633771.jpg&#34; alt=&#34;全身家当2.0&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/1/IMG_20230120_113620223_HDR.jpg&#34; alt=&#34;春节回家好多人&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/1/IMG_20230120_133701692_HDR.jpg&#34; alt=&#34;南京转站&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/1/IMG_20230120_135512387_HDR.jpg&#34; alt=&#34;南京站好大好多人&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/1/IMG_20230120_154644849.jpg&#34; alt=&#34;回老家汽车上拍摄的长江&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/1/IMG_20230121_002610395.jpg&#34; alt=&#34;老家卧室&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;内存泄漏的问题。一看ps拉了好多odhcpd。。。不知道什么情况 重新搭了个环境再看看。500MB的内存直接干到16MB&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;今天好冷。在公司脚都是冷的。&lt;/p&gt;&#xA;&lt;p&gt;隔夜饭有点咸。微波炉热的有点烫嘴。&lt;/p&gt;&#xA;&lt;p&gt;笔记本没有电池好轻啊。&lt;/p&gt;&#xA;&lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;干活&lt;/p&gt;&#xA;&lt;p&gt;很多事情理清了思路。但是本质上还是没解决 。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;4kg大米有点重。&lt;/p&gt;&#xA;&lt;p&gt;整了块数位板真有意思。哈哈。 挺好玩的&lt;/p&gt;&#xA;&lt;p&gt;腊肉焖饭没我想象的好吃。 可能是肉不太好。下次再试试。&lt;/p&gt;&#xA;&lt;p&gt;shellclash挺好用。每次折腾新东西虽然会很累。但是都能学到新东西。&lt;/p&gt;&#xA;&lt;p&gt;发了年终奖。 给家里老人买了点钙片。 还是想买个椭圆机给他跑步的 ，感觉又不太想跑。&lt;/p&gt;&#xA;&lt;p&gt;手不知道为什么破了。冬天手上都没感觉。&lt;/p&gt;&#xA;&lt;p&gt;好冷这几天。&lt;/p&gt;&#xA;&lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

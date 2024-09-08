@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>工作 on </title>
+    <link>//localhost:1313/tags/%E5%B7%A5%E4%BD%9C/</link>
+    <description>Recent content in 工作 on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Jul 2022 23:16:55 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/%E5%B7%A5%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20220710_今天的低效率工作</title>
+      <link>//localhost:1313/posts/2022/07/20220710_%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%BD%8E%E6%95%88%E7%8E%87%E5%B7%A5%E4%BD%9C/</link>
+      <pubDate>Sun, 10 Jul 2022 23:16:55 +0800</pubDate>
+      <guid>//localhost:1313/posts/2022/07/20220710_%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%BD%8E%E6%95%88%E7%8E%87%E5%B7%A5%E4%BD%9C/</guid>
+      <description>&lt;h2 id=&#34;起因&#34;&gt;起因&lt;/h2&gt;&#xA;&lt;p&gt;​&#x9;今天工作效率很烂;虽然一直都很烂🤣;&lt;/p&gt;&#xA;&lt;p&gt;​&#x9;没有找到根本的问题原因，就光顾着操作。&lt;/p&gt;&#xA;&lt;p&gt;​&#x9;以后要先找出问题的出现点 然后分析 是页面还是后台问题；&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

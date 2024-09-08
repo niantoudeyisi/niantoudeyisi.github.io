@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Filebrowser on </title>
+    <link>//localhost:1313/tags/filebrowser/</link>
+    <description>Recent content in Filebrowser on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Dec 2022 18:30:27 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/filebrowser/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20221204_最近的日常</title>
+      <link>//localhost:1313/posts/2022/12/20221204_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</link>
+      <pubDate>Sun, 04 Dec 2022 18:30:27 +0800</pubDate>
+      <guid>//localhost:1313/posts/2022/12/20221204_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/12/IMG_20221201_114841981_HDR.jpg&#34; alt=&#34;工位蟑螂&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;12月份工位上还有个小蟑螂。好奇这个怎么过冬。。。&lt;/p&gt;&#xA;&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;&#xA;&lt;p&gt;最近好像也不会觉得累了。可能是习惯了。&lt;/p&gt;&#xA;&lt;p&gt;因为环境变更，重新run了个filebrowser&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;docker run -d &lt;span style=&#34;color:#ae81ff&#34;&gt;\&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;&lt;/span&gt;-v /xxx/xxx/filebrowser:/srv &lt;span style=&#34;color:#ae81ff&#34;&gt;\&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;&lt;/span&gt;-e PUID&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;$(&lt;/span&gt;id -u&lt;span style=&#34;color:#66d9ef&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;\&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;&lt;/span&gt;-e PGID&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;$(&lt;/span&gt;id -g&lt;span style=&#34;color:#66d9ef&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;\&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;&lt;/span&gt;-p x:80 &lt;span style=&#34;color:#ae81ff&#34;&gt;\&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;&lt;/span&gt;filebrowser/filebrowser:s6&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;逛v2ex&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.v2ex.com/t/898291?p=1&#34;&gt;https://www.v2ex.com/t/898291?p=1&lt;/a&gt;  看到44楼&lt;/p&gt;&#xA;&lt;p&gt;看到44大佬的说法。我还挺信服的。后面在看别人说的。以及后续回复。我也有点晕了。&lt;/p&gt;&#xA;&lt;p&gt;我以前高中看的三体。也就看着爽了。没想这么多。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

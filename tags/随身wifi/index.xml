@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>随身wifi on </title>
+    <link>//localhost:1313/tags/%E9%9A%8F%E8%BA%ABwifi/</link>
+    <description>Recent content in 随身wifi on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 09 Apr 2023 21:25:07 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/%E9%9A%8F%E8%BA%ABwifi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20230416_基于自研框架的ubus接口_落水跳蛛_通宵dota_随身wifi</title>
+      <link>//localhost:1313/posts/2023/04/20230416_%E5%9F%BA%E4%BA%8E%E8%87%AA%E7%A0%94%E6%A1%86%E6%9E%B6%E7%9A%84ubus%E6%8E%A5%E5%8F%A3_%E8%90%BD%E6%B0%B4%E8%B7%B3%E8%9B%9B_%E9%80%9A%E5%AE%B5dota_%E9%9A%8F%E8%BA%ABwifi/</link>
+      <pubDate>Sun, 09 Apr 2023 21:25:07 +0800</pubDate>
+      <guid>//localhost:1313/posts/2023/04/20230416_%E5%9F%BA%E4%BA%8E%E8%87%AA%E7%A0%94%E6%A1%86%E6%9E%B6%E7%9A%84ubus%E6%8E%A5%E5%8F%A3_%E8%90%BD%E6%B0%B4%E8%B7%B3%E8%9B%9B_%E9%80%9A%E5%AE%B5dota_%E9%9A%8F%E8%BA%ABwifi/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/4/PXL_20230408_071452818.jpg&#34; alt=&#34;苏州湿地公园-某栈道&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;又安排了新的任务。 注册一个ubus框架。给pon组用。。。搞一天。。。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;以前一直看别人说美v版。美v版。。。现在自己开始整pixel，才知道美v版多恶心。md。&lt;/p&gt;&#xA;&lt;p&gt;试了一下便宜的usb 4g模块。速度1MB/s 还行，就是openwrt识别不了md。。。&#xA;无法理解为什么现在还没有成品的类似于可插sim卡的安卓盒子的方案，或者可以不用电池的安卓小主机。。。感觉应该不是很难实现。&lt;/p&gt;&#xA;&lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;还需要参照原有的基于ubus的接口架构重新写一份。。。吐了。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;昨晚做梦梦到开的车子和骑得自行车丢在一个地方了。然后不能一起带回来。。一来一回四次会浪费一天时间然后很纠结。。。。离谱的梦。。。&lt;/p&gt;&#xA;&lt;p&gt;ubus接口参考了大佬的文章，https://blog.csdn.net/Xiao_brother/article/details/126210792?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168123103516800184180481%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&amp;amp;request_id=168123103516800184180481&amp;amp;biz_id=0&amp;amp;utm_medium=distribute.pc_search_result.none-task-blog-2&lt;del&gt;all&lt;/del&gt;first_rank_ecpm_v1~times_rank-2-126210792-null-null.142^v82^koosearch_v1,201^v4^add_ask,239^v2^insert_chatgpt&amp;amp;utm_term=openwrt%20ubus&amp;amp;spm=1018.2226.3001.4187。&lt;/p&gt;&#xA;&lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;搞了好几天的东西。对于甲方的大佬来说太简单了。。。好伤心。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;giffgaff手机卡到了。折腾了好久才知道打国外号码需要+44xxxx 。。&lt;/p&gt;&#xA;&lt;p&gt;早上骑车风吹的眼睛流泪的不行。。。晚上骑回家风很大。。第一次戴着眼镜也能进沙子。就离谱。&lt;/p&gt;&#xA;&lt;p&gt;房东主在我对面。就离谱。。。老小区一层两个房间。&lt;/p&gt;&#xA;&lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;早上拉开窗帘看到阳台上。养乌龟的容器水面上，有一个蜘蛛。我还以为是掉进去淹死的。。。用纸调处来发现还是活的。卧槽。。。然后仔细一看还是跳蛛。。。然后也野生的很有活力。直接蹦下去没抓住墙摔下去了。。。没爆肚 ，不知道有没有受伤能不能活下去。&lt;/p&gt;&#xA;&lt;p&gt;被同事问了什么时候结婚。。。&lt;/p&gt;&#xA;&lt;p&gt;早上被室友叫醒。。。莫名想到之前我也是这样叫另一个同事的。现在他走了。。。不知道该说些什么。&lt;/p&gt;&#xA;&lt;p&gt;晚上去拿快递，小区里面看到救护车。&lt;/p&gt;&#xA;&lt;p&gt;终峰定律。挺有意思的。&lt;/p&gt;&#xA;&lt;p&gt;莫名刷到了一个视频。了解到为什么受伤48h以内要冷敷，48h之后要热敷。。。之前知道这么么个事情。但是不知道原理。&lt;/p&gt;&#xA;&lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;感觉自己是真的菜。。。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

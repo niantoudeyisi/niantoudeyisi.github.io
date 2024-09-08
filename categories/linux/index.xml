@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on </title>
+    <link>//localhost:1313/categories/linux/</link>
+    <description>Recent content in Linux on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 16 Oct 2022 20:44:28 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Debian禁用ipv6</title>
+      <link>//localhost:1313/posts/2022/10/debian%E7%A6%81%E7%94%A8ipv6/</link>
+      <pubDate>Sun, 16 Oct 2022 20:44:28 +0800</pubDate>
+      <guid>//localhost:1313/posts/2022/10/debian%E7%A6%81%E7%94%A8ipv6/</guid>
+      <description>&lt;p&gt;vps下载github 的脚本不知道怎么下载不下来。禁用ipv6就好了原因未知。似乎是vps没ipv6导致&lt;/p&gt;&#xA;&lt;p&gt;网上的方案。现在是我的了  XD&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;临时禁用&#xD;&#xA;echo &amp;#34;1&amp;#34; &amp;gt; /proc/sys/net/ipv6/conf/all/disable_ipv6 临时禁用所有接口的ipv6&#xD;&#xA;echo &amp;#34;1&amp;#34; &amp;gt; /proc/sys/net/ipv6/conf/eth0/disable_ipv6 临时禁用eth0接口的ipv6&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;nano /etc/sysctl.conf&#xD;&#xA;&#xD;&#xA;net.ipv6.conf.all.disable_ipv6 = 1&#xD;&#xA;net.ipv6.conf.default.disable_ipv6 = 1&#xD;&#xA;net.ipv6.conf.lo.disable_ipv6 = 1&#xD;&#xA;然后sysctl -p&#xD;&#xA;看文档说sysctl命令是 内核运行时动态的修改内核的运行参数&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;p&gt;出处 &lt;a href=&#34;https://www.cnblogs.com/weihua2020/p/14083798.html&#34;&gt;https://www.cnblogs.com/weihua2020/p/14083798.html&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J4125 on </title>
+    <link>//localhost:1313/tags/j4125/</link>
+    <description>Recent content in J4125 on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Feb 2023 21:42:44 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/j4125/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20230212_阅读基于shell的代码实现_打算买自行车_奇怪的开销不对帐</title>
+      <link>//localhost:1313/posts/2023/02/20230212_%E9%98%85%E8%AF%BB%E5%9F%BA%E4%BA%8Eshell%E7%9A%84%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0_%E6%89%93%E7%AE%97%E4%B9%B0%E8%87%AA%E8%A1%8C%E8%BD%A6_%E5%A5%87%E6%80%AA%E7%9A%84%E5%BC%80%E9%94%80%E4%B8%8D%E5%AF%B9%E5%B8%90/</link>
+      <pubDate>Sun, 12 Feb 2023 21:42:44 +0800</pubDate>
+      <guid>//localhost:1313/posts/2023/02/20230212_%E9%98%85%E8%AF%BB%E5%9F%BA%E4%BA%8Eshell%E7%9A%84%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0_%E6%89%93%E7%AE%97%E4%B9%B0%E8%87%AA%E8%A1%8C%E8%BD%A6_%E5%A5%87%E6%80%AA%E7%9A%84%E5%BC%80%E9%94%80%E4%B8%8D%E5%AF%B9%E5%B8%90/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/2/IMG_20220830_075739651.jpg&#34; alt=&#34;草龟&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;一百多行的shell。看吐了。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;22端口封掉会导致git push失败，可以尝试使用443端口进行提交。&lt;/p&gt;&#xA;&lt;p&gt;pvetools 真好用啊！&lt;/p&gt;&#xA;&lt;p&gt;j4125跑win10 依托答辩。&lt;/p&gt;&#xA;&lt;p&gt;pve备份恢复挺方便 备份的压缩文件，拷贝后 在另一台pve上 qm restxxx 编号 即可。&lt;/p&gt;&#xA;&lt;p&gt;粗粮米好像量多又便宜。就是不知道口感怎么样&lt;/p&gt;&#xA;&lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;纯shell实现的easycwmp。看的好痛苦。之前都是功能可以对上。这次的功能感觉都是有问题。md。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;粗粮好硬。煮了和平时买的大米一样量。感觉下巴好累。要脱臼了。&lt;/p&gt;&#xA;&lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;没系统学过shell。写的好痛苦。各种奇怪的语法。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;因特尔uhd630核显。内存条单通道和双通道。dota2 帧数相差60多帧。。。离谱。&lt;/p&gt;&#xA;&lt;p&gt;打游戏有点卡想把两根8g换回笔记本。结果j4125单挑16g点不亮。我日。。。搜索研究了一下 发现挑颗粒的。吐了。&lt;/p&gt;&#xA;&lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;16g内存条到了。 装上之后感觉不如之前的两条8g。不知道是不是错觉。&lt;/p&gt;&#xA;&lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

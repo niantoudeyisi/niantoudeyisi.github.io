@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android on </title>
+    <link>//localhost:1313/tags/android/</link>
+    <description>Recent content in Android on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Jul 2022 22:59:48 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于我所知道的Android刷机方案</title>
+      <link>//localhost:1313/posts/2022/07/%E5%85%B3%E4%BA%8E%E6%88%91%E6%89%80%E7%9F%A5%E9%81%93%E7%9A%84android%E5%88%B7%E6%9C%BA%E6%96%B9%E6%A1%88/</link>
+      <pubDate>Sun, 10 Jul 2022 22:59:48 +0800</pubDate>
+      <guid>//localhost:1313/posts/2022/07/%E5%85%B3%E4%BA%8E%E6%88%91%E6%89%80%E7%9F%A5%E9%81%93%E7%9A%84android%E5%88%B7%E6%9C%BA%E6%96%B9%E6%A1%88/</guid>
+      <description>&lt;h2 id=&#34;背景&#34;&gt;背景&lt;/h2&gt;&#xA;&lt;p&gt;​&#x9;很久以前做过的操作了；这边就是简单的记录一下&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;这几天沉迷刷机 索尼xp 小米8lite 小米平板1&lt;/p&gt;&#xA;&lt;p&gt;索尼xp刷得很顺利 一步到位。&lt;/p&gt;&#xA;&lt;p&gt;小米8lite 也很顺利刷成pixel的系统 是真的好用。下一步手机就决定pixel了。（最近的一次刷机已经刷挂掉了，暂时也没时间修复 。2020.7.10）&lt;/p&gt;&#xA;&lt;p&gt;然后小米平板1 出了点问题 。我猜测是rom有问题。&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;感谢这个网站&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;的大佬们。&lt;/p&gt;&#xA;&lt;h2 id=&#34;过程&#34;&gt;过程&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;充满电&lt;/li&gt;&#xA;&lt;li&gt;解bl&lt;/li&gt;&#xA;&lt;li&gt;刷twrp&lt;/li&gt;&#xA;&lt;li&gt;刷rom 双清  四清&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;问题&#34;&gt;问题&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;1 需要注意twrp 是否是可用的&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;常用指令&#34;&gt;常用指令&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;fastboot flash recovery twrp.img&lt;/p&gt;&#xA;&lt;p&gt;fastboot oem reboot-recovery&lt;/p&gt;&#xA;&lt;p&gt;adb sideload Magisk.zip&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;感受&#34;&gt;感受&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;xda刷各种rom是真的快乐。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

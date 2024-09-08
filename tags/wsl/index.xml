@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WSL on </title>
+    <link>//localhost:1313/tags/wsl/</link>
+    <description>Recent content in WSL on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Jun 2023 22:55:30 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/wsl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20230611_2T固态_WSL_黑苹果失败_gentoo失败</title>
+      <link>//localhost:1313/posts/2023/06/20230611_2t%E5%9B%BA%E6%80%81_wsl_%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%A4%B1%E8%B4%A5_gentoo%E5%A4%B1%E8%B4%A5/</link>
+      <pubDate>Sun, 04 Jun 2023 22:55:30 +0800</pubDate>
+      <guid>//localhost:1313/posts/2023/06/20230611_2t%E5%9B%BA%E6%80%81_wsl_%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%A4%B1%E8%B4%A5_gentoo%E5%A4%B1%E8%B4%A5/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/06/PXL_20230611_095121450.jpg&#34; alt=&#34;小青&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;买了一块2t的 m2固态。。。不知道这个时间点算不算抄底。&lt;/p&gt;&#xA;&lt;p&gt;老初号机 m2只支持pcie3 。本来还打算把这块硬盘给初号机。。。一般都跑不到。。。&#xA;网上看了一下性能。前段时间2k买的小主机比我上大学那会8k的笔记本性能好了好几倍。。。&lt;/p&gt;&#xA;&lt;p&gt;折腾了一会wsl。最终放弃wsl2 。IP弄不好&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-vbs&#34; data-lang=&#34;vbs&#34;&gt;CreateObject(&amp;#34;Wscript.Shell&amp;#34;).run &amp;#34;wsl&amp;#34;, vbhide&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;会了一手 dd命令格式化和刷openwrt的方法。真有意思&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;dd &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;/xxx文件 of&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;/dev/sdx&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;dd &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;/dev/zero of&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;/dev/xxx&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pr</description>
+    </item>
+  </channel>
+</rss>

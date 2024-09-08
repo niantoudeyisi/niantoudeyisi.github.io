@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plex on </title>
+    <link>//localhost:1313/tags/plex/</link>
+    <description>Recent content in Plex on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Jan 2023 20:49:16 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/plex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20230130_熟悉自己做饭_体验armbian_整理目前所学_体验hdmi采集卡</title>
+      <link>//localhost:1313/posts/2023/01/20230130_%E7%86%9F%E6%82%89%E8%87%AA%E5%B7%B1%E5%81%9A%E9%A5%AD_%E4%BD%93%E9%AA%8Carmbian_%E6%95%B4%E7%90%86%E7%9B%AE%E5%89%8D%E6%89%80%E5%AD%A6_%E4%BD%93%E9%AA%8Chdmi%E9%87%87%E9%9B%86%E5%8D%A1/</link>
+      <pubDate>Mon, 30 Jan 2023 20:49:16 +0800</pubDate>
+      <guid>//localhost:1313/posts/2023/01/20230130_%E7%86%9F%E6%82%89%E8%87%AA%E5%B7%B1%E5%81%9A%E9%A5%AD_%E4%BD%93%E9%AA%8Carmbian_%E6%95%B4%E7%90%86%E7%9B%AE%E5%89%8D%E6%89%80%E5%AD%A6_%E4%BD%93%E9%AA%8Chdmi%E9%87%87%E9%9B%86%E5%8D%A1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/2023/2/IMG_20230204_131954359_HDR.jpg&#34; alt=&#34;葱&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;买菜送的葱。这也能开花离谱。&lt;/p&gt;&#xA;&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;干活&lt;/p&gt;&#xA;&lt;p&gt;满载摆了三次。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;东北大米md颗粒大煮熟了之后分量却很少。。。&lt;/p&gt;&#xA;&lt;p&gt;料理包的狮子头好难吃。md 吃完脑壳疼&lt;/p&gt;&#xA;&lt;p&gt;买了点雪梨吃 。好像没吃过&lt;/p&gt;&#xA;&lt;p&gt;n1刷了个armbian。 刷openwrt有点蜜汁问题。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;技术&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;看了一下zsh主题。目前我比较习惯的是bureau主题 。&lt;/p&gt;&#xA;&lt;p&gt;n1 刷openwrt之后，想刷armbian 只要系统写到U盘在拔电重启就可以直接进U盘了。然后执行相关脚本将系统写入emmc&lt;/p&gt;&#xA;&lt;p&gt;如果之前是机顶盒系统还需要adb reboot一下进行重启&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;adb kill-server&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;adb connect xxx &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;adb devices&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;adb shell reboot update&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;linux命令行下 开关网卡 ifconfig xxxname  up/down (临时)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

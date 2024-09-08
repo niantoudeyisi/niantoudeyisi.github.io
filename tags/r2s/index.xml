@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R2S on </title>
+    <link>//localhost:1313/tags/r2s/</link>
+    <description>Recent content in R2S on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 18 Sep 2022 20:02:33 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/r2s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20220918_最近的日常</title>
+      <link>//localhost:1313/posts/2022/09/20220918_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</link>
+      <pubDate>Sun, 18 Sep 2022 20:02:33 +0800</pubDate>
+      <guid>//localhost:1313/posts/2022/09/20220918_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nianyisi/20220717/main/09/IMG_20220917_102418870.jpg&#34; alt=&#34;阳澄湖骑行&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;常常会莫名的思考。然后思考的思考。&lt;/p&gt;&#xA;&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;&#xA;&lt;p&gt;好累。&lt;/p&gt;&#xA;&lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;&#xA;&lt;p&gt;干活好累。&lt;/p&gt;&#xA;&lt;p&gt;好像很好用的r2s固件。以后有时间试试 &lt;a href=&#34;https://github.com/QiuSimons/YAOF&#34;&gt;https://github.com/QiuSimons/YAOF&lt;/a&gt;；比现在用的小很多。洁癖怪很向往😀&lt;/p&gt;&#xA;&lt;p&gt;给r2s换7921硅脂。似乎可以降温六七度不辍。 目前换了小风扇实测四核心满载有点压不住的趋势。三核跑满可以稳定压住；(只测了一分钟 实际情况可能会有出入)&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;dd if=/dev/zero of=/dev/null &amp;amp;    可以单核跑满&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;&#xA;&lt;p&gt;干活好累。&lt;/p&gt;&#xA;&lt;p&gt;面包机莫名开了一天。&lt;/p&gt;&#xA;&lt;p&gt;无聊折腾以前买的glinet路由器。以前不了解。现在发现wifi速率真的差。也不知道是之前用坏掉了还是本来就这样的。清晰的记得在学校宿舍感觉不是很差。也可能是回忆的滤镜。&lt;/p&gt;&#xA;&lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;&#xA;&lt;p&gt;干活好累。&lt;/p&gt;&#xA;&lt;p&gt;申请中国银行visa借记卡总是失败。尝试网页抓包看看失败原因。但是好像是不给看了 。导致我现在看不来了。&#xA;自己研究一下。好像是我预留手机和银行卡不一致导致。我特么根本没办过中国银行银行卡。查了一下网上也有人遇到我这种情况。似乎去中国银行去更新一下信息就好了。 懒得去了。好远 。一来一回俩小时。还不知道会不会排队。 申请招商银行visa卡算了。&lt;/p&gt;&#xA;&lt;p&gt;打了两把dota 都输了 md。第一把会玩的被ban了。第二把 愣是打不过对面。后期阵容有点劣势。&lt;/p&gt;&#xA;&lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;&#xA;&lt;p&gt;干活好累。&lt;/p&gt;&#xA;&lt;p&gt;有时候会看到零几年的论坛网站。然后没有新的内容。还真是。令人感叹。&lt;/p&gt;&#xA;&lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;&#xA;&lt;p&gt;团建去阳澄湖骑自行车。途中发现。娄江大道还挺适合钓鱼 溜达的。&#xA;蹬了约十四公里，回家一点也不累。虽然第二天有点腰酸背痛。 但感觉运动强度没跑步厉害。奇怪。&#xA;本来是不打算骑车的。半小时15块有点贵。好心的组长。借我休闲年卡骑了一下。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
