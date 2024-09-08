@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 08 Sep 2024 18:55:25 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 08 Sep 2024 19:03:03 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://niantoudeyisi.github.io/rss.xml" />
         
@@ -61,6 +61,7 @@
 &lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;没事干 又开始迁移环境。。。。 最近发现 搭建git 环境 越来越简单了。 win可以直接在控制面板配置token和username  ，直接clone仓库 然后 git config --global user.email 配置后直接push即可&lt;/p&gt;
 </description>
                 
                 

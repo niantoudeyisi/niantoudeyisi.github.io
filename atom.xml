@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">汪先雨的博客</title>
     <subtitle type="html">汪先雨的博客</subtitle>
-    <updated>2024-09-08T18:55:25&#43;08:00</updated>
+    <updated>2024-09-08T19:03:03&#43;08:00</updated>
     <id>https://niantoudeyisi.github.io/</id>
     <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://niantoudeyisi.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">20240908_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2024/09/20240908_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2024/09/20240908_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2024-09-08T18:52:54&#43;08:00</updated>
+            <updated>2024-09-08T19:02:56&#43;08:00</updated>
             <published>2024-09-01T22:24:41&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -53,6 +53,7 @@
 &lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;没事干 又开始迁移环境。。。。 最近发现 搭建git 环境 越来越简单了。 win可以直接在控制面板配置token和username  ，直接clone仓库 然后 git config --global user.email 配置后直接push即可&lt;/p&gt;
 </content>
             
             
