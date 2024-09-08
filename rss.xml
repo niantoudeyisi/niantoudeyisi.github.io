@@ -10,7 +10,7 @@
         <title>汪先雨的博客</title>
         <link>https://niantoudeyisi.github.io/</link>
         <description>汪先雨的博客</description>
-        <generator>Hugo 0.122.0 https://gohugo.io/</generator>
+        <generator>Hugo 0.134.1 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Wed, 04 Sep 2024 00:32:23 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 08 Sep 2024 18:55:25 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://niantoudeyisi.github.io/rss.xml" />
         
@@ -3444,10 +3444,19 @@ sudo pacman -S plasma-wayland-session
 &lt;/li&gt;
 &lt;li&gt;sharedrop
 &lt;ul&gt;
-&lt;li&gt;局域网分享app&lt;/li&gt;
+&lt;li&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;局域网分享app&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;8&#34;&gt;8&lt;/h2&gt;
 &lt;ul&gt;
@@ -4272,7 +4281,7 @@ sudo pacman -S plasma-wayland-session
             </item>
         
             <item>
-                <title>20231029_</title>
+                <title>20231029_最近的日常</title>
                 <link>https://niantoudeyisi.github.io/posts/2023/10/20231029_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</link>
                 <guid isPermaLink="true">https://niantoudeyisi.github.io/posts/2023/10/20231029_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</guid>
                 <pubDate>Sun, 22 Oct 2023 20:58:07 &#43;0800</pubDate>
@@ -6873,7 +6882,7 @@ Omega-3脂肪酸，吃鱼油胶囊
 &lt;p&gt;还需要参照原有的基于ubus的接口架构重新写一份。。。吐了。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;昨晚做梦梦到开的车子和骑得自行车丢在一个地方了。然后不能一起带回来。。一来一回四次会浪费一天时间然后很纠结。。。。离谱的梦。。。&lt;/p&gt;
-&lt;p&gt;ubus接口参考了大佬的文章，https://blog.csdn.net/Xiao_brother/article/details/126210792?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168123103516800184180481%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&amp;amp;request_id=168123103516800184180481&amp;amp;biz_id=0&amp;amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~times_rank-2-126210792-null-null.142^v82^koosearch_v1,201^v4^add_ask,239^v2^insert_chatgpt&amp;amp;utm_term=openwrt%20ubus&amp;amp;spm=1018.2226.3001.4187。&lt;/p&gt;
+&lt;p&gt;ubus接口参考了大佬的文章，https://blog.csdn.net/Xiao_brother/article/details/126210792?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168123103516800184180481%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&amp;amp;request_id=168123103516800184180481&amp;amp;biz_id=0&amp;amp;utm_medium=distribute.pc_search_result.none-task-blog-2&lt;del&gt;all&lt;/del&gt;first_rank_ecpm_v1~times_rank-2-126210792-null-null.142^v82^koosearch_v1,201^v4^add_ask,239^v2^insert_chatgpt&amp;amp;utm_term=openwrt%20ubus&amp;amp;spm=1018.2226.3001.4187。&lt;/p&gt;
 &lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;搞了好几天的东西。对于甲方的大佬来说太简单了。。。好伤心。&lt;/p&gt;
@@ -10112,7 +10121,7 @@ march=native
 &lt;p&gt;跟着团建省了一顿饭钱。&lt;/p&gt;
 &lt;p&gt;胡子好像有有点长了。 刮了一下胡子。&lt;/p&gt;
 &lt;p&gt;打算买个帽子。后面骑车用。(周日回头来看。大概率是不打算买了。)&lt;/p&gt;
-&lt;p&gt;~~打算整个自行车耍耍~·~&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;del&gt;打算整个自行车耍耍&lt;/del&gt;·&lt;/del&gt;&lt;/p&gt;
 &lt;p&gt;ddns莫名失效。 不知道是防火墙原因还是上游原因。&lt;/p&gt;
 &lt;p&gt;整了两个多肉养养&lt;/p&gt;
 &lt;p&gt;今天提交代码review。秒done。。&lt;/p&gt;
