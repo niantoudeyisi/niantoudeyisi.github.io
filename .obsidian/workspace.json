@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024/09/20240908_最近的日常.md",
+                "file": "content/posts/2024/09/20240915_最近的日常.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024/09/20240908_最近的日常.md",
+                "file": "content/posts/2024/09/20240915_最近的日常.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2024/09/20240908_最近的日常.md",
+                "file": "content/posts/2024/09/20240915_最近的日常.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2024/09/20240908_最近的日常.md"
+                "file": "content/posts/2024/09/20240915_最近的日常.md"
               }
             }
           },
@@ -168,6 +168,16 @@
   },
   "active": "bf2f3fe34b10425d",
   "lastOpenFiles": [
+    "public/posts/2024/09/20240915_最近的日常/index.html",
+    "public/posts/2024/09/20240915_最近的日常",
+    "content/posts/2024/2024_有趣的博客.md",
+    "content/posts/2024/2024_有趣的网站.md",
+    "content/posts/2024/2024_有趣的工具.md",
+    "content/posts/2024/09/20240915_最近的日常.md",
+    "19D5CF12.png",
+    "content/posts/2024/09/20240908_最近的日常.md",
+    "content/posts/2024/09/20240901_最近的日常.md",
+    "content/posts/2024/2024_有趣的歌.md",
     "config.toml",
     "public/tags/n1/index.xml",
     "public/tags/linux/index.xml",
@@ -177,8 +187,6 @@
     "public/tags/git/index.xml",
     "public/tags/hugo/index.xml",
     "public/tags/debian/index.xml",
-    "public/categories/2023日常/index.xml",
-    "public/tags/2023日常/index.xml",
     "themes/stack/exampleSite/content/post/rich-content/index.md",
     "themes/stack/exampleSite/content/post/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg",
     "themes/stack/exampleSite/content/post/placeholder-text/index.md",
@@ -203,17 +211,9 @@
     "themes/stack/exampleSite/content/categories/Test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg",
     "themes/stack/exampleSite/content/_index.zh-cn.md",
     "themes/stack/exampleSite/content/_index.md",
-    "themes/stack/assets/img/avatar.png",
     "themes/stack/exampleSite/README.md",
     "themes/stack/archetypes/tags.md",
     "themes/stack/archetypes/default.md",
-    "themes/stack/archetypes/categories.md",
-    "themes/stack/README.md",
-    "themes/hugo-theme-stack-master/exampleSite/content/post/rich-content/index.md",
-    "themes/hugo-theme-stack-master/exampleSite/content/post/placeholder-text/index.md",
-    "themes/hugo-theme-stack-master/exampleSite/content/post/placeholder-text/index.ar.md",
-    "themes/hugo-theme-stack-master/exampleSite/content/post/math-typesetting/index.md",
-    "themes/hugo-theme-stack-master/exampleSite/content/post/markdown-syntax/index.md",
     "public/未命名.canvas",
     "niantoudeyisi.github.io/未命名.canvas",
     "static/未命名.canvas"
