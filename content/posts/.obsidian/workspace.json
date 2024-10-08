@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/09/20240929_最近的日常.md",
+                "file": "2024/10/20241006_最近的日常.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/09/20240929_最近的日常.md",
+                "file": "2024/10/20241006_最近的日常.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/09/20240929_最近的日常.md",
+                "file": "2024/10/20241006_最近的日常.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/09/20240929_最近的日常.md"
+                "file": "2024/10/20241006_最近的日常.md"
               }
             }
           }
@@ -148,9 +148,12 @@
   },
   "active": "2e32c105ee46b083",
   "lastOpenFiles": [
+    "2024/09/20240929_最近的日常.md",
+    "2024/10/20241006_最近的日常.md",
+    "2024/10",
+    "2024/09/20241006_最近的日常.md",
     "2024/09/20240922_最近的日常.md",
     "2024/2024_有趣的歌.md",
-    "2024/09/20240929_最近的日常.md",
     "2024/2024_有趣的工具.md",
     "2024/09/20240915_最近的日常.md"
   ]
