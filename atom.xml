@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">汪先雨的博客</title>
     <subtitle type="html">汪先雨的博客</subtitle>
-    <updated>2024-11-10T23:13:42&#43;08:00</updated>
+    <updated>2024-11-17T20:56:14&#43;08:00</updated>
     <id>https://niantoudeyisi.github.io/</id>
     <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://niantoudeyisi.github.io/atom.xml" />
@@ -16,6 +16,85 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.135.0">Hugo</generator>
+        <entry>
+            <title type="text">20241117_最近的日常</title>
+            <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2024/11/20241117_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
+            <id>https://niantoudeyisi.github.io/posts/2024/11/20241117_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
+            <updated>2024-11-17T20:55:54&#43;08:00</updated>
+            <published>2024-11-10T23:14:25&#43;08:00</published>
+            <author>
+                    <name>汪先雨</name>
+                    <uri>https://niantoudeyisi.github.io</uri>
+                    <email>niantoudeyisi@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;……</summary>
+            
+                <content type="html">&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;感觉自己弄个公司还挺麻烦的。。。还是打工方便。。&lt;/p&gt;
+&lt;p&gt;再也不买 glinet的路由器了。。。总感觉有定时报废计划。。。用了几年就感觉比刚买拉了很多。&lt;/p&gt;
+&lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不知不觉 又学了一年日语。啥也不会。md。。。&lt;/p&gt;
+&lt;p&gt;这几天晚上小区都有个女的坐在外面地上。也不知道什么情况。&lt;/p&gt;
+&lt;p&gt;感觉打搅越来越没意思了。。。似乎对性没什么感觉了。&lt;/p&gt;
+&lt;p&gt;劣质安全套体验很差。md。。。。&lt;/p&gt;
+&lt;p&gt;突然收到老家派出所的电话。人口普查了。问了一下我人在哪。。。然后就挂了。。也不知道是普查什么。&lt;/p&gt;
+&lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;年纪大了。不能暴饮暴食了。。。以前 随便胡吃海喝。屁事没有。现在有点难受了。&lt;/p&gt;
+&lt;p&gt;感觉 人生还是需要 多扩大眼界。。。看得多懂得多，选择才多。&lt;/p&gt;
+&lt;p&gt;手机有点滑 摔了。&lt;/p&gt;
+&lt;p&gt;下雨天骑车 差点摔了。。md。&lt;/p&gt;
+&lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;没事干 装了会 arch  nixos opensuse。。。都有点小毛病。。。。遭不住。win实在是用腻了。&lt;/p&gt;
+&lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这个星期 也没什么提升。倒是经常去健身房。。汗出了不少。 感觉人挺舒服。&lt;/p&gt;
+&lt;p&gt;14度 有点冷了。。。不能暴露大腿去骑车。有点遭不住。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/categories/2024%E6%97%A5%E5%B8%B8/" term="2024日常" label="2024日常" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/2024%E6%97%A5%E5%B8%B8/" term="2024日常" label="2024日常" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">20241110_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2024/11/20241110_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
@@ -4087,7 +4166,7 @@ sudo pacman -S plasma-wayland-session
             <title type="text">2024_有趣的博客</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2024/2024_%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8D%9A%E5%AE%A2/" />
             <id>https://niantoudeyisi.github.io/posts/2024/2024_%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
-            <updated>2024-10-13T20:59:52&#43;08:00</updated>
+            <updated>2024-11-17T20:50:22&#43;08:00</updated>
             <published>2024-01-02T23:24:51&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -4161,6 +4240,14 @@ sudo pacman -S plasma-wayland-session
 &lt;p&gt;&lt;a href=&#34;https://a-wing.top/&#34;&gt;Hi! 上天不? | 新一的个人博客 (a-wing.top)&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;tql。创业大佬。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;11&#34;&gt;11&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://thiscute.world/&#34;&gt;https://thiscute.world/&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;nixos大佬博客&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
