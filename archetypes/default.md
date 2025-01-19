@@ -3,9 +3,9 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: false
 categories:
-- 2024日常
+- 2025日常
 tags:
-- 2024日常
+- 2025日常
 ---
 
 
