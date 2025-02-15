@@ -10,7 +10,7 @@
         <title>汪先雨的博客</title>
         <link>https://niantoudeyisi.github.io/</link>
         <description>汪先雨的博客</description>
-        <generator>Hugo 0.135.0 https://gohugo.io/</generator>
+        <generator>Hugo 0.128.2 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
@@ -23,10 +23,71 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 09 Feb 2025 20:10:46 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 16 Feb 2025 00:24:33 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://niantoudeyisi.github.io/rss.xml" />
         
+        
+            <item>
+                <title>20250216_最近的日常</title>
+                <link>https://niantoudeyisi.github.io/posts/2025/02/20250216_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</link>
+                <guid isPermaLink="true">https://niantoudeyisi.github.io/posts/2025/02/20250216_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</guid>
+                <pubDate>Sun, 16 Feb 2025 00:19:11 &#43;0800</pubDate>
+                
+                    <author>niantoudeyisi@gmail.com (汪先雨)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/categories/2025%E6%97%A5%E5%B8%B8/">2025日常</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://niantoudeyisi.github.io/tags/2025%E6%97%A5%E5%B8%B8/">2025日常</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>20250209_最近的日常</title>
@@ -5641,10 +5702,17 @@ sudo pacman -S plasma-wayland-session
 &lt;/li&gt;
 &lt;li&gt;sharedrop
 &lt;ul&gt;
-&lt;li&gt;局域网分享app&lt;/li&gt;
+&lt;li&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;局域网分享app&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;8&#34;&gt;8&lt;/h2&gt;
 &lt;ul&gt;
