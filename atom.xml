@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">汪先雨的博客</title>
     <subtitle type="html">汪先雨的博客</subtitle>
-    <updated>2025-02-16T00:24:33&#43;08:00</updated>
+    <updated>2025-02-16T20:03:06&#43;08:00</updated>
     <id>https://niantoudeyisi.github.io/</id>
     <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://niantoudeyisi.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">20250216_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2025/02/20250216_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2025/02/20250216_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2025-02-16T00:19:11&#43;08:00</updated>
+            <updated>2025-02-16T20:02:24&#43;08:00</updated>
             <published>2025-02-16T00:19:11&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -32,24 +32,44 @@
                 <content type="html">&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;尝试amd 降频1Ghz  做gal串流机。 功耗还挺不错。一个月大概6度电。&lt;/p&gt;
+&lt;p&gt;有点想把树莓派5卖掉了。。。感觉没啥用途了。&lt;/p&gt;
+&lt;p&gt;做梦梦到老爸趋势了。。。一开始自己还没感觉后来越来越难受。。。好几把吓人。。。&lt;/p&gt;
+&lt;p&gt;还好只是梦。。。差点感觉有点分不清梦和现实了。有些恐怖。&lt;/p&gt;
+&lt;p&gt;intel笔记本降频似乎功耗不如amd的。。&lt;/p&gt;
+&lt;p&gt;网易云前几天才听的歌。今天看被版权ban了。。。难顶。。。&lt;/p&gt;
+&lt;p&gt;c300 上联板 似乎用的是特殊的电模块。。。麻烦。&lt;/p&gt;
 &lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;linux 降频模式是powersave&lt;/p&gt;
+&lt;p&gt;看了一下 箱根跑步比赛。2分配 妈耶。。。看的人好热血。&lt;/p&gt;
 &lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;终于能一口气跑 好几公里了。。虽然心率贼高 但是身体事后感觉好爽。&lt;/p&gt;
+&lt;p&gt;摸护手霜似乎手不怎么蜕皮了。&lt;/p&gt;
 &lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;似乎全脚掌落地的方法更适合 慢跑。&lt;/p&gt;
+&lt;p&gt;做了个好奇怪的梦。梦到被老妈拿着晾衣架追着打。。。&lt;/p&gt;
+&lt;p&gt;有点好奇水仙的剧情。&lt;/p&gt;
+&lt;p&gt;今天突然 六七年前的音乐评论被别人点赞。。。音乐似乎是可以跨越时空。&lt;/p&gt;
+&lt;p&gt;最近发现年纪越大似乎越来越耐饿了。&lt;/p&gt;
 &lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;装甲恶鬼村正。似乎是个很有趣的故事。&lt;/p&gt;
+&lt;p&gt;在想要不要试试自考。。。md 看了点题目 脑壳疼。。。&lt;/p&gt;
 &lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;晚上十点出去跑步。居然还有很多人才下班一样。。。&lt;/p&gt;
 &lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;下午出去跑步 居然在湖边看到夜鹭。。。还是第一次看到实物。。。&lt;/p&gt;
 </content>
             
             
@@ -84,7 +104,7 @@
             <title type="text">20250209_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2025/02/20250209_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
             <id>https://niantoudeyisi.github.io/posts/2025/02/20250209_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
-            <updated>2025-02-16T00:10:28&#43;08:00</updated>
+            <updated>2025-02-16T00:55:20&#43;08:00</updated>
             <published>2025-02-04T22:04:02&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -561,7 +581,7 @@
             <title type="text">2025_有趣的工具</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2025/2025_%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B7%A5%E5%85%B7/" />
             <id>https://niantoudeyisi.github.io/posts/2025/2025_%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B7%A5%E5%85%B7/</id>
-            <updated>2025-02-16T00:10:28&#43;08:00</updated>
+            <updated>2025-02-16T19:54:32&#43;08:00</updated>
             <published>2025-01-05T23:31:47&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -597,6 +617,9 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;2&#34;&gt;2&lt;/h2&gt;
+&lt;p&gt;-&lt;a href=&#34;https://getflclash.net/&#34;&gt;FlClash 介绍、下载、教程、GitHub - FlClash&lt;/a&gt;
+发现一个很好看的clash客户端。&lt;/p&gt;
 </content>
             
             
@@ -631,7 +654,7 @@
             <title type="text">2025_有趣的歌</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2025/2025_%E6%9C%89%E8%B6%A3%E7%9A%84%E6%AD%8C/" />
             <id>https://niantoudeyisi.github.io/posts/2025/2025_%E6%9C%89%E8%B6%A3%E7%9A%84%E6%AD%8C/</id>
-            <updated>2025-02-16T00:10:28&#43;08:00</updated>
+            <updated>2025-02-16T19:53:56&#43;08:00</updated>
             <published>2025-01-05T23:31:37&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
