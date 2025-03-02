@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">汪先雨的博客</title>
     <subtitle type="html">汪先雨的博客</subtitle>
-    <updated>2025-02-23T20:53:26&#43;08:00</updated>
+    <updated>2025-03-02T21:10:48&#43;08:00</updated>
     <id>https://niantoudeyisi.github.io/</id>
     <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://niantoudeyisi.github.io/atom.xml" />
@@ -16,6 +16,91 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.128.2">Hugo</generator>
+        <entry>
+            <title type="text">20250302_最近的日常</title>
+            <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2025/03/20250302_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
+            <id>https://niantoudeyisi.github.io/posts/2025/03/20250302_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
+            <updated>2025-03-02T21:09:40&#43;08:00</updated>
+            <published>2025-02-23T20:54:11&#43;08:00</published>
+            <author>
+                    <name>汪先雨</name>
+                    <uri>https://niantoudeyisi.github.io</uri>
+                    <email>niantoudeyisi@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">周……</summary>
+            
+                <content type="html">&lt;h2 id=&#34;周一&#34;&gt;周一&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;好快。这就3月了。。。似乎租房合同快到期了。。要不再换个地方住住。&lt;/p&gt;
+&lt;h2 id=&#34;周二&#34;&gt;周二&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;干活好累。有点做不出来了。。。。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;好奇怪猪肉铺吃多了。拉的shi都不一样了。。。。&lt;/p&gt;
+&lt;p&gt;水果似乎都是建议买母不买公。。。。&lt;/p&gt;
+&lt;h2 id=&#34;周三&#34;&gt;周三&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;苦呀西 不甘心。&lt;/p&gt;
+&lt;p&gt;md 最近约减肥 越重。。吐了。。。&lt;/p&gt;
+&lt;p&gt;无意间看到 b站普通人的投稿。。。。推荐之下。是很多人普通的话语与人生。。哎。短短两三次投稿就是别人的两三年。&lt;/p&gt;
+&lt;p&gt;终于勉强 6分配保持1h了。。。还是心率太高。但是体感问题不大。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周四&#34;&gt;周四&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;有点知道什么是cdma了。。。似乎1 2 4 通道分别对应不同的wan lan 方向。如果是cdma2 有drop 那就是可能堵掉了。。。把eth0.1-eth0.4 down 之后就不会断流了。。。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;有点会跑步了。。。似乎是压着核心跑步就可以。&lt;/p&gt;
+&lt;p&gt;今天居然有点岔气。。。肺活量太差了。。。&lt;/p&gt;
+&lt;p&gt;苍之彼方 似乎很有意思。。。。注视天空 答案就在那里。。。。&lt;/p&gt;
+&lt;h2 id=&#34;周五&#34;&gt;周五&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;周六&#34;&gt;周六&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;md 晚上 十点钟还有电动车逆行。差点撞死我了。。。看着我就直接冲我撞过来。。。简直离谱。。。&lt;/p&gt;
+&lt;p&gt;脸上刷酸第二天莫名的舒服。。&lt;/p&gt;
+&lt;p&gt;终于弄完自动订阅追番了。。。好爽。。。前人种树后人乘凉。。。。。&lt;/p&gt;
+&lt;h2 id=&#34;周日&#34;&gt;周日&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今天有个马拉松。好壮观。&lt;/p&gt;
+&lt;p&gt;久违的大太阳。骑了一圈20km 舒服。&lt;/p&gt;
+&lt;p&gt;去医院打算测一下平板测试的。但是医生问了一下没有心痛之类的感觉 建议我不用测。心率高是正常的。。。感觉还是需要抽时间工作日去测一下 比较好。。。&lt;/p&gt;
+&lt;p&gt;过地铁安检的时候傻叉了。。。别人让我拿充电宝。我把纸巾拿出来了。。。md在想别的事情。。。。&lt;/p&gt;
+&lt;p&gt;去年的骑行服 今年穿 有点大了。&lt;/p&gt;
+&lt;p&gt;今天才知道2015年的干物女是什么意思。。。。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/categories/2025%E6%97%A5%E5%B8%B8/" term="2025日常" label="2025日常" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://niantoudeyisi.github.io/tags/2025%E6%97%A5%E5%B8%B8/" term="2025日常" label="2025日常" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">20250223_最近的日常</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2025/02/20250223_%E6%9C%80%E8%BF%91%E7%9A%84%E6%97%A5%E5%B8%B8/" />
@@ -607,7 +692,7 @@
             <title type="text">2025_有趣的网站</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2025/2025_%E6%9C%89%E8%B6%A3%E7%9A%84%E7%BD%91%E7%AB%99/" />
             <id>https://niantoudeyisi.github.io/posts/2025/2025_%E6%9C%89%E8%B6%A3%E7%9A%84%E7%BD%91%E7%AB%99/</id>
-            <updated>2025-02-16T00:10:28&#43;08:00</updated>
+            <updated>2025-03-02T21:01:35&#43;08:00</updated>
             <published>2025-01-05T23:32:00&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -744,7 +829,7 @@
             <title type="text">2025_有趣的歌</title>
             <link rel="alternate" type="text/html" href="https://niantoudeyisi.github.io/posts/2025/2025_%E6%9C%89%E8%B6%A3%E7%9A%84%E6%AD%8C/" />
             <id>https://niantoudeyisi.github.io/posts/2025/2025_%E6%9C%89%E8%B6%A3%E7%9A%84%E6%AD%8C/</id>
-            <updated>2025-02-23T20:50:07&#43;08:00</updated>
+            <updated>2025-03-02T21:08:54&#43;08:00</updated>
             <published>2025-01-05T23:31:37&#43;08:00</published>
             <author>
                     <name>汪先雨</name>
@@ -780,6 +865,17 @@
 &lt;ul&gt;
 &lt;li&gt;挺好听的。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;思念又多几分&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;好听。&lt;/li&gt;
+&lt;li&gt;感觉这种 说话 念白。。 。词句之中好有感情。。。太棒了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;精灵别归去
+好听&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </content>
