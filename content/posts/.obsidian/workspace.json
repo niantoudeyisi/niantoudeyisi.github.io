@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/09/20250907_最近的日常.md",
+                "file": "2025/09/20250914_最近的日常.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "20250907_最近的日常"
+              "title": "20250914_最近的日常"
             }
           }
         ]
@@ -155,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -165,8 +166,8 @@
   },
   "active": "2e32c105ee46b083",
   "lastOpenFiles": [
-    "2025/08/20250831_最近的日常.md",
     "2025/09/20250907_最近的日常.md",
+    "2025/08/20250831_最近的日常.md",
     "2025/08/20250824_最近的日常.md",
     "2025/08/20250817_最近的日常.md",
     "2025/2025_有趣的工具.md",
